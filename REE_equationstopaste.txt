@@ -1,7 +1,6 @@
 	equation	log_k	delta_h	gamma	d_w	v_m	millero	activity_water	add_logk	llnl_gamma	co2_llnl_gamma	erm_ddl	no_check	mole_balance	source
 2957	1Eu+3     = Eu+3	0.0	('0.000',)										False		sit.dat
 2966	1Ho+3     = Ho+3	0.0	('0.000',)										False		sit.dat
-2991	1Scn-     = Scn-	0.0	('0.000',)										False		sit.dat
 2993	1Sm+3     = Sm+3	0.0	('0.000',)										False		sit.dat
 3011	1Eu+3     + 0.500H2O     - 1H+     - 0.250O2     = Eu+2	-27.465	('217.611',)										False		sit.dat
 3190	1Ca+2     + 1Eu+3     - 3H+     + 3H2O     = Ca(Eu(OH)3)+2	-26.3											False		sit.dat
@@ -50,7 +49,6 @@
 3417	1Eu+3     + 2F-     = EuF2+	6.55	('21.483',)										False		sit.dat
 3418	1Eu+3     + 3F-     = EuF3	10.6	('-8.343',)										False		sit.dat
 3419	1Eu+3     - 1H+     + 1H4(SiO4)     = EuSiO(OH)3+2	-2.62											False		sit.dat
-3515	1Fe+3     + 1Scn-     = FeScn+2	3.1											False		sit.dat
 3602	1Ho+3     + 1CO3-2     = Ho(CO3)+	8.0	('168.562',)										False		sit.dat
 3603	1Ho+3     + 2CO3-2     = Ho(CO3)2-	13.3											False		sit.dat
 3604	1Ho+3     + 3CO3-2     = Ho(CO3)3-3	14.8											False		sit.dat
@@ -72,10 +70,6 @@
 3620	1Ho+3     + 1F-     = HoF+2	4.33	('25.761',)										False		sit.dat
 3621	1Ho+3     + 2F-     = HoF2+	6.52	('21.110',)										False		sit.dat
 3622	- 1H+     + 1Ho+3     + 1H4(SiO4)     = HoSiO(OH)3+2	-2.62											False		sit.dat
-3688	1Mn+2     + 1Scn-     = Mn(Scn)+	1.4											False		sit.dat
-3776	1Ni+2     + 1Scn-     = Ni(Scn)+	1.81	('-11.800',)										False		sit.dat
-3777	1Ni+2     + 2Scn-     = Ni(Scn)2	2.69	('-21.000',)										False		sit.dat
-3778	1Ni+2     + 3Scn-     = Ni(Scn)3-	3.02	('-29.000',)										False		sit.dat
 4082	1Sm+3     + 1CO3-2     = Sm(CO3)+	7.8	('163.392',)										False		sit.dat
 4083	1Sm+3     + 2CO3-2     = Sm(CO3)2-	12.8											False		sit.dat
 4084	1Sm+3     + 3CO3-2     = Sm(CO3)3-3	14.8											False		sit.dat
