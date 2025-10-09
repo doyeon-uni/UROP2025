@@ -1,3 +1,8 @@
+import sys
+
+#from pandas._config.config import Display
+sys.path.append(r"C:\\Users\Doyeon Myeong\Desktop\\Github\\UROP2025\build_database")
+
 # GUI Database maker
 import tkinter as tk
 import os
