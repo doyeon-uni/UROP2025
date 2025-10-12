@@ -1,0 +1,1726 @@
+(UO2)2(As2O7)(cr)
+(UO2)2(As2O7)     = 2.000UO2+2     + 2.000H+     + 2.000AsO4-3     - 1.000H2O
+(UO2)3(AsO4)2(cr)
+(UO2)3(AsO4)2     = 3.000UO2+2     + 2.000AsO4-3
+(UO2)3(PO4)2(cr)
+(UO2)3(PO4)2     = 3.000UO2+2     - 4.000H+     + 2.000H2(PO4)-
+(UO2)3(PO4)2:4H2O(cr)
+(UO2)3(PO4)2:4H2O     = 3.000UO2+2     - 4.000H+     + 2.000H2(PO4)-     + 4.000H2O
+(UO2)3(PO4)2:6H2O(s)
+(UO2)3(PO4)2:6H2O     = 3.000UO2+2     - 4.000H+     + 2.000H2(PO4)-     + 6.000H2O
+Acanthite
+Ag2S     = 2.000Ag+     - 1.000H+     + 1.000HS-
+Acmite
+NaFeSi2O6     = 1.000Na+     + 1.000Fe+3     - 4.000H+     + 2.000H4(SiO4)     - 2.000H2O
+Afwillite
+Ca3Si2O4(OH)6     = 3.000Ca+2     - 6.000H+     + 2.000H4(SiO4)     + 2.000H2O
+Ag(OH)(s)
+Ag(OH)     = 1.000Ag+     - 1.000H+     + 1.000H2O
+Ag(SeCn)(cr)
+Ag(SeCn)     = 1.000Ag+     + 1.000H+     + 1.000Cn-     + 1.000HSe-     - 1.000H2O     + 0.500O2
+Ag(s)
+Ag     = 1.000Ag+     + 0.500H2O     - 1.000H+     - 0.250O2
+Ag2(CO3)(s)
+Ag2(CO3)     = 2.000Ag+     + 1.000CO3-2
+Ag2(MoO4)(s)
+Ag2(MoO4)     = 2.000Ag+     + 1.000MoO4-2
+Ag2(SO4)(s)
+Ag2(SO4)     = 2.000Ag+     + 1.000SO4-2
+Ag2(SeO3)(s)
+Ag2(SeO3)     = 2.000Ag+     + 1.000SeO3-2
+Ag2(SeO4)(s)
+Ag2(SeO4)     = 2.000Ag+     + 1.000SeO4-2
+Ag2Se(alfa)
+Ag2Se     = 2.000Ag+     - 1.000H+     + 1.000HSe-
+Ag3(PO4)(s)
+Ag3(PO4)     = 3.000Ag+     - 2.000H+     + 1.000H2(PO4)-
+AgBr(s)
+AgBr     = 1.000Ag+     + 1.000Br-
+AgCl(cr)
+AgCl     = 1.000Ag+     + 1.000Cl-
+AgI(s)
+AgI     = 1.000Ag+     + 1.000I-
+Al(PO4)(cr)
+Al(PO4)     = 1.000Al+3     - 2.000H+     + 1.000H2(PO4)-
+Al(PO4):2H2O(s)
+Al(PO4):2H2O     = 1.000Al+3     - 2.000H+     + 1.000H2(PO4)-     + 2.000H2O
+Al(s)
+Al     = 1.000Al+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Al2(OH)(PO4)2(s)
+Al2(OH)(PO4)2     = 2.000Al+3     - 4.000H+     + 2.000H2(PO4)-     + 0.500H2O     + 0.250O2
+Alabandite
+MnS     = 1.000Mn+2     - 1.000H+     + 1.000HS-
+Alamosite
+PbSiO3      = 1.000Pb+2     - 2.000H+     + 1.000H4(SiO4)     - 1.000H2O
+Albite-high
+NaAlSi3O8     = 1.000Na+     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 4.000H2O
+Albite-low
+NaAlSi3O8     = 1.000Na+     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 4.000H2O
+Am(CO3)(OH)(am)
+Am(CO3)(OH)     = - 1.000H+     + 1.000Am+3     + 1.000CO3-2     + 1.000H2O
+Am(CO3)(OH)(cr)
+Am(CO3)(OH)     = - 1.000H+     + 1.000Am+3     + 1.000CO3-2     + 1.000H2O
+Am(CO3)(OH):0.5H2O(cr)
+Am(CO3)(OH):0.5H2O     = - 1.000H+     + 1.000Am+3     + 1.000CO3-2     + 1.500H2O
+Am(CO3)2Na:5H2O(s)
+Am(CO3)2Na:5H2O     = 1.000Na+     + 1.000Am+3     + 2.000CO3-2     + 5.000H2O
+Am(OH)3(am)
+Am(OH)3     = - 3.000H+     + 1.000Am+3     + 3.000H2O
+Am(OH)3(cr)
+Am(OH)3     = - 3.000H+     + 1.000Am+3     + 3.000H2O
+Am(PO4):xH2O(am)
+Am(PO4)     = - 2.000H+     + 1.000Am+3     + 1.000H2(PO4)-
+Am(cr)
+Am     = 1.000Am+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Am2(CO3)3(cr)
+Am2(CO3)3     = 2.000Am+3     + 3.000CO3-2
+Am2O3(cr)
+Am2O3     = - 6.000H+     + 2.000Am+3     + 3.000H2O
+AmBr3(cr)
+AmBr3     = 1.000Am+3     + 3.000Br-
+AmCl3(cr)
+AmCl3     = 1.000Am+3     + 3.000Cl-
+AmCl6Cs2Na(cr)
+AmCl6Cs2Na     = 1.000Na+     + 2.000Cs+     + 1.000Am+3     + 6.000Cl-
+AmF3(cr)
+AmF3     = 1.000Am+3     + 3.000F-
+AmI3(cr)
+AmI3     = 1.000Am+3     + 3.000I-
+AmO2(cr)
+AmO2     = - 3.000H+     + 1.000Am+3     + 1.500H2O     + 0.250O2
+AmO2OH(am)
+AmO2OH     = - 1.000H+     + 1.000AmO2+     + 1.000H2O
+AmOBr(cr)
+AmOBr     = - 2.000H+     + 1.000Am+3     + 1.000Br-     + 1.000H2O
+AmOCl(cr)
+AmOCl     = - 2.000H+     + 1.000Am+3     + 1.000Cl-     + 1.000H2O
+Amesite
+Mg4Al4Si2O10(OH)8     = 4.000Mg+2     + 4.000Al+3     - 20.000H+     + 2.000H4(SiO4)     + 10.000H2O
+Amesite-Fe
+Fe4Al4Si2O10(OH)8     = 4.000Fe+2     + 4.000Al+3     - 20.000H+     + 2.000H4(SiO4)     + 10.000H2O
+Analcime
+Na0.99Al0.99Si2.01O6:H2O     = 0.990Na+     + 0.990Al+3     - 3.960H+     + 2.010H4(SiO4)     - 1.040H2O
+Anapaite
+Ca2Fe(PO4)2:4H2O     = 2.000Ca+2     + 1.000Fe+2     - 4.000H+     + 2.000H2(PO4)-     + 4.000H2O
+Anglesite
+Pb(SO4)     = 1.000Pb+2     + 1.000SO4-2
+Anhydrite
+Ca(SO4)      = 1.000Ca+2     + 1.000SO4-2
+Annite
+KFe3Si3AlO10(OH)2     = 1.000K+     + 3.000Fe+2     + 1.000Al+3     - 10.000H+     + 3.000H4(SiO4)
+Anorthite
+CaAl2Si2O8     = 1.000Ca+2     + 2.000Al+3     - 8.000H+     + 2.000H4(SiO4)
+Antarcticite
+CaCl2:6H2O     = 1.000Ca+2     + 2.000Cl-     + 6.000H2O
+Antigorite
+Mg48Si34O85(OH)62     = 48.000Mg+2     - 96.000H+     + 34.000H4(SiO4)     + 11.000H2O
+Aragonite
+CaCO3      = 1.000Ca+2     + 1.000CO3-2
+Arcanite
+K2SO4      = 2.000K+     + 1.000SO4-2
+Artinite
+Mg2(CO3)(OH)2:3H2O     = 2.000Mg+2     - 2.000H+     + 1.000CO3-2     + 5.000H2O
+As(s)
+As     = 3.000H+     + 1.000AsO4-3     - 1.500H2O     - 1.250O2
+As2O5(s)
+As2O5     = 6.000H+     + 2.000AsO4-3     - 3.000H2O
+B(OH)3(cr)
+B(OH)3     = 1.000H+     + 1.000B(OH)4-     - 1.000H2O
+B(cr)
+B     = 1.000H+     + 1.000B(OH)4-     - 2.500H2O     - 0.750O2
+B2O3(am)
+B2O3     = 2.000H+     + 2.000B(OH)4-     - 5.000H2O
+B2O3(cr)
+B2O3     = 2.000H+     + 2.000B(OH)4-     - 5.000H2O
+Ba(OH)2:8H2O(cr)
+Ba(OH)2:8H2O     = 1.000Ba+2     - 2.000H+     + 10.000H2O
+Ba(SeO3)(s)
+Ba(SeO3)     = 1.000Ba+2     + 1.000SeO3-2
+Ba(SeO4)(cr)
+Ba(SeO4)     = 1.000Ba+2     + 1.000SeO4-2
+Ba(cr)
+Ba     = 1.000Ba+2     + 1.000H2O     - 2.000H+     - 0.500O2
+BaCl2(cr)
+BaCl2     = 1.000Ba+2     + 2.000Cl-
+BaCl2:2H2O(s)
+BaCl2:2H2O     = 1.000Ba+2     + 2.000Cl-     + 2.000H2O
+BaCl2:H2O(s)
+BaCl2:H2O     = 1.000Ba+2     + 2.000Cl-     + 1.000H2O
+BaF2(cr)
+BaF2     = 1.000Ba+2     + 2.000F-
+BaHPO4(s)
+BaHPO4     = 1.000Ba+2     - 1.000H+     + 1.000H2(PO4)-
+BaMoO4(s)
+BaMoO4     = 1.000Ba+2     + 1.000MoO4-2
+BaO(cr)
+BaO     = 1.000Ba+2     - 2.000H+     + 1.000H2O
+BaS(s)
+BaS     = 1.000Ba+2     - 1.000H+     + 1.000HS-
+Barite
+Ba(SO4)     = 1.000Ba+2     + 1.000SO4-2
+Bassanite
+CaSO4:0.5H2O     = 1.000Ca+2     + 1.000SO4-2     + 0.500H2O
+Bassetite
+Fe(UO2)2(PO4)2     = 1.000Fe+2     + 2.000UO2+2     - 4.000H+     + 2.000H2(PO4)-
+Becquerelite(nat)
+Ca(UO2)6O4(OH)6:8H2O     = 1.000Ca+2     + 6.000UO2+2     - 14.000H+     + 18.000H2O
+Becquerelite(syn)
+Ca(UO2)6O4(OH)6:8H2O     = 1.000Ca+2     + 6.000UO2+2     - 14.000H+     + 18.000H2O
+Beidellite-Ca
+Ca0.17Al2.34Si3.66O10(OH)2     = 0.170Ca+2     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Beidellite-K
+K0.34Al2.34Si3.66O10(OH)2     = 0.340K+     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Beidellite-Mg
+Mg0.17Al2.34Si3.66O10(OH)2     = 0.170Mg+2     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Beidellite-Na
+Na0.34Al2.34Si3.66O10(OH)2     = 0.340Na+     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Beidellite_SBld-1
+Ca0.185K0.104(Si3.574Al0.426)(Al1.812Mg0.090Fe0.112)O10(OH)2     = 0.185Ca+2     + 0.090Mg+2     + 0.104K+     + 0.112Fe+3     + 2.238Al+3     - 7.704H+     + 3.574H4(SiO4)     - 2.296H2O
+Beidellite_SBld-1(4.576H2O)
+Ca0.185K0.104Si3.574Al2.238Mg0.090Fe0.112O10(OH)2:4.576H2O     = 0.185Ca+2     + 0.090Mg+2     + 0.104K+     + 0.112Fe+3     + 2.238Al+3     - 7.704H+     + 3.574H4(SiO4)     + 2.280H2O
+Berlinite
+Al(PO4)     = 1.000Al+3     - 2.000H+     + 1.000H2(PO4)-
+Berndtite
+SnS2     = 1.000Sn+4     - 2.000H+     + 2.000HS-
+Berthierine(FeII)
+(Fe2Al)(SiAl)O5(OH)4     = 2.000Al+3     + 1.000H4(SiO4)     + 2.000Fe+2     + 5.000H2O     - 10.000H+
+Berthierine(FeIII)
+(Fe2.34Fe0.33Al0.33)(Si1.34Al0.66)O5(OH)4     = 0.330Fe+3     + 2.340Fe+2     + 0.990Al+3     - 8.640H+     + 1.340H4(SiO4)     + 3.640H2O
+Berthierine_ISGS
+(Si1.332Al0.668)(Al0.976Fe0.182Fe1.44Mg0.157)O5(OH)4     = 0.157Mg+2     + 0.182Fe+3     + 1.644Al+3     + 1.332H4(SiO4)     + 1.440Fe+2     + 3.672H2O     - 8.672H+
+Berthierine_Lorraine
+Fe0.608Fe0.936Mg0.37Al1.052Si1.52O5(OH)4     = 0.370Mg+2     + 0.936Fe+3     + 0.608Fe+2     + 1.052Al+3     - 7.920H+     + 1.520H4(SiO4)     + 2.920H2O
+Bieberite
+CoSO4:7H2O     = 1.000Co+2     + 1.000SO4-2     + 7.000H2O
+Bischofite
+MgCl2:6H2O     = 1.000Mg+2     + 2.000Cl-     + 6.000H2O
+Bloedite
+Na2Mg(SO4)2:4H2O     = 1.000Mg+2     + 2.000Na+     + 2.000SO4-2     + 4.000H2O
+Boehmite
+AlO(OH)     = 1.000Al+3     - 3.000H+     + 2.000H2O
+Brucite
+Mg(OH)2     = 1.000Mg+2     - 2.000H+     + 2.000H2O
+Brushite
+Ca(HPO4):2H2O     = 1.000Ca+2     - 1.000H+     + 1.000H2(PO4)-     + 2.000H2O
+Bunsenite
+NiO      = 1.000Ni+2     - 2.000H+     + 1.000H2O
+Burkeite
+Na6(CO3)(SO4)2     = 6.000Na+     + 1.000CO3-2     + 2.000SO4-2
+C(cr)
+C     = 2.000H+     + 1.000CO3-2     - 1.000H2O     - 1.000O2
+C2SH(alpha)
+Ca2(HSiO4)(OH)     = 2.000Ca+2     - 4.000H+     + 1.000H4(SiO4)     + 1.000H2O
+C3AH6
+Ca3Al2(OH)12     = 3.000Ca+2     + 2.000Al+3     - 12.000H+     + 12.000H2O
+C3FH6
+Ca3Fe2(OH)12     = 3.000Ca+2     + 2.000Fe+3     - 12.000H+     + 12.000H2O
+C4AH13
+Ca4Al2(OH)14:6H2O     = 4.000Ca+2     + 2.000Al+3     - 14.000H+     + 20.000H2O
+C4FH13
+Ca4Fe2(OH)14:6H2O     = 4.000Ca+2     + 2.000Fe+3     - 14.000H+     + 20.000H2O
+CSH0.8
+Ca0.8SiO2.8:1.54H2O     = 0.800Ca+2     - 1.600H+     + 1.000H4(SiO4)     + 0.340H2O
+CSH1.2
+Ca1.2SiO3.2:2.06H2O     = 1.200Ca+2     - 2.400H+     + 1.000H4(SiO4)     + 1.260H2O
+CSH1.6
+Ca1.6SiO3.6:2.58H2O     = 1.600Ca+2     - 3.200H+     + 1.000H4(SiO4)     + 2.180H2O
+Ca(Adipate)(s)
+Ca(Adipate)     = 1.000Ca+2     + 1.000Adipate-2
+Ca(HGlu)2(s)
+Ca(HGlu)2     = 1.000Ca+2     + 2.000HGlu-
+Ca(HIsa)2(cr)
+Ca(HIsa)2     = 1.000Ca+2     + 2.000HIsa-
+Ca(HPO4)(s)
+Ca(HPO4)     = 1.000Ca+2     - 1.000H+     + 1.000H2(PO4)-
+Ca(NO3)2(s)
+Ca(NO3)2     = 1.000Ca+2     + 2.000NO3-
+Ca(Ox):2H2O(s)
+Ca(Ox):2H2O     = 1.000Ca+2     + 1.000Ox-2     + 2.000H2O
+Ca(Ox):3H2O(s)
+Ca(Ox):3H2O     = 1.000Ca+2     + 1.000Ox-2     + 3.000H2O
+Ca(Ox):H2O(s)
+Ca(Ox):H2O     = 1.000Ca+2     + 1.000Ox-2     + 1.000H2O
+Ca(SO3)(s)
+Ca(SO3)     = 1.000Ca+2     + 1.000SO3-2
+Ca(SeO3):H2O(s)
+Ca(SeO3):H2O     = 1.000Ca+2     + 1.000SeO3-2     + 1.000H2O
+Ca(SeO4):2H2O(s)
+Ca(SeO4):2H2O     = 1.000Ca+2     + 1.000SeO4-2     + 2.000H2O
+Ca(s)
+Ca     = 1.000Ca+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Ca2(Pyrophos)(s)
+Ca2(Pyrophos)     = 2.000Ca+2     + 1.000Pyrophos-4
+Ca2Cl2(OH)2:H2O(s)
+Ca2Cl2(OH)2:H2O     = 2.000Ca+2     - 2.000H+     + 2.000Cl-     + 3.000H2O
+Ca2Fe2O5(s)
+Ca2Fe2O5     = 2.000Ca+2     + 2.000Fe+3     - 10.000H+     + 5.000H2O
+Ca2ZrSi3O12(cr)
+Ca2ZrSi3O12     = 2.000Ca+2     - 8.000H+     + 3.000H4(SiO4)     + 1.000Zr+4     - 2.000H2O     + 1.000O2
+Ca3(AsO4)2:xH2O
+Ca3(AsO4)2     = 3.000Ca+2     + 2.000AsO4-3
+Ca3(Cit)2:4H2O(s)
+Ca3(Cit)2:4H2O     = 3.000Ca+2     + 2.000Cit-3     + 4.000H2O
+Ca3(PO4)2(alfa)
+Ca3(PO4)2     = 3.000Ca+2     - 4.000H+     + 2.000H2(PO4)-
+Ca3B2O6(s)
+Ca3B2O6     = 3.000Ca+2     - 4.000H+     + 2.000B(OH)4-     - 2.000H2O
+Ca3ZrSi2O9(cr)
+Ca3ZrSi2O9     = 3.000Ca+2     - 10.000H+     + 2.000H4(SiO4)     + 1.000Zr+4     + 1.000H2O
+Ca4Al2O6(CrO4):15H2O(s)
+Ca4Al2O6(CrO4):15H2O     = 4.000Ca+2     + 2.000Al+3     - 12.000H+     + 1.000CrO4-2     + 21.000H2O
+Ca4Cl2(OH)6:13H2O(s)
+Ca4Cl2(OH)6:13H2O     = 4.000Ca+2     - 6.000H+     + 2.000Cl-     + 19.000H2O
+Ca4H(PO4)3:2.5H2O(s)
+Ca4H(PO4)3:2.5H2O     = 4.000Ca+2     - 5.000H+     + 3.000H2(PO4)-     + 2.500H2O
+Ca6(Al(OH)6)2(CrO4)3:26H2O(s)
+Ca6(Al(OH)6)2(CrO4)3:26H2O     = 6.000Ca+2     + 2.000Al+3     - 12.000H+     + 3.000CrO4-2     + 38.000H2O
+CaB2O4(s)
+CaB2O4     = 1.000Ca+2     + 2.000B(OH)4-     - 4.000H2O
+CaB4O7(s)
+CaB4O7     = 1.000Ca+2     + 2.000H+     + 4.000B(OH)4-     - 9.000H2O
+CaCO3:H2O(s)
+CaCO3:H2O     = 1.000Ca+2     + 1.000CO3-2     + 1.000H2O
+CaCl2:2H2O(cr)
+CaCl2:2H2O     = 1.000Ca+2     + 2.000Cl-     + 2.000H2O
+CaCl2:4H2O(cr)
+CaCl2:4H2O     = 1.000Ca+2     + 2.000Cl-     + 4.000H2O
+CaCl2:H2O(s)
+CaCl2:H2O     = 1.000Ca+2     + 2.000Cl-     + 1.000H2O
+CaCrO4(s)
+CaCrO4     = 1.000Ca+2     + 1.000CrO4-2
+CaF2:6H2O(s)
+CaF2:6H2O     = 1.000Ca+2     + 2.000F-     + 6.000H2O
+CaFe2O4(s)
+CaFe2O4     = 1.000Ca+2     + 2.000Fe+3     - 8.000H+     + 4.000H2O
+CaI2(s)
+CaI2     = 1.000Ca+2     + 2.000I-
+CaMg3(CO3)4(s)
+CaMg3(CO3)4     = 1.000Ca+2     + 3.000Mg+2     + 4.000CO3-2
+CaMoO4(s)
+CaMoO4     = 1.000Ca+2     + 1.000MoO4-2
+CaO(cr)
+CaO     = 1.000Ca+2     - 2.000H+     + 1.000H2O
+CaSn(OH)6(s)
+CaSn(OH)6     = 1.000Ca+2     + 1.000Sn+4     - 6.000H+     + 6.000H2O
+CaU2O7:3H2O(cr)
+CaU2O7:3H2O     = 1.000Ca+2     + 2.000UO2+2     - 6.000H+     + 6.000H2O
+Cadmoselite
+CdSe     = 1.000Cd+2     - 1.000H+     + 1.000HSe-
+Calcite
+CaCO3      = 1.000Ca+2     + 1.000CO3-2
+Carnallite
+KMgCl3:6H2O     = 1.000Mg+2     + 1.000K+     + 3.000Cl-     + 6.000H2O
+Cassiterite
+SnO2     = 1.000Sn+4     - 4.000H+     + 2.000H2O
+Cattierite
+CoS2     = 1.000Co+2     + 2.000HS-     - 1.000H2O     + 0.500O2
+Cd(CO3)(s)
+Cd(CO3)     = 1.000Cd+2     + 1.000CO3-2
+Cd(OH)2(s)
+Cd(OH)2     = 1.000Cd+2     - 2.000H+     + 2.000H2O
+Cd(SO4)(cr)
+Cd(SO4)     = 1.000Cd+2     + 1.000SO4-2
+Cd(SO4):2.67H2O(cr)
+Cd(SO4):2.67H2O     = 1.000Cd+2     + 1.000SO4-2     + 2.670H2O
+Cd(SeCn)2(cr)
+Cd(SeCn)2     = 1.000Cd+2     + 2.000H+     + 2.000Cn-     + 2.000HSe-     - 2.000H2O     + 1.000O2
+Cd(cr)
+Cd     = 1.000Cd+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Cd3(AsO4)2(s)
+Cd3(AsO4)2     = 3.000Cd+2     + 2.000AsO4-3
+Cd3(PO4)2(s)
+Cd3(PO4)2     = 3.000Cd+2     - 4.000H+     + 2.000H2(PO4)-
+Cd5(PO4)3Cl(cr)
+Cd5(PO4)3Cl     = 5.000Cd+2     - 6.000H+     + 1.000Cl-     + 3.000H2(PO4)-
+Cd5(PO4)3OH(cr)
+Cd5(PO4)3OH     = 5.000Cd+2     - 7.000H+     + 3.000H2(PO4)-     + 1.000H2O
+CdB2O4(s)
+CdB2O4     = 1.000Cd+2     + 2.000B(OH)4-     - 4.000H2O
+CdCl2(s)
+CdCl2     = 1.000Cd+2     + 2.000Cl-
+CdCl2:2.5H2O(s)
+CdCl2:2.5H2O     = 1.000Cd+2     + 2.000Cl-     + 2.500H2O
+CdCl2:H2O(cr)
+CdCl2:H2O     = 1.000Cd+2     + 2.000Cl-     + 1.000H2O
+CdO(s)
+CdO     = 1.000Cd+2     - 2.000H+     + 1.000H2O
+CdS(s)
+CdS     = 1.000Cd+2     - 1.000H+     + 1.000HS-
+CdSiO3(cr)
+CdSiO3     = 1.000Cd+2     - 2.000H+     + 1.000H4(SiO4)     - 1.000H2O
+Celadonite-Fe
+KFeAlSi4O10(OH)2     = 1.000K+     + 1.000Fe+2     + 1.000Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Celadonite-Mg
+KMgAlSi4O10(OH)2     = 1.000Mg+2     + 1.000K+     + 1.000Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Celestite
+Sr(SO4)     = 1.000Sr+2     + 1.000SO4-2
+Cerussite
+Pb(CO3)     = 1.000Pb+2     + 1.000CO3-2
+Chabazite
+CaAl2Si4O12:6H2O     = 1.000Ca+2     + 2.000Al+3     - 8.000H+     + 4.000H4(SiO4)     + 2.000H2O
+Chamosite
+Fe5Al2Si3O10(OH)8     = 5.000Fe+2     + 2.000Al+3     - 16.000H+     + 3.000H4(SiO4)     + 6.000H2O
+Chloroapatite
+Ca5Cl(PO4)3      = 5.000Ca+2     - 6.000H+     + 1.000Cl-     + 3.000H2(PO4)-
+Chromite
+FeCr2O4     = 1.000Fe+2     - 8.000H+     + 2.000Cr+3     + 4.000H2O
+Clarkeite
+Na(UO2)O(OH)     = 1.000Na+     + 1.000UO2+2     - 3.000H+     + 2.000H2O
+Claudetite
+As2O3     = - 3.000H2O     + 2.000H3(AsO3)
+Clausthalite
+PbSe     = 1.000Pb+2     - 1.000H+     + 1.000HSe-
+Clinochlore
+Mg5Al2Si3O10(OH)8     = 5.000Mg+2     + 2.000Al+3     - 16.000H+     + 3.000H4(SiO4)     + 6.000H2O
+Clinoptilolite_Ca
+Ca0.55(Si4.9Al1.1)O12:3.9H2O     = 0.550Ca+2     + 1.100Al+3     - 4.400H+     + 4.900H4(SiO4)     - 3.700H2O
+Clinoptilolite_K
+K1.1(Si4.9Al1.1)O12:2.7H2O     = 1.100K+     + 1.100Al+3     - 4.400H+     + 4.900H4(SiO4)     - 4.900H2O
+Clinoptilolite_Na
+Na1.1(Si4.9Al1.1)O12:3.5H2O     = 1.100Na+     + 1.100Al+3     - 4.400H+     + 4.900H4(SiO4)     - 4.100H2O
+Cm(CO3)(OH)(cr)
+Cm(CO3)(OH)     = - 1.000H+     + 1.000CO3-2     + 1.000Cm+3     + 1.000H2O
+Cm(CO3)(OH):0.5H2O(s)
+Cm(CO3)(OH):0.5H2O     = - 1.000H+     + 1.000CO3-2     + 1.000Cm+3     + 1.500H2O
+Cm(OH)3(am)
+Cm(OH)3     = - 3.000H+     + 1.000Cm+3     + 3.000H2O
+Cm(OH)3(cr)
+Cm(OH)3     = - 3.000H+     + 1.000Cm+3     + 3.000H2O
+Cm(PO4):xH2O(s)
+Cm(PO4)     = - 2.000H+     + 1.000H2(PO4)-     + 1.000Cm+3
+Cm(cr)
+Cm     = 1.000Cm+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Cm2(CO3)3(am)
+Cm2(CO3)3     = 3.000CO3-2     + 2.000Cm+3
+Cm2O3(cr)
+Cm2O3     = - 6.000H+     + 2.000Cm+3     + 3.000H2O
+CmCl3(cr)
+CmCl3     = 3.000Cl-     + 1.000Cm+3
+CmF3(cr)
+CmF3     = 3.000F-     + 1.000Cm+3
+CmOCl(cr)
+CmOCl     = - 2.000H+     + 1.000Cl-     + 1.000Cm+3     + 1.000H2O
+CmOHCO3(am)
+CmOHCO3     = - 1.000H+     + 1.000CO3-2     + 1.000Cm+3     + 1.000H2O
+Co(FeO2)2(alpha)
+Co(FeO2)2     = 2.000Fe+3     + 1.000Co+2     - 8.000H+     + 4.000H2O
+Co(OH)2(s,blue)
+Co(OH)2     = 1.000Co+2     - 2.000H+     + 2.000H2O
+Co(OH)2(s,rose1)
+Co(OH)2     = 1.000Co+2     - 2.000H+     + 2.000H2O
+Co(OH)2(s,rose2)
+Co(OH)2     = 1.000Co+2     - 2.000H+     + 2.000H2O
+Co(SeO3):2H2O(s)
+Co(SeO3):2H2O     = 1.000Co+2     + 1.000SeO3-2     + 2.000H2O
+Co(SeO4):6H2O(s)
+Co(SeO4):6H2O     = 1.000Co+2     + 1.000SeO4-2     + 6.000H2O
+Co(cr)
+Co     = 1.000Co+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Co0.84Se(cr)
+Co0.84Se     = 0.840Co+2     - 0.680H+     + 1.000HSe-     - 0.160H2O     + 0.080O2
+Co2SiO4(s)
+Co2SiO4     = 2.000Co+2     - 4.000H+     + 1.000H4(SiO4)
+Co3(AsO4)2(s)
+Co3(AsO4)2     = 3.000Co+2     + 2.000AsO4-3
+Co3(PO4)2(s)
+Co3(PO4)2     = 3.000Co+2     - 4.000H+     + 2.000H2(PO4)-
+Co3O4(s)
+Co3O4     = 3.000Co+2     - 6.000H+     + 3.000H2O     + 0.500O2
+CoCl2(s)
+CoCl2     = 1.000Co+2     + 2.000Cl-
+CoCl2:6H2O(s)
+CoCl2:6H2O     = 1.000Co+2     + 2.000Cl-     + 6.000H2O
+CoF2(s)
+CoF2     = 1.000Co+2     + 2.000F-
+CoHPO4(s)
+CoHPO4     = 1.000Co+2     - 1.000H+     + 1.000H2(PO4)-
+CoO(s)
+CoO     = 1.000Co+2     - 2.000H+     + 1.000H2O
+CoS(alpha)
+CoS     = 1.000Co+2     - 1.000H+     + 1.000HS-
+CoS(beta)
+CoS     = 1.000Co+2     - 1.000H+     + 1.000HS-
+CoSO4(s)
+CoSO4     = 1.000Co+2     + 1.000SO4-2
+CoSO4:6H2O(s)
+CoSO4:6H2O     = 1.000Co+2     + 1.000SO4-2     + 6.000H2O
+CoSO4:H2O(s)
+CoSO4:H2O     = 1.000Co+2     + 1.000SO4-2     + 1.000H2O
+CoSe2(cr)
+CoSe2     = 1.000Co+2     + 2.000HSe-     - 1.000H2O     + 0.500O2
+Coffinite
+U(SiO4)     = 1.000U+4     - 4.000H+     + 1.000H4(SiO4)
+Coffinite(am)
+U(SiO4)      = 1.000U+4     - 4.000H+     + 1.000H4(SiO4)
+Compreignacite
+K2(UO2)6O4(OH)6:7H2O     = 2.000K+     + 6.000UO2+2     - 14.000H+     + 17.000H2O
+Corundum
+Al2O3     = 2.000Al+3     - 6.000H+     + 3.000H2O
+Cotunnite
+PbCl2     = 1.000Pb+2     + 2.000Cl-
+Cr(OH)2(H2PO4)(s)
+Cr(OH)2(H2PO4)     = 1.000H2(PO4)-     + 1.000Cr+3     + 2.000H2O     - 2.000H+
+Cr(OH)2(cr)
+Cr(OH)2     = - 2.000H+     + 1.000Cr+2     + 2.000H2O
+Cr(OH)3(cr)
+Cr(OH)3     = - 3.000H+     + 1.000Cr+3     + 3.000H2O
+Cr(s)
+Cr     = 2.000H+     + 1.000CrO4-2     - 1.000H2O     - 1.500O2
+Cr2(SO4)3(s)
+Cr2(SO4)3     = 3.000SO4-2     + 2.000Cr+3
+Cr2O3(cr)
+Cr2O3     = - 6.000H+     + 2.000Cr+3     + 3.000H2O
+Cr2S3(s)
+Cr2S3     = - 3.000H+     + 3.000HS-     + 2.000Cr+3
+CrCl2(cr)
+CrCl2     = 2.000Cl-     + 1.000Cr+2
+CrCl3(cr)
+CrCl3     = 3.000Cl-     + 1.000Cr+3
+CrO2(cr)
+CrO2     = 2.000H+     + 1.000CrO4-2     - 1.000H2O     - 0.500O2
+CrO3(cr)
+CrO3     = 2.000H+     + 1.000CrO4-2     - 1.000H2O
+CrPO4(green)
+CrPO4     = - 2.000H+     + 1.000H2(PO4)-     + 1.000Cr+3
+CrPO4(purple)
+CrPO4     = - 2.000H+     + 1.000H2(PO4)-     + 1.000Cr+3
+CrS(s)
+CrS     = - 1.000H+     + 1.000HS-     + 1.000Cr+2
+Cristobalite
+SiO2     = 1.000H4(SiO4)     - 2.000H2O
+Crocoite
+PbCrO4     = 1.000Pb+2     + 1.000CrO4-2
+Cronstedtite-Th
+Fe4SiO5(OH)4     = 2.000Fe+3     + 2.000Fe+2     - 10.000H+     + 1.000H4(SiO4)     + 5.000H2O
+Cs(s)
+Cs     = 1.000Cs+     + 0.500H2O     - 1.000H+     - 0.250O2
+Cs2(CO3)(s)
+Cs2(CO3)     = 2.000Cs+     + 1.000CO3-2
+Cs2(SO4)(s)
+Cs2(SO4)     = 2.000Cs+     + 1.000SO4-2
+Cs2MoO4(s)
+Cs2MoO4     = 2.000Cs+     + 1.000MoO4-2
+Cs2O(s)
+Cs2O     = 2.000Cs+     - 2.000H+     + 1.000H2O
+CsBr(cr)
+CsBr     = 1.000Cs+     + 1.000Br-
+CsCl(cr)
+CsCl      = 1.000Cs+     + 1.000Cl-
+Cu(SeO3):2H2O(s)
+Cu(SeO3):2H2O     = 1.000Cu+2     + 1.000SeO3-2     + 2.000H2O
+Cu(SeO4):5H2O(s)
+Cu(SeO4):5H2O     = 1.000Cu+2     + 1.000SeO4-2     + 5.000H2O
+Cu(cr)
+Cu     = 1.000Cu+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Cu2Se(alfa)
+Cu2Se     = 2.000Cu+     - 1.000H+     + 1.000HSe-
+Cu3(AsO4)2(s)
+Cu3(AsO4)2     = 3.000Cu+2     + 2.000AsO4-3
+CuSe(alfa)
+CuSe     = 1.000Cu+2     - 1.000H+     + 1.000HSe-
+CuSe(beta)
+CuSe     = 1.000Cu+2     - 1.000H+     + 1.000HSe-
+Dawsonite
+NaAl(CO3)(OH)2     = 1.000Na+     + 1.000Al+3     - 2.000H+     + 1.000CO3-2     + 2.000H2O
+Diaspore
+AlO(OH)     = 1.000Al+3     - 3.000H+     + 2.000H2O
+Dickite
+Al2Si2O5(OH)4     = 2.000Al+3     - 6.000H+     + 2.000H4(SiO4)     + 1.000H2O
+Dolomite
+CaMg(CO3)2      = 1.000Ca+2     + 1.000Mg+2     + 2.000CO3-2
+Downeyite
+SeO2     = 2.000H+     + 1.000SeO3-2     - 1.000H2O
+Eastonite
+KMg2Al3Si2O10(OH)2     = 2.000Mg+2     + 1.000K+     + 3.000Al+3     - 14.000H+     + 2.000H4(SiO4)     + 4.000H2O
+Epsonite
+Mg(SO4):7H2O      = 1.000Mg+2     + 1.000SO4-2     + 7.000H2O
+Ettringite
+Ca6Al2(SO4)3(OH)12:26H2O     = 6.000Ca+2     + 2.000Al+3     - 12.000H+     + 3.000SO4-2     + 38.000H2O
+Ettringite-Fe
+Ca6Fe2(SO4)3(OH)12:26H2O     = 6.000Ca+2     + 2.000Fe+3     - 12.000H+     + 3.000SO4-2     + 38.000H2O
+Eu(CO3)(OH)(cr)
+Eu(CO3)(OH)     = 1.000Eu+3     - 1.000H+     + 1.000CO3-2     + 1.000H2O
+Eu(CO3)(OH):0.5H2O(s)
+Eu(CO3)(OH):0.5H2O     = 1.000Eu+3     - 1.000H+     + 1.000CO3-2     + 1.500H2O
+Eu(NO3)3:6H2O(s)
+Eu(NO3)3:6H2O     = 1.000Eu+3     + 3.000NO3-     + 6.000H2O
+Eu(OH)3(am)
+Eu(OH)3     = 1.000Eu+3     - 3.000H+     + 3.000H2O
+Eu(OH)3(cr)
+Eu(OH)3     = 1.000Eu+3     - 3.000H+     + 3.000H2O
+Eu(PO4):xH2O(s)
+Eu(PO4)     = 1.000Eu+3     - 2.000H+     + 1.000H2(PO4)-
+Eu(cr)
+Eu     = 1.000Eu+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Eu2(CO3)3:3H2O(s)
+Eu2(CO3)3:3H2O     = 2.000Eu+3     + 3.000CO3-2     + 3.000H2O
+Eu2(SO4)3:8H2O(s)
+Eu2(SO4)3:8H2O     = 2.000Eu+3     + 3.000SO4-2     + 8.000H2O
+Eu2O3(cubic)
+Eu2O3     = 2.000Eu+3     - 6.000H+     + 3.000H2O
+Eu2O3(monoclinic)
+Eu2O3     = 2.000Eu+3     - 6.000H+     + 3.000H2O
+Eu3O4(s)
+Eu3O4     = 3.000Eu+3     - 9.000H+     + 4.500H2O     - 0.250O2
+EuBr3(s)
+EuBr3     = 1.000Eu+3     + 3.000Br-
+EuCl(OH)2(s)
+EuCl(OH)2     = 1.000Eu+3     - 2.000H+     + 1.000Cl-     + 2.000H2O
+EuCl2(s)
+EuCl2     = 1.000Eu+3     + 2.000Cl-     + 0.500H2O     - 1.000H+     - 0.250O2
+EuCl3(s)
+EuCl3     = 1.000Eu+3     + 3.000Cl-
+EuCl3:6H2O(s)
+EuCl3:6H2O     = 1.000Eu+3     + 3.000Cl-     + 6.000H2O
+EuF3(s)
+EuF3     = 1.000Eu+3     + 3.000F-
+EuF3:0.5H2O(s)
+EuF3:0.5H2O     = 1.000Eu+3     + 3.000F-     + 0.500H2O
+EuO(s)
+EuO     = 1.000Eu+3     - 3.000H+     + 1.500H2O     - 0.250O2
+EuOCl(s)
+EuOCl     = 1.000Eu+3     - 2.000H+     + 1.000Cl-     + 1.000H2O
+EuPO4:H2O(cr)
+EuPO4:H2O     = 1.000Eu+3     - 2.000H+     + 1.000H2(PO4)-     + 1.000H2O
+EuSO4(s)
+EuSO4     = 1.000Eu+3     + 1.000SO4-2     + 0.500H2O     - 1.000H+     - 0.250O2
+Fayalite
+Fe2(SiO4)      = 2.000Fe+2     - 4.000H+     + 1.000H4(SiO4)
+Fe(OH)2(cr)
+Fe(OH)2     = 1.000Fe+2     - 2.000H+     + 2.000H2O
+Fe(PO4)(cr)
+Fe(PO4)     = 1.000Fe+3     - 2.000H+     + 1.000H2(PO4)-
+Fe(s)
+Fe     = 1.000Fe+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Fe1.04Se(beta)
+Fe1.04Se     = 1.040Fe+2     - 1.080H+     + 1.000HSe-     + 0.040H2O     - 0.020O2
+Fe2(SeO3)3:6H2O(s)
+Fe2(SeO3)3:6H2O     = 2.000Fe+3     + 3.000SeO3-2     + 6.000H2O
+Fe3Se4(gamma)
+Fe3Se4     = 3.000Fe+2     - 2.000H+     + 4.000HSe-     - 1.000H2O     + 0.500O2
+Fe5(OH)(PO4)3(s)
+Fe5(OH)(PO4)3     = 5.000Fe+2     - 7.000H+     + 3.000H2(PO4)-     + 1.000H2O
+Fe7Se8(alfa)
+Fe7Se8     = 7.000Fe+2     - 6.000H+     + 8.000HSe-     - 1.000H2O     + 0.500O2
+FeAl2O4(s)
+FeAl2O4     = 1.000Fe+2     + 2.000Al+3     - 8.000H+     + 4.000H2O
+FeMoO4(s)
+FeMoO4     = 1.000Fe+2     + 1.000MoO4-2
+FeO(s)
+FeO     = 1.000Fe+2     - 2.000H+     + 1.000H2O
+FeS(am)
+FeS     = 1.000Fe+2     - 1.000H+     + 1.000HS-
+Ferrihydrite(am)
+Fe(OH)3     = 1.000Fe+3     - 3.000H+     + 3.000H2O
+Ferroselite
+FeSe2     = 1.000Fe+2     + 2.000HSe-     - 1.000H2O     + 0.500O2
+Ferrosilite
+FeSiO3     = 1.000Fe+2     - 2.000H+     + 1.000H4(SiO4)     - 1.000H2O
+Ferryhydrite
+Fe(OH)3     = 1.000Fe+3     - 3.000H+     + 3.000H2O
+Fluorapatite
+Ca5F(PO4)3     = 5.000Ca+2     - 6.000H+     + 1.000F-     + 3.000H2(PO4)-
+Fluorite
+CaF2     = 1.000Ca+2     + 2.000F-
+Foshagite
+Ca4Si3O9(OH)2:0.5H2O     = 4.000Ca+2     - 8.000H+     + 3.000H4(SiO4)     - 0.500H2O
+Friedel-salt
+Ca4Al2(OH)12Cl2:4H2O      = 4.000Ca+2     + 2.000Al+3     - 12.000H+     + 2.000Cl-     + 16.000H2O
+Galena
+PbS     = 1.000Pb+2     - 1.000H+     + 1.000HS-
+Gaylussite
+CaNa2(CO3)2:5H2O     = 1.000Ca+2     + 2.000Na+     + 2.000CO3-2     + 5.000H2O
+Gibbsite
+Al(OH)3     = 1.000Al+3     - 3.000H+     + 3.000H2O
+Gismondine
+Ca2Al4Si4O16:9H2O     = 2.000Ca+2     + 4.000Al+3     - 16.000H+     + 4.000H4(SiO4)     + 9.000H2O
+Glaserite
+Na2K6(SO4)4     = 6.000K+     + 2.000Na+     + 4.000SO4-2
+Glauberite
+Na2Ca(SO4)2     = 1.000Ca+2     + 2.000Na+     + 2.000SO4-2
+Glauconite
+(K0.75Mg0.25Fe1.5Al0.25)(Al0.25Si3.75)O10(OH)2     = 0.250Mg+2     + 0.750K+     + 1.250Fe+3     + 0.250Fe+2     + 0.500Al+3     - 7.000H+     + 3.750H4(SiO4)     - 3.000H2O
+Goethite
+FeOOH     = 1.000Fe+3     - 3.000H+     + 2.000H2O
+Greenalite
+Fe3Si2O5(OH)4     = 3.000Fe+2     - 6.000H+     + 2.000H4(SiO4)     + 1.000H2O
+Gypsum
+CaSO4:2H2O     = 1.000Ca+2     + 1.000SO4-2     + 2.000H2O
+Gyrolite
+Ca2Si3O7.5(OH):2H2O     = 2.000Ca+2     - 4.000H+     + 3.000H4(SiO4)     - 1.500H2O
+H2MoO4(s)
+H2MoO4     = 2.000H+     + 1.000MoO4-2
+H3Cit:H2O(cr)
+H3Cit:H2O     = 3.000H+     + 1.000Cit-3     + 1.000H2O
+H4Edta(cr)
+H4Edta     = 4.000H+     + 1.000Edta-4
+HBeidellite-Ca
+Ca0.17Al2.34Si3.66O10(OH)2:4.45H2O     = 0.170Ca+2     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.810H2O
+HBeidellite-K
+K0.34Al2.34Si3.66O10(OH)2:1.96H2O     = 0.340K+     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 0.680H2O
+HBeidellite-Mg
+Mg0.17Al2.34Si3.66O10(OH)2:4.61H2O     = 0.170Mg+2     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.970H2O
+HBeidellite-Na
+Na0.34Al2.34Si3.66O10(OH)2:3.84H2O     = 0.340Na+     + 2.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.200H2O
+HMontmorillonite-BCCa
+Ca0.17Mg0.34Al1.66Si4O10(OH)2:4.45H2O     = 0.170Ca+2     + 0.340Mg+2     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     + 0.450H2O
+HMontmorillonite-BCK
+K0.34Mg0.34Al1.66Si4O10(OH)2:1.96H2O     = 0.340Mg+2     + 0.340K+     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     - 2.040H2O
+HMontmorillonite-BCMg
+Mg0.17Mg0.34Al1.66Si4O10(OH)2:4.61H2O     = 0.510Mg+2     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     + 0.610H2O
+HMontmorillonite-BCNa
+Na0.34Mg0.34Al1.66Si4O10(OH)2:3.84H2O     = 0.340Mg+2     + 0.340Na+     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     - 0.160H2O
+HMontmorillonite-HCCa
+Ca0.3Mg0.6Al1.4Si4O10(OH)2:4.45H2O     = 0.300Ca+2     + 0.600Mg+2     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     + 0.450H2O
+HMontmorillonite-HCK
+K0.6Mg0.6Al1.4Si4O10(OH)2:1.96H2O     = 0.600Mg+2     + 0.600K+     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     - 2.040H2O
+HMontmorillonite-HCMg
+Mg0.3Mg0.6Al1.4Si4O10(OH)2:4.61H2O     = 0.900Mg+2     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     + 0.610H2O
+HMontmorillonite-HCNa
+Na0.6Mg0.6Al1.4Si4O10(OH)2:3.84H2O     = 0.600Mg+2     + 0.600Na+     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     - 0.160H2O
+HNontronite-Ca
+Ca0.17Fe1.67Al0.67Si3.66O10(OH)2:4.45H2O     = 0.170Ca+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.810H2O
+HNontronite-K
+K0.34Fe1.67Al0.67Si3.66O10(OH)2:1.96H2O     = 0.340K+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 0.680H2O
+HNontronite-Mg
+Mg0.17Fe1.67Al0.67Si3.66O10(OH)2:4.61H2O     = 0.170Mg+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.970H2O
+HNontronite-Na
+Na0.34Fe1.67Al0.67Si3.66O10(OH)2:3.84H2O     = 0.340Na+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.200H2O
+HSaponite-Ca
+Ca0.17Mg3Al0.34Si3.66O10(OH)2:4.45H2O     = 0.170Ca+2     + 3.000Mg+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.810H2O
+HSaponite-FeCa
+Ca0.17Mg2FeAl0.34Si3.66O10(OH)2:4.45H2O     = 0.170Ca+2     + 2.000Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.810H2O
+HSaponite-FeK
+K0.34Mg2FeAl0.34Si3.66O10(OH)2:1.96H2O     = 2.000Mg+2     + 0.340K+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 0.680H2O
+HSaponite-FeMg
+Mg0.17Mg2FeAl0.34Si3.66O10(OH)2:4.61H2O     = 2.170Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.970H2O
+HSaponite-FeNa
+Na0.34Mg2FeAl0.34Si3.66O10(OH)2:3.84H2O     = 2.000Mg+2     + 0.340Na+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.200H2O
+HSaponite-K
+K0.34Mg3Al0.34Si3.66O10(OH)2:1.96H2O     = 3.000Mg+2     + 0.340K+     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 0.680H2O
+HSaponite-Mg
+Mg0.17Mg3Al0.34Si3.66O10(OH)2:4.61H2O     = 3.170Mg+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.970H2O
+HSaponite-Na
+Na0.34Mg3Al0.34Si3.66O10(OH)2:3.84H2O     = 3.000Mg+2     + 0.340Na+     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     + 1.200H2O
+HVermiculite-Ca
+Ca0.43Mg3.00Si3.14Al0.86O10(OH)2:4.45H2O     = 0.430Ca+2     + 3.000Mg+2     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     + 3.890H2O
+HVermiculite-K
+K0.86Mg3.00Si3.14Al0.86O10(OH)2:1.96H2O     = 3.000Mg+2     + 0.860K+     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     + 1.400H2O
+HVermiculite-Mg
+Mg0.43Mg3.00Si3.14Al0.86O10(OH)2:4.61H2O     = 3.430Mg+2     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     + 4.050H2O
+HVermiculite-Na
+Na0.86Mg3.00Si3.14Al0.86O10(OH)2:3.84H2O     = 3.000Mg+2     + 0.860Na+     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     + 3.280H2O
+Halite
+NaCl     = 1.000Na+     + 1.000Cl-
+Halloysite
+Al2Si2O5(OH)4     = 2.000Al+3     - 6.000H+     + 2.000H4(SiO4)     + 1.000H2O
+Hausmannite
+Mn3O4     = 3.000Mn+2     - 6.000H+     + 3.000H2O     + 0.500O2
+Heazlewoodite
+Ni3S2     = 3.000Ni+2     - 4.000H+     + 2.000HS-     + 1.000H2O     - 0.500O2
+Hematite
+Fe2O3     = 2.000Fe+3     - 6.000H+     + 3.000H2O
+Hemicarboaluminate
+Ca6O6:Al4O6:CaCO3:Ca(OH)2:21H2O     = 8.000Ca+2     + 4.000Al+3     - 26.000H+     + 1.000CO3-2     + 35.000H2O
+Herzenbergite
+SnS     = 1.000Sn+2     - 1.000H+     + 1.000HS-
+Heulandite_Ca
+Ca1.07Al2.14Si6.86O18:6.17H2O     = 1.070Ca+2     + 2.140Al+3     - 8.560H+     + 6.860H4(SiO4)     - 3.270H2O
+Heulandite_Na
+Na2.14Al2.14Si6.86O18:6.17H2O     = 2.140Na+     + 2.140Al+3     - 8.560H+     + 6.860H4(SiO4)     - 3.270H2O
+Hexahydrite
+Mg(SO4):6H2O     = 1.000Mg+2     + 1.000SO4-2     + 6.000H2O
+Hf(HPO4)2:H2O(s)
+Hf(HPO4)2:H2O     = - 2.000H+     + 2.000H2(PO4)-     + 1.000Hf+4     + 1.000H2O
+HfO2(am)
+HfO2     = - 4.000H+     + 1.000Hf+4     + 2.000H2O
+HfO2(cr)
+HfO2     = - 4.000H+     + 1.000Hf+4     + 2.000H2O
+Hg2SeO3(s)
+Hg2SeO3     = 1.000SeO3-2     + 1.000Hg2+2
+HgSeO3(s)
+HgSeO3     = 1.000Hg+2     + 1.000SeO3-2
+Hillebrandite
+Ca2SiO3(OH)2:0.17H2O     = 2.000Ca+2     - 4.000H+     + 1.000H4(SiO4)     + 1.170H2O
+Ho(OH)3(am)
+Ho(OH)3     = - 3.000H+     + 1.000Ho+3     + 3.000H2O
+Ho(OH)3(s)
+Ho(OH)3     = - 3.000H+     + 1.000Ho+3     + 3.000H2O
+Ho(PO4):xH2O(s)
+Ho(PO4)     = - 2.000H+     + 1.000Ho+3     + 1.000H2(PO4)-
+Ho(cr)
+Ho     = 1.000Ho+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Ho2(CO3)3(cr)
+Ho2(CO3)3     = 2.000Ho+3     + 3.000CO3-2
+Ho2O3(s)
+Ho2O3     = - 6.000H+     + 2.000Ho+3     + 3.000H2O
+HoCl3:6H2O(s)
+HoCl3:6H2O     = 1.000Ho+3     + 3.000Cl-     + 6.000H2O
+HoF3:0.5H2O(s)
+HoF3:0.5H2O     = 1.000Ho+3     + 3.000F-     + 0.500H2O
+HoPO4:H2O(cr)
+HoPO4:H2O     = - 2.000H+     + 1.000Ho+3     + 1.000H2(PO4)-     + 1.000H2O
+Hydrocerussite
+Pb3(CO3)2(OH)2     = 3.000Pb+2     - 2.000H+     + 2.000CO3-2     + 2.000H2O
+Hydrophilite
+CaCl2     = 1.000Ca+2     + 2.000Cl-
+Hydrotalcite
+Mg4Al2(OH)14:3H2O     = 4.000Mg+2     + 2.000Al+3     - 14.000H+     + 17.000H2O
+Hydrotalcite-CO3
+Mg4Al2(OH)12CO3:2H2O     = 4.000Mg+2     + 2.000Al+3     - 12.000H+     + 1.000CO3-2     + 14.000H2O
+Hydroxyapatite
+Ca5(OH)(PO4)3     = 5.000Ca+2     - 7.000H+     + 3.000H2(PO4)-     + 1.000H2O
+Illite-Al
+K0.85Al2.85Si3.15O10(OH)2     = 0.850K+     + 2.850Al+3     - 9.400H+     + 3.150H4(SiO4)     - 0.600H2O
+Illite-FeII
+K0.85Fe0.25Al2.35Si3.4O10(OH)2     = 0.850K+     + 0.250Fe+2     + 2.350Al+3     - 8.400H+     + 3.400H4(SiO4)     - 1.600H2O
+Illite-Mg
+K0.85Mg0.25Al2.35Si3.4O10(OH)2     = 0.250Mg+2     + 0.850K+     + 2.350Al+3     - 8.400H+     + 3.400H4(SiO4)     - 1.600H2O
+Illite-Smec_ISCz-1(2.996H2O)
+(Na0.134K0.53)(Si3.565Al0.435)(Al1.717Fe0.05Fe0.017Mg0.218)O10(OH)2:2.996H2O     = 0.218Mg+2     + 0.530K+     + 0.134Na+     + 0.050Fe+3     + 0.017Fe+2     + 2.152Al+3     - 7.740H+     + 3.565H4(SiO4)     + 0.736H2O
+Illite/smectiteISCz-1
+(Ca0.092K0.439)(Si3.559Al0.441)(Al1.728Fe0.011Fe0.034Mg0.255)O10(OH)2     = 0.092Ca+2     + 0.255Mg+2     + 0.439K+     + 0.034Fe+3     + 0.011Fe+2     + 2.169Al+3     - 7.764H+     + 3.559H4(SiO4)     - 2.236H2O
+Illite_Imt-2
+(Na0.044K0.762)(Si3.387Al0.613)(Al1.427Fe0.292Fe0.084Mg0.241)O10(OH)2     = 0.241Mg+2     + 0.762K+     + 0.044Na+     + 0.292Fe+3     + 0.084Fe+2     + 2.040Al+3     - 8.452H+     + 3.387H4(SiO4)     - 1.548H2O
+Jaffeite
+Ca6(Si2O7)(OH)6     = 6.000Ca+2     - 12.000H+     + 2.000H4(SiO4)     + 5.000H2O
+Jennite
+Ca9Si6O16(OH)10:6(H2O)     = 9.000Ca+2     - 18.000H+     + 6.000H4(SiO4)     + 8.000H2O
+K(NO3)(s)
+K(NO3)     = 1.000K+     + 1.000NO3-
+K(OH)(s)
+K(OH)     = 1.000K+     - 1.000H+     + 1.000H2O
+K(TcO4)(s)
+K(TcO4)     = 1.000K+     + 1.000TcO4-
+K(cr)
+K     = 1.000K+     + 0.500H2O     - 1.000H+     - 0.250O2
+K-carbonate
+K2CO3:1.5H2O     = 2.000K+     + 1.000CO3-2     + 1.500H2O
+K-trona
+K2NaH(CO3)2:2H2O     = 2.000K+     + 1.000Na+     + 1.000H+     + 2.000CO3-2     + 2.000H2O
+K2CO3(cr)
+K2CO3     = 2.000K+     + 1.000CO3-2
+K2O(s)
+K2O     = 2.000K+     - 2.000H+     + 1.000H2O
+K4NpO2(CO3)3(s)
+K4NpO2(CO3)3     = 4.000K+     + 1.000NpO2+2     + 3.000CO3-2
+KAl(SO4)2(s)
+KAl(SO4)2     = 1.000K+     + 1.000Al+3     + 2.000SO4-2
+KAl(SO4)2:12H2O(s)
+KAl(SO4)2:12H2O     = 1.000K+     + 1.000Al+3     + 2.000SO4-2     + 12.000H2O
+KBr(s)
+KBr     = 1.000K+     + 1.000Br-
+KFe(CrO4)2:2H2O(s)
+KFe(CrO4)2:2H2O     = 1.000K+     + 1.000Fe+3     + 2.000CrO4-2     + 2.000H2O
+KFe3(CrO4)2(OH)6(cr)
+KFe3(CrO4)2(OH)6     = 1.000K+     + 3.000Fe+3     - 6.000H+     + 2.000CrO4-2     + 6.000H2O
+KH2PO4(cr)
+KH2PO4     = 1.000K+     + 1.000H2(PO4)-
+KI(s)
+KI     = 1.000K+     + 1.000I-
+Kainite
+KMgCl(SO4):3H2O     = 1.000Mg+2     + 1.000K+     + 1.000SO4-2     + 1.000Cl-     + 3.000H2O
+Kalicinite
+KHCO3     = 1.000K+     + 1.000H+     + 1.000CO3-2
+Kaolinite
+Al2(Si2O5)(OH)4     = 2.000Al+3     - 6.000H+     + 2.000H4(SiO4)     + 1.000H2O
+Katoite
+Ca3Al2(SiO4)(OH)8     = 3.000Ca+2     + 2.000Al+3     - 12.000H+     + 1.000H4(SiO4)     + 8.000H2O
+Lanarkite
+PbSO4:PbO     = 2.000Pb+2     - 2.000H+     + 1.000SO4-2     + 1.000H2O
+Lansfordite
+Mg(CO3):5H2O     = 1.000Mg+2     + 1.000CO3-2     + 5.000H2O
+Laumontite
+CaAl2Si4O12:4H2O     = 1.000Ca+2     + 2.000Al+3     - 8.000H+     + 4.000H4(SiO4)
+Laurionite
+PbClOH     = 1.000Pb+2     - 1.000H+     + 1.000Cl-     + 1.000H2O
+Lawrencite
+FeCl2     = 1.000Fe+2     + 2.000Cl-
+Leonhardtite
+MgSO4:4H2O     = 1.000Mg+2     + 1.000SO4-2     + 4.000H2O
+Leonite
+K2Mg(SO4)2:4H2O     = 1.000Mg+2     + 2.000K+     + 2.000SO4-2     + 4.000H2O
+Lepidocrocite
+FeOOH     = 1.000Fe+3     - 3.000H+     + 2.000H2O
+Linnaeite
+Co3S4      = 3.000Co+2     - 2.000H+     + 4.000HS-     - 1.000H2O     + 0.500O2
+Litharge
+PbO     = 1.000Pb+2     - 2.000H+     + 1.000H2O
+Lizardite
+Mg3Si2O5(OH)4     = 3.000Mg+2     - 6.000H+     + 2.000H4(SiO4)     + 1.000H2O
+Mackinawite
+FeS     = 1.000Fe+2     - 1.000H+     + 1.000HS-
+Maghemite(disord)
+Fe2O3     = 2.000Fe+3     - 6.000H+     + 3.000H2O
+Maghemite(ord)
+Fe2O3     = 2.000Fe+3     - 6.000H+     + 3.000H2O
+Magnesite(nat)
+MgCO3     = 1.000Mg+2     + 1.000CO3-2
+Magnesite(syn)
+Mg(CO3)     = 1.000Mg+2     + 1.000CO3-2
+Magnetite
+Fe3O4      = 2.000Fe+3     + 1.000Fe+2     - 8.000H+     + 4.000H2O
+Manganite
+MnOOH     = 1.000Mn+2     - 2.000H+     + 1.500H2O     + 0.250O2
+Margarite
+CaAl4Si2O10(OH)2     = 1.000Ca+2     + 4.000Al+3     - 14.000H+     + 2.000H4(SiO4)     + 4.000H2O
+Massicot
+PbO     = 1.000Pb+2     - 2.000H+     + 1.000H2O
+Melanterite
+FeSO4:7H2O      = 1.000Fe+2     + 1.000SO4-2     + 7.000H2O
+Mercallite
+KHSO4     = 1.000K+     + 1.000H+     + 1.000SO4-2
+Merlinoite_K
+K1.04Al1.04Si1.96O6:1.69H2O     = 1.040K+     + 1.040Al+3     - 4.160H+     + 1.960H4(SiO4)     - 0.150H2O
+Merlinoite_Na
+Na1.04Al1.04Si1.96O6:2.27H2O     = 1.040Na+     + 1.040Al+3     - 4.160H+     + 1.960H4(SiO4)     + 0.430H2O
+Mg(HPO4):3H2O(s)
+Mg(HPO4):3H2O     = 1.000Mg+2     - 1.000H+     + 1.000H2(PO4)-     + 3.000H2O
+Mg(NO3)2(s)
+Mg(NO3)2     = 1.000Mg+2     + 2.000NO3-
+Mg(NO3)2:6H2O(s)
+Mg(NO3)2:6H2O     = 1.000Mg+2     + 2.000NO3-     + 6.000H2O
+Mg(SO4)(s)
+Mg(SO4)     = 1.000Mg+2     + 1.000SO4-2
+Mg(SO4):H2O(s)
+Mg(SO4):H2O     = 1.000Mg+2     + 1.000SO4-2     + 1.000H2O
+Mg(SeO3):6H2O(s)
+Mg(SeO3):6H2O     = 1.000Mg+2     + 1.000SeO3-2     + 6.000H2O
+Mg(SeO4):6H2O(s)
+Mg(SeO4):6H2O     = 1.000Mg+2     + 1.000SeO4-2     + 6.000H2O
+Mg(cr)
+Mg     = 1.000Mg+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Mg-oxychlorur
+Mg2Cl(OH)3:4H2O     = 2.000Mg+2     - 3.000H+     + 1.000Cl-     + 7.000H2O
+Mg3(PO4)2(cr)
+Mg3(PO4)2     = 3.000Mg+2     - 4.000H+     + 2.000H2(PO4)-
+Mg3(PO4)2:22H2O(s)
+Mg3(PO4)2:22H2O     = 3.000Mg+2     - 4.000H+     + 2.000H2(PO4)-     + 22.000H2O
+Mg3(PO4)2:8H2O(s)
+Mg3(PO4)2:8H2O     = 3.000Mg+2     - 4.000H+     + 2.000H2(PO4)-     + 8.000H2O
+Mg5(CO3)4(OH)2:4H2O(s)
+Mg5(CO3)4(OH)2:4H2O     = 5.000Mg+2     - 2.000H+     + 4.000CO3-2     + 6.000H2O
+MgBr2(s)
+MgBr2     = 1.000Mg+2     + 2.000Br-
+MgBr2:6H2O(s)
+MgBr2:6H2O     = 1.000Mg+2     + 2.000Br-     + 6.000H2O
+MgCl2(s)
+MgCl2     = 1.000Mg+2     + 2.000Cl-
+MgCl2:2H2O(s)
+MgCl2:2H2O     = 1.000Mg+2     + 2.000Cl-     + 2.000H2O
+MgCl2:4H2O(s)
+MgCl2:4H2O     = 1.000Mg+2     + 2.000Cl-     + 4.000H2O
+MgCl2:H2O(s)
+MgCl2:H2O     = 1.000Mg+2     + 2.000Cl-     + 1.000H2O
+MgCrO4(s)
+MgCrO4     = 1.000Mg+2     + 1.000CrO4-2
+MgF2(cr)
+MgF2     = 1.000Mg+2     + 2.000F-
+MgI2(s)
+MgI2     = 1.000Mg+2     + 2.000I-
+MgMoO4(s)
+MgMoO4     = 1.000Mg+2     + 1.000MoO4-2
+Microcline
+KAlSi3O8     = 1.000K+     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 4.000H2O
+Millerite
+NiS      = 1.000Ni+2     - 1.000H+     + 1.000HS-
+Minium
+Pb3O4     = 3.000Pb+2     - 6.000H+     + 3.000H2O     + 0.500O2
+Minnesotaite
+Fe3Si4O10(OH)2     = 3.000Fe+2     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Mirabilite
+Na2SO4:10H2O     = 2.000Na+     + 1.000SO4-2     + 10.000H2O
+Mn(H2SiO4)(s)
+Mn(H2SiO4)     = 1.000Mn+2     - 2.000H+     + 1.000H4(SiO4)
+Mn(HPO4)(s)
+Mn(HPO4)     = 1.000Mn+2     - 1.000H+     + 1.000H2(PO4)-
+Mn(SO4)(s)
+Mn(SO4)     = 1.000Mn+2     + 1.000SO4-2
+Mn(SeO3):2H2O(cr)
+Mn(SeO3):2H2O     = 1.000Mn+2     + 1.000SeO3-2     + 2.000H2O
+Mn2(Pyrophos)(s)
+Mn2(Pyrophos)     = 2.000Mn+2     + 1.000Pyrophos-4
+Mn3(PO4)2(s)
+Mn3(PO4)2     = 3.000Mn+2     - 4.000H+     + 2.000H2(PO4)-
+Mn3(PO4)2:3H2O(s)
+Mn3(PO4)2:3H2O     = 3.000Mn+2     - 4.000H+     + 2.000H2(PO4)-     + 3.000H2O
+MnCl2:2H2O(s)
+MnCl2:2H2O     = 1.000Mn+2     + 2.000Cl-     + 2.000H2O
+MnCl2:4H2O(s)
+MnCl2:4H2O     = 1.000Mn+2     + 2.000Cl-     + 4.000H2O
+MnCl2:H2O(s)
+MnCl2:H2O     = 1.000Mn+2     + 2.000Cl-     + 1.000H2O
+MnO(s)
+MnO     = 1.000Mn+2     - 2.000H+     + 1.000H2O
+MnO2(s)
+MnO2     = 1.000Mn+2     - 2.000H+     + 1.000H2O     + 0.500O2
+MnSe(alfa)
+MnSe     = 1.000Mn+2     - 1.000H+     + 1.000HSe-
+MnSe2(cr)
+MnSe2     = 1.000Mn+2     + 2.000HSe-     - 1.000H2O     + 0.500O2
+Mo(s)
+Mo     = 2.000H+     + 1.000MoO4-2     - 1.000H2O     - 1.500O2
+Mo3O8(s)
+Mo3O8     = 6.000H+     + 3.000MoO4-2     - 3.000H2O     - 0.500O2
+MoO2(s)
+MoO2     = 2.000H+     + 1.000MoO4-2     - 1.000H2O     - 0.500O2
+MoO3(s)
+MoO3     = 2.000H+     + 1.000MoO4-2     - 1.000H2O
+MoS2(s)
+MoS2     = 4.000H+     + 2.000HS-     + 1.000MoO4-2     - 3.000H2O     - 0.500O2
+MoS3(s)
+MoS3     = 5.000H+     + 3.000HS-     + 1.000MoO4-2     - 4.000H2O
+Monocarboaluminate
+(CaO)3Al2O3:CaCO3:10.68H2O     = 4.000Ca+2     + 2.000Al+3     - 12.000H+     + 1.000CO3-2     + 16.680H2O
+Monosulfate-Fe
+Ca4Fe2(SO4)(OH)12:6H2O     = 4.000Ca+2     + 2.000Fe+3     - 12.000H+     + 1.000SO4-2     + 18.000H2O
+Monosulfoaluminate
+Ca4Al2(SO4)(OH)12:6H2O     = 4.000Ca+2     + 2.000Al+3     - 12.000H+     + 1.000SO4-2     + 18.000H2O
+Montmorillonite-BCCa
+Ca0.17Mg0.34Al1.66Si4O10(OH)2     = 0.170Ca+2     + 0.340Mg+2     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-BCK
+K0.34Mg0.34Al1.66Si4O10(OH)2     = 0.340Mg+2     + 0.340K+     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-BCMg
+Mg0.17Mg0.34Al1.66Si4O10(OH)2     = 0.510Mg+2     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-BCNa
+Na0.34Mg0.34Al1.66Si4O10(OH)2     = 0.340Mg+2     + 0.340Na+     + 1.660Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-HCCa
+Ca0.3Mg0.6Al1.4Si4O10(OH)2     = 0.300Ca+2     + 0.600Mg+2     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-HCK
+K0.6Mg0.6Al1.4Si4O10(OH)2     = 0.600Mg+2     + 0.600K+     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-HCMg
+Mg0.3Mg0.6Al1.4Si4O10(OH)2     = 0.900Mg+2     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Montmorillonite-HCNa
+Na0.6Mg0.6Al1.4Si4O10(OH)2     = 0.600Mg+2     + 0.600Na+     + 1.400Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Mordenite_Ca
+Ca0.515Al1.03Si4.97O12:3.1H2O     = 0.515Ca+2     + 1.030Al+3     - 4.120H+     + 4.970H4(SiO4)     - 4.780H2O
+Mordenite_Oregon
+Ca0.289Na0.362Al0.94Si5.06O12:3.468H2O     = 0.289Ca+2     + 0.362Na+     + 0.940Al+3     - 3.760H+     + 5.060H4(SiO4)     - 4.772H2O
+Muscovite
+KAl3Si3O10(OH)2     = 1.000K+     + 3.000Al+3     - 10.000H+     + 3.000H4(SiO4)
+Na(NO3)(s)
+Na(NO3)     = 1.000Na+     + 1.000NO3-
+Na(TcO4):4H2O(s)
+Na(TcO4):4H2O     = 1.000Na+     + 1.000TcO4-     + 4.000H2O
+Na(cr)
+Na     = 1.000Na+     + 0.500H2O     - 1.000H+     - 0.250O2
+Na2(CO3)(cr)
+Na2(CO3)     = 2.000Na+     + 1.000CO3-2
+Na2B4O7(cr)
+Na2B4O7     = 2.000Na+     + 2.000H+     + 4.000B(OH)4-     - 9.000H2O
+Na2B4O7:10H2O(s)
+Na2B4O7:10H2O     = 2.000Na+     + 2.000H+     + 4.000B(OH)4-     + 1.000H2O
+Na2CO3:7H2O(s)
+Na2CO3:7H2O     = 2.000Na+     + 1.000CO3-2     + 7.000H2O
+Na2HPO4(cr)
+Na2HPO4     = 2.000Na+     - 1.000H+     + 1.000H2(PO4)-
+Na2O(cr)
+Na2O     = 2.000Na+     - 2.000H+     + 1.000H2O
+Na2ZrSi2O7(cr)
+Na2ZrSi2O7     = 2.000Na+     - 6.000H+     + 2.000H4(SiO4)     + 1.000Zr+4     - 1.000H2O
+Na2ZrSi3O9:2H2O(cr)
+Na2ZrSi3O9:2H2O     = 2.000Na+     - 6.000H+     + 3.000H4(SiO4)     + 1.000Zr+4     - 1.000H2O
+Na2ZrSi4O11(cr)
+Na2ZrSi4O11     = 2.000Na+     - 6.000H+     + 4.000H4(SiO4)     + 1.000Zr+4     - 5.000H2O
+Na2ZrSi6O15:3H2O(cr)
+Na2ZrSi6O15:3H2O     = 2.000Na+     - 6.000H+     + 6.000H4(SiO4)     + 1.000Zr+4     - 6.000H2O
+Na2ZrSiO5(cr)
+Na2ZrSiO5     = 2.000Na+     - 6.000H+     + 1.000H4(SiO4)     + 1.000Zr+4     + 1.000H2O
+Na3PO4(cr)
+Na3PO4     = 3.000Na+     - 2.000H+     + 1.000H2(PO4)-
+Na4Zr2Si3O12(cr)
+Na4Zr2Si3O12     = 4.000Na+     - 12.000H+     + 3.000H4(SiO4)     + 2.000Zr+4
+Na6Th(CO3)5:12H2O(cr)
+Na6Th(CO3)5:12H2O     = 6.000Na+     + 1.000Th+4     + 5.000CO3-2     + 12.000H2O
+NaAmO2CO3(s)
+NaAmO2CO3     = 1.000Na+     + 1.000AmO2+     + 1.000CO3-2
+NaBO2(s)
+NaBO2     = 1.000Na+     + 1.000B(OH)4-     - 2.000H2O
+NaCm(CO3)2:5H2O(s)
+NaCm(CO3)2:5H2O     = 1.000Na+     + 2.000CO3-2     + 1.000Cm+3     + 5.000H2O
+NaEu(CO3)2:5H2O(s)
+NaEu(CO3)2:5H2O     = 1.000Na+     + 1.000Eu+3     + 2.000CO3-2     + 5.000H2O
+NaF(s)
+NaF     = 1.000Na+     + 1.000F-
+NaH2PO4(cr)
+NaH2PO4     = 1.000Na+     + 1.000H2(PO4)-
+NaHo(CO3)2:5H2O(s)
+NaHo(CO3)2:5H2O     = 1.000Na+     + 1.000Ho+3     + 2.000CO3-2     + 5.000H2O
+NaNbO3(s)
+NaNbO3     = 1.000Na+     + 1.000Nb(OH)6-     - 3.000H2O
+NaSm(CO3)2:5H2O(s)
+NaSm(CO3)2:5H2O     = 1.000Na+     + 1.000Sm+3     + 2.000CO3-2     + 5.000H2O
+Nahcolite
+Na(HCO3)     = 1.000Na+     + 1.000H+     + 1.000CO3-2
+Natrolite
+Na2(Al2Si3)O10:2H2O     = 2.000Na+     + 2.000Al+3     - 8.000H+     + 3.000H4(SiO4)
+Natron
+Na2(CO3):10H2O     = 2.000Na+     + 1.000CO3-2     + 10.000H2O
+Nb(cr)
+Nb     = 1.000H+     + 1.000Nb(OH)6-     - 3.500H2O     - 1.250O2
+Nb2O5(s)
+Nb2O5     = 2.000H+     + 2.000Nb(OH)6-     - 7.000H2O
+Nesquehonite
+Mg(CO3):3H2O     = 1.000Mg+2     + 1.000CO3-2     + 3.000H2O
+Ni(BO2)2(s)
+Ni(BO2)2     = 1.000Ni+2     + 2.000B(OH)4-     - 4.000H2O
+Ni(CO3):5.5H2O(cr)
+Ni(CO3):5.5H2O     = 1.000Ni+2     + 1.000CO3-2     + 5.500H2O
+Ni(IO3)2(beta)
+Ni(IO3)2     = 1.000Ni+2     + 2.000IO3-
+Ni(IO3)2:2H2O(cr)
+Ni(IO3)2:2H2O     = 1.000Ni+2     + 2.000IO3-     + 2.000H2O
+Ni(OH)2(s)
+Ni(OH)2     = 1.000Ni+2     - 2.000H+     + 2.000H2O
+Ni(SO4)(cr)
+Ni(SO4)     = 1.000Ni+2     + 1.000SO4-2
+Ni(SO4):6H2O(s)
+Ni(SO4):6H2O     = 1.000Ni+2     + 1.000SO4-2     + 6.000H2O
+Ni(SO4):7H2O(s)
+Ni(SO4):7H2O     = 1.000Ni+2     + 1.000SO4-2     + 7.000H2O
+Ni(SeO3):2H2O(cr)
+Ni(SeO3):2H2O     = 1.000Ni+2     + 1.000SeO3-2     + 2.000H2O
+Ni(SeO4):6H2O(s)
+Ni(SeO4):6H2O     = 1.000Ni+2     + 1.000SeO4-2     + 6.000H2O
+Ni(s)
+Ni     = 1.000Ni+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Ni0.88Se(cr)
+Ni0.88Se     = 0.880Ni+2     - 0.760H+     + 1.000HSe-     - 0.120H2O     + 0.060O2
+Ni11As8(cr)
+Ni11As8     = 11.000Ni+2     + 2.000H+     + 8.000AsO4-3     - 1.000H2O     - 15.500O2
+Ni2(Pyrophos)(cr)
+Ni2(Pyrophos)     = 2.000Ni+2     + 1.000Pyrophos-4
+Ni3(AsO3)2(s)
+Ni3(AsO3)2     = 3.000Ni+2     + 2.000AsO4-3     - 1.000O2
+Ni3(AsO4)2:8H2O(s)
+Ni3(AsO4)2:8H2O     = 3.000Ni+2     + 2.000AsO4-3     + 8.000H2O
+Ni3(PO4)2(cr)
+Ni3(PO4)2     = 3.000Ni+2     - 4.000H+     + 2.000H2(PO4)-
+Ni5As2(cr)
+Ni5As2     = 5.000Ni+2     - 4.000H+     + 2.000AsO4-3     + 2.000H2O     - 5.000O2
+NiAs(cr)
+NiAs     = 1.000Ni+2     + 1.000H+     + 1.000AsO4-3     - 0.500H2O     - 1.750O2
+NiBr2(s)
+NiBr2     = 1.000Ni+2     + 2.000Br-
+NiCl2(s)
+NiCl2     = 1.000Ni+2     + 2.000Cl-
+NiCl2:2H2O(s)
+NiCl2:2H2O     = 1.000Ni+2     + 2.000Cl-     + 2.000H2O
+NiCl2:4H2O(s)
+NiCl2:4H2O     = 1.000Ni+2     + 2.000Cl-     + 4.000H2O
+NiCl2:6H2O(s)
+NiCl2:6H2O     = 1.000Ni+2     + 2.000Cl-     + 6.000H2O
+NiF2(s)
+NiF2     = 1.000Ni+2     + 2.000F-
+NiI2(s)
+NiI2     = 1.000Ni+2     + 2.000I-
+NiSe2(cr)
+NiSe2     = 1.000Ni+2     + 2.000HSe-     - 1.000H2O     + 0.500O2
+Nontronite-Ca
+Ca0.17Fe1.67Al0.67Si3.66O10(OH)2     = 0.170Ca+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Nontronite-K
+K0.34Fe1.67Al0.67Si3.66O10(OH)2     = 0.340K+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Nontronite-Mg
+Mg0.17Fe1.67Al0.67Si3.66O10(OH)2     = 0.170Mg+2     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Nontronite-Na
+Na0.34Fe1.67Al0.67Si3.66O10(OH)2     = 0.340Na+     + 1.670Fe+3     + 0.670Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Nontronite_Nau-2
+Ca0.247K0.02(Si3.458Al0.542)(Fe1.688Al0.276Mg0.068)O10(OH)2     = 0.247Ca+2     + 0.068Mg+2     + 0.020K+     + 1.688Fe+3     + 0.818Al+3     + 3.458H4(SiO4)     - 1.832H2O     - 8.168H+
+Np(CO3)(OH)(s)
+Np(CO3)(OH)     = 1.000Np+3     - 1.000H+     + 1.000CO3-2     + 1.000H2O
+Np(HPO4)2(s)
+Np(HPO4)2     = 1.000Np+4     - 2.000H+     + 2.000H2(PO4)-
+Np(OH)3(s)
+Np(OH)3     = 1.000Np+3     - 3.000H+     + 3.000H2O
+Np(cr)
+Np     = 1.000Np+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Np2O5(cr)
+Np2O5     = 2.000NpO2+     - 2.000H+     + 1.000H2O
+NpO2(CO3)(s)
+NpO2(CO3)     = 1.000NpO2+2     + 1.000CO3-2
+NpO2(CO3)2Na3(s)
+NpO2(CO3)2Na3     = 3.000Na+     + 1.000NpO2+     + 2.000CO3-2
+NpO2(CO3)Na:3.5H2O(s)
+NpO2(CO3)Na:3.5H2O     = 1.000Na+     + 1.000NpO2+     + 1.000CO3-2     + 3.500H2O
+NpO2(NH4)4(CO3)3(s)
+NpO2(NH4)4(CO3)3     = 1.000NpO2+2     + 4.000H+     + 3.000CO3-2     + 4.000NH3
+NpO2(s)
+NpO2     = 1.000Np+4     - 4.000H+     + 2.000H2O
+NpO2:2H2O(am)
+NpO2:2H2O     = 1.000Np+4     - 4.000H+     + 4.000H2O
+NpO2OH(am,aged)
+NpO2OH     = 1.000NpO2+     - 1.000H+     + 1.000H2O
+NpO2OH(am,fresh)
+NpO2OH     = 1.000NpO2+     - 1.000H+     + 1.000H2O
+NpO3:H2O(cr)
+NpO3:H2O     = 1.000NpO2+2     - 2.000H+     + 2.000H2O
+Okenite
+CaSi2O5:2H2O     = 1.000Ca+2     - 2.000H+     + 2.000H4(SiO4)     - 1.000H2O
+Orpiment
+As2S3     = 9.000H+     + 3.000HS-     + 2.000AsO4-3     - 6.000H2O     - 1.000O2
+P(cr)
+P     = 1.000H+     + 1.000H2(PO4)-     - 1.500H2O     - 1.250O2
+Pa(cr)
+Pa     = 1.000Pa+4     + 2.000H2O     - 4.000H+     - 1.000O2
+Pa2O5(s)
+Pa2O5     = - 2.000H+     + 2.000PaO2+     + 1.000H2O
+PaO2(s)
+PaO2     = - 4.000H+     + 1.000Pa+4     + 2.000H2O
+Paragonite
+NaAl3Si3O10(OH)2     = 1.000Na+     + 3.000Al+3     - 10.000H+     + 3.000H4(SiO4)
+Paralaurionite
+PbCl(OH)     = 1.000Pb+2     - 1.000H+     + 1.000Cl-     + 1.000H2O
+Pb(H2PO4)2(cr)
+Pb(H2PO4)2     = 1.000Pb+2     + 2.000H2(PO4)-
+Pb(HPO4)(s)
+Pb(HPO4)     = 1.000Pb+2     - 1.000H+     + 1.000H2(PO4)-
+Pb(OH)2(s)
+Pb(OH)2     = 1.000Pb+2     - 2.000H+     + 2.000H2O
+Pb(SeO3)(s)
+Pb(SeO3)     = 1.000Pb+2     + 1.000SeO3-2
+Pb(SeO4)(s)
+Pb(SeO4)     = 1.000Pb+2     + 1.000SeO4-2
+Pb(cr)
+Pb     = 1.000Pb+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Pb2(SiO4)(s)
+Pb2(SiO4)     = 2.000Pb+2     - 4.000H+     + 1.000H4(SiO4)
+Pb3(AsO4)2(s)
+Pb3(AsO4)2     = 3.000Pb+2     + 2.000AsO4-3
+Pb3(PO4)2(s)
+Pb3(PO4)2     = 3.000Pb+2     - 4.000H+     + 2.000H2(PO4)-
+Pb4O(PO4)2(cr)
+Pb4O(PO4)2     = 4.000Pb+2     - 6.000H+     + 2.000H2(PO4)-     + 1.000H2O
+PbB2O4(s)
+PbB2O4     = 1.000Pb+2     + 2.000B(OH)4-     - 4.000H2O
+PbF2(s)
+PbF2     = 1.000Pb+2     + 2.000F-
+PbI2(cr)
+PbI2     = 1.000Pb+2     + 2.000I-
+PbMoO4(s)
+PbMoO4     = 1.000Pb+2     + 1.000MoO4-2
+PbSiO3(Glass)
+PbSiO3     = 1.000Pb+2     - 2.000H+     + 1.000H4(SiO4)     - 1.000H2O
+Pd(OH)2(s)
+Pd(OH)2     = - 2.000H+     + 1.000Pd+2     + 2.000H2O
+Pd(cr)
+Pd     = 1.000Pd+2     + 1.000H2O     - 2.000H+     - 0.500O2
+PdBr2(cr)
+PdBr2     = 1.000Pd+2     + 2.000Br-
+PdCl2(cr)
+PdCl2     = 1.000Pd+2     + 2.000Cl-
+PdI2(cr)
+PdI2     = 1.000Pd+2     + 2.000I-
+PdO(s)
+PdO     = - 2.000H+     + 1.000Pd+2     + 1.000H2O
+PdS(s)
+PdS     = - 1.000H+     + 1.000Pd+2     + 1.000HS-
+PdSe(s)
+PdSe     = - 1.000H+     + 1.000Pd+2     + 1.000HSe-
+Pentahydrite
+MgSO4:5H2O     = 1.000Mg+2     + 1.000SO4-2     + 5.000H2O
+Periclase
+MgO     = 1.000Mg+2     - 2.000H+     + 1.000H2O
+Phillipsite_Ca
+Ca0.5AlSi3O8:3H2O     = 0.500Ca+2     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 1.000H2O
+Phillipsite_K
+KAlSi3O8:3H2O     = 1.000K+     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 1.000H2O
+Phillipsite_Na
+NaAlSi3O8:3H2O     = 1.000Na+     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 1.000H2O
+Phlogopite_K
+KMg3Si3AlO10(OH)2     = 3.000Mg+2     + 1.000K+     + 1.000Al+3     - 10.000H+     + 3.000H4(SiO4)
+Phlogopite_Na
+NaMg3AlSi3O10(OH)2     = 3.000Mg+2     + 1.000Na+     + 1.000Al+3     - 10.000H+     + 3.000H4(SiO4)
+Phosgenite
+Pb2(CO3)Cl2     = 2.000Pb+2     + 1.000CO3-2     + 2.000Cl-
+Picromerite
+K2Mg(SO4)2:6H2O     = 1.000Mg+2     + 2.000K+     + 2.000SO4-2     + 6.000H2O
+Pirssonite
+Na2Ca(CO3)2:2H2O     = 1.000Ca+2     + 2.000Na+     + 2.000CO3-2     + 2.000H2O
+Plattnerite
+PbO2     = 1.000Pb+2     - 2.000H+     + 1.000H2O     + 0.500O2
+Plumbogummite
+PbAl3(PO4)2(OH)5:H2O     = 1.000Pb+2     + 3.000Al+3     - 9.000H+     + 2.000H2(PO4)-     + 6.000H2O
+Plumbonacrite
+Pb10(CO3)6O(OH)6     = 10.000Pb+2     - 8.000H+     + 6.000CO3-2     + 7.000H2O
+Polydymite
+Ni3S4     = 3.000Ni+2     - 2.000H+     + 4.000HS-     - 1.000H2O     + 0.500O2
+Polyhalite
+K2MgCa2(SO4)4:2H2O     = 2.000Ca+2     + 1.000Mg+2     + 2.000K+     + 4.000SO4-2     + 2.000H2O
+Portlandite
+Ca(OH)2     = 1.000Ca+2     - 2.000H+     + 2.000H2O
+Pu(CO3)(OH)(s)
+Pu(CO3)(OH)     = 1.000Pu+3     - 1.000H+     + 1.000CO3-2     + 1.000H2O
+Pu(HPO4)2(am,hyd)
+Pu(HPO4)2     = 1.000Pu+4     - 2.000H+     + 2.000H2(PO4)-
+Pu(OH)3(cr)
+Pu(OH)3     = 1.000Pu+3     - 3.000H+     + 3.000H2O
+Pu(OH)4(am)
+Pu(OH)4     = 1.000Pu+4     - 4.000H+     + 4.000H2O
+Pu(PO4)(s,hyd)
+Pu(PO4)     = 1.000Pu+3     - 2.000H+     + 1.000H2(PO4)-
+Pu(cr)
+Pu     = 1.000Pu+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Pu2O3(s)
+Pu2O3     = 2.000Pu+3     - 6.000H+     + 3.000H2O
+PuAs(s)
+PuAs     = 1.000AsO4-3     + 1.000PuO2+2     - 0.500H2O     + 1.000H+     - 2.750O2
+PuF4(s)
+PuF4     = 1.000Pu+4     + 4.000F-
+PuO2(CO3)(s)
+PuO2(CO3)     = 1.000PuO2+2     + 1.000CO3-2
+PuO2(OH)(s)
+PuO2(OH)     = 1.000PuO2+     - 1.000H+     + 1.000H2O
+PuO2(OH)2:H2O(s)
+PuO2(OH)2:H2O     = 1.000PuO2+2     - 2.000H+     + 3.000H2O
+PuO2(Ox):3H2O(s)
+PuO2(Ox):3H2O     = 1.000PuO2+2     + 1.000Ox-2     + 3.000H2O
+PuO2(coll,hyd)
+PuO2     = 1.000Pu+4     - 4.000H+     + 2.000H2O
+PuO2(s)
+PuO2     = 1.000Pu+4     - 4.000H+     + 2.000H2O
+PuO2:2H2O(am)
+PuO2:2H2O     = 1.000Pu+4     - 4.000H+     + 4.000H2O
+Pyrite
+FeS2      = 1.000Fe+2     + 2.000HS-     - 1.000H2O     + 0.500O2
+Pyrochroite
+Mn(OH)2      = 1.000Mn+2     - 2.000H+     + 2.000H2O
+Pyromorphite
+Pb5Cl(PO4)3     = 5.000Pb+2     - 6.000H+     + 1.000Cl-     + 3.000H2(PO4)-
+Pyromorphite-Br
+Pb5Br(PO4)3     = 5.000Pb+2     - 6.000H+     + 1.000Br-     + 3.000H2(PO4)-
+Pyromorphite-F
+Pb5F(PO4)3     = 5.000Pb+2     - 6.000H+     + 1.000F-     + 3.000H2(PO4)-
+Pyromorphite-OH
+Pb5(OH)(PO4)3     = 5.000Pb+2     - 7.000H+     + 3.000H2(PO4)-     + 1.000H2O
+Pyrophyllite
+Al2Si4O10(OH)2     = 2.000Al+3     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Pyrrhotite
+Fe0.87S     = 0.870Fe+2     - 0.740H+     + 1.000HS-     - 0.130H2O     + 0.065O2
+Quartz
+SiO2     = 1.000H4(SiO4)     - 2.000H2O
+Ra(CO3)(s)
+Ra(CO3)     = 1.000Ra+2     + 1.000CO3-2
+Ra(NO3)2(s)
+Ra(NO3)2     = 1.000Ra+2     + 2.000NO3-
+Ra(OH)2(s)
+Ra(OH)2     = - 2.000H+     + 1.000Ra+2     + 2.000H2O
+Ra(SO4)(s)
+Ra(SO4)     = 1.000Ra+2     + 1.000SO4-2
+Ra(cr)
+Ra     = 1.000Ra+2     + 1.000H2O     - 2.000H+     - 0.500O2
+RaCl2:2H2O(s)
+RaCl2:2H2O     = 1.000Ra+2     + 2.000Cl-     + 2.000H2O
+Rb(s)
+Rb     = 1.000Rb+     + 0.500H2O     - 1.000H+     - 0.250O2
+Rb2MoO4(s)
+Rb2MoO4     = 1.000MoO4-2     + 2.000Rb+
+Realgar
+AsS     = 4.000H+     + 1.000HS-     + 1.000AsO4-3     - 2.500H2O     - 0.750O2
+Rhodochrosite
+Mn(CO3)     = 1.000Mn+2     + 1.000CO3-2
+Rhodochrosite(syn)
+Mn(CO3)     = 1.000Mn+2     + 1.000CO3-2
+Ripidolite_Cca-2
+(Mg2.964Fe1.712Fe0.215Al1.116Ca0.011)(Si2.633Al1.367)O10(OH)8     = 0.011Ca+2     + 2.964Mg+2     + 0.215Fe+3     + 1.712Fe+2     + 2.483Al+3     - 17.468H+     + 2.633H4(SiO4)     + 7.468H2O
+Romarchite
+SnO     = 1.000Sn+2     - 2.000H+     + 1.000H2O
+Rutherfordine
+(UO2)(CO3)     = 1.000UO2+2     + 1.000CO3-2
+S(cr)
+S     = 1.000H+     + 1.000HS-     - 1.000H2O     + 0.500O2
+Sacchite
+MnCl2      = 1.000Mn+2     + 2.000Cl-
+Sanidine
+KAlSi3O8     = 1.000K+     + 1.000Al+3     - 4.000H+     + 3.000H4(SiO4)     - 4.000H2O
+Saponite-Ca
+Ca0.17Mg3Al0.34Si3.66O10(OH)2     = 0.170Ca+2     + 3.000Mg+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-FeCa
+Ca0.17Mg2FeAl0.34Si3.66O10(OH)2     = 0.170Ca+2     + 2.000Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-FeK
+K0.34Mg2FeAl0.34Si3.66O10(OH)2     = 2.000Mg+2     + 0.340K+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-FeMg
+Mg0.17Mg2FeAl0.34Si3.66O10(OH)2     = 2.170Mg+2     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-FeNa
+Na0.34Mg2FeAl0.34Si3.66O10(OH)2     = 2.000Mg+2     + 0.340Na+     + 1.000Fe+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-K
+K0.34Mg3Al0.34Si3.66O10(OH)2     = 3.000Mg+2     + 0.340K+     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-Mg
+Mg0.17Mg3Al0.34Si3.66O10(OH)2     = 3.170Mg+2     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite-Na
+Na0.34Mg3Al0.34Si3.66O10(OH)2     = 3.000Mg+2     + 0.340Na+     + 0.340Al+3     - 7.360H+     + 3.660H4(SiO4)     - 2.640H2O
+Saponite_SapCa
+(Na0.394K0.021Ca0.038)(Si3.569Al0.397)(Mg2.949Fe0.034Fe0.021)O10(OH)2     = 0.038Ca+2     + 2.949Mg+2     + 0.021K+     + 0.394Na+     + 0.034Fe+3     + 0.021Fe+2     + 0.397Al+3     - 7.724H+     + 3.569H4(SiO4)     - 2.276H2O
+Saponite_SapCa(4.151H2O)
+(Na0.394K0.021Ca0.038)(Si3.569Al0.397)(Mg2.949Fe0.034Fe0.021)O10(OH)2:4.151H2O     = 0.038Ca+2     + 2.949Mg+2     + 0.021K+     + 0.394Na+     + 0.034Fe+3     + 0.021Fe+2     + 0.397Al+3     - 7.724H+     + 3.569H4(SiO4)     + 1.875H2O
+Sb(cr)
+Sb     = 1.000Sb(OH)3     - 1.500H2O     - 0.750O2
+Sb2O5(s)
+Sb2O5     = 2.000Sb(OH)5     - 5.000H2O
+Schoepite
+UO3:2H2O     = 1.000UO2+2     - 2.000H+     + 3.000H2O
+Schoepite(des)
+UO3:0.9H2O     = 1.000UO2+2     - 2.000H+     + 1.900H2O
+Scolecite
+CaAl2Si3O10:3H2O     = 1.000Ca+2     + 2.000Al+3     - 8.000H+     + 3.000H4(SiO4)     + 1.000H2O
+Se(s)
+Se     = 1.000H+     + 1.000HSe-     - 1.000H2O     + 0.500O2
+Se3U(cr)
+Se3U     = 1.000UO2+2     + 1.000H+     + 3.000HSe-     - 2.000H2O
+SeO3(cr)
+SeO3     = 2.000H+     + 1.000SeO4-2     - 1.000H2O
+SeU(cr)
+SeU     = 1.000U+4     - 3.000H+     + 1.000HSe-     + 1.000H2O     - 0.500O2
+Si(cr)
+Si     = 1.000H4(SiO4)     - 2.000H2O     - 1.000O2
+SiO2(am)
+SiO2     = 1.000H4(SiO4)     - 2.000H2O
+Siderite
+Fe(CO3)     = 1.000Fe+2     + 1.000CO3-2
+Siderophyllite
+KFe2Al3Si2O10(OH)2     = 1.000K+     + 2.000Fe+2     + 3.000Al+3     - 14.000H+     + 2.000H4(SiO4)     + 4.000H2O
+Sm(OH)3(am)
+Sm(OH)3     = 1.000Sm+3     - 3.000H+     + 3.000H2O
+Sm(OH)3(s)
+Sm(OH)3     = 1.000Sm+3     - 3.000H+     + 3.000H2O
+Sm(cr)
+Sm     = 1.000Sm+3     + 1.500H2O     - 3.000H+     - 0.750O2
+Sm2(CO3)3(s)
+Sm2(CO3)3     = 2.000Sm+3     + 3.000CO3-2
+Sm2(SO4)3(s)
+Sm2(SO4)3     = 2.000Sm+3     + 3.000SO4-2
+Sm2O3(s)
+Sm2O3     = 2.000Sm+3     - 6.000H+     + 3.000H2O
+SmCl3:6H2O(s)
+SmCl3:6H2O     = 1.000Sm+3     + 3.000Cl-     + 6.000H2O
+SmF3:0.5H2O(s)
+SmF3:0.5H2O     = 1.000Sm+3     + 3.000F-     + 0.500H2O
+SmOHCO3(cr)
+SmOHCO3     = 1.000Sm+3     - 1.000H+     + 1.000CO3-2     + 1.000H2O
+SmOHCO3:0.5H2O(cr)
+SmOHCO3:0.5H2O     = 1.000Sm+3     - 1.000H+     + 1.000CO3-2     + 1.500H2O
+SmPO4:H2O(am)
+SmPO4:H2O     = 1.000Sm+3     - 2.000H+     + 1.000H2(PO4)-     + 1.000H2O
+SmPO4:H2O(cr)
+SmPO4:H2O     = 1.000Sm+3     - 2.000H+     + 1.000H2(PO4)-     + 1.000H2O
+SmectiteMX80
+Na0.409K0.024Ca0.009(Si3.738Al0.262)(Al1.598Mg0.214Fe0.173Fe0.035)O10(OH)2     = 0.009Ca+2     + 0.214Mg+2     + 0.024K+     + 0.409Na+     + 0.173Fe+3     + 1.860Al+3     + 3.738H4(SiO4)     + 0.035Fe+2     - 2.952H2O     - 7.048H+
+Smectite_MX80(3.989H2O)
+(Ca0.009Na0.409K0.024)(Si3.738Al0.262)(Al1.598Fe0.173Fe0.035Mg0.214)O10(OH)2:3.989H2O     = 0.009Ca+2     + 0.214Mg+2     + 0.024K+     + 0.409Na+     + 0.173Fe+3     + 0.035Fe+2     + 1.860Al+3     - 7.048H+     + 3.738H4(SiO4)     + 1.037H2O
+Smectite_MX80(5.189H2O)
+(Ca0.009Na0.409K0.024)(Si3.738Al0.262)(Al1.598Fe0.173Fe0.035Mg0.214)O10(OH)2:5.189H2O     = 0.009Ca+2     + 0.214Mg+2     + 0.024K+     + 0.409Na+     + 0.173Fe+3     + 0.035Fe+2     + 1.860Al+3     - 7.048H+     + 3.738H4(SiO4)     + 2.237H2O
+Sn(OH)4(s)
+Sn(OH)4     = 1.000Sn+4     - 4.000H+     + 4.000H2O
+Sn(OH)Cl(s)
+Sn(OH)Cl     = 1.000Sn+2     - 1.000H+     + 1.000Cl-     + 1.000H2O
+Sn(cr)(alfa)
+Sn     = 1.000Sn+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Sn(cr)(beta)
+Sn     = 1.000Sn+2     + 1.000H2O     - 2.000H+     - 0.500O2
+SnO2(am)
+SnO2     = 1.000Sn+4     - 4.000H+     + 2.000H2O
+SnSe(alfa)
+SnSe     = 1.000Sn+2     - 1.000H+     + 1.000HSe-
+SnSe2(s)
+SnSe2     = 1.000Sn+2     + 2.000HSe-     - 1.000H2O     + 0.500O2
+Soddyite(synt1)
+(UO2)2SiO4:2H2O     = 2.000UO2+2     - 4.000H+     + 1.000H4(SiO4)     + 2.000H2O
+Soddyite(synt2)
+(UO2)2SiO4:2H2O     = 2.000UO2+2     - 4.000H+     + 1.000H4(SiO4)     + 2.000H2O
+Sodium-compreignacite
+Na2(UO2)6O4(OH)6:7H2O     = 2.000Na+     + 6.000UO2+2     - 14.000H+     + 17.000H2O
+Sphaerocobaltite
+CoCO3     = 1.000Co+2     + 1.000CO3-2
+Sr(HPO4)(s)
+Sr(HPO4)     = 1.000Sr+2     - 1.000H+     + 1.000H2(PO4)-
+Sr(NO3)2(cr)
+Sr(NO3)2     = 1.000Sr+2     + 2.000NO3-
+Sr(NO3)2:2H2O(s)
+Sr(NO3)2:2H2O     = 1.000Sr+2     + 2.000NO3-     + 2.000H2O
+Sr(NO3)2:4H2O(s)
+Sr(NO3)2:4H2O     = 1.000Sr+2     + 2.000NO3-     + 4.000H2O
+Sr(OH)2(s)
+Sr(OH)2     = 1.000Sr+2     - 2.000H+     + 2.000H2O
+Sr(OH)2:8H2O(s)
+Sr(OH)2:8H2O     = 1.000Sr+2     - 2.000H+     + 10.000H2O
+Sr(SeO3)(cr)
+Sr(SeO3)     = 1.000Sr+2     + 1.000SeO3-2
+Sr(SeO4)(s)
+Sr(SeO4)     = 1.000Sr+2     + 1.000SeO4-2
+Sr(cr)
+Sr     = 1.000Sr+2     + 1.000H2O     - 2.000H+     - 0.500O2
+Sr2SiO4(s)
+Sr2SiO4     = 2.000Sr+2     - 4.000H+     + 1.000H4(SiO4)
+Sr3(AsO4)2(s)
+Sr3(AsO4)2     = 3.000Sr+2     + 2.000AsO4-3
+Sr3(PO4)2(s)
+Sr3(PO4)2     = 3.000Sr+2     - 4.000H+     + 2.000H2(PO4)-
+Sr5(PO4)3(OH)(s)
+Sr5(PO4)3(OH)     = 5.000Sr+2     - 7.000H+     + 3.000H2(PO4)-     + 1.000H2O
+SrBr2(s)
+SrBr2     = 1.000Sr+2     + 2.000Br-
+SrBr2:6H2O(s)
+SrBr2:6H2O     = 1.000Sr+2     + 2.000Br-     + 6.000H2O
+SrBr2:H2O(s)
+SrBr2:H2O     = 1.000Sr+2     + 2.000Br-     + 1.000H2O
+SrCl2(s)
+SrCl2     = 1.000Sr+2     + 2.000Cl-
+SrCl2:2H2O(s)
+SrCl2:2H2O     = 1.000Sr+2     + 2.000Cl-     + 2.000H2O
+SrCl2:6H2O(s)
+SrCl2:6H2O     = 1.000Sr+2     + 2.000Cl-     + 6.000H2O
+SrCl2:H2O(s)
+SrCl2:H2O     = 1.000Sr+2     + 2.000Cl-     + 1.000H2O
+SrCrO4(s)
+SrCrO4     = 1.000Sr+2     + 1.000CrO4-2
+SrF2(cr)
+SrF2     = 1.000Sr+2     + 2.000F-
+SrMoO4(s)
+SrMoO4     = 1.000Sr+2     + 1.000MoO4-2
+SrO(cr)
+SrO     = 1.000Sr+2     - 2.000H+     + 1.000H2O
+SrS(s)
+SrS     = 1.000Sr+2     - 1.000H+     + 1.000HS-
+SrSiO3(s)
+SrSiO3     = 1.000Sr+2     - 2.000H+     + 1.000H4(SiO4)     - 1.000H2O
+SrZrSi2O7(cr)
+SrZrSi2O7     = 1.000Sr+2     - 6.000H+     + 2.000H4(SiO4)     + 1.000Zr+4     - 1.000H2O
+Stellerite
+Ca2Al4Si14O36:14H2O     = 2.000Ca+2     + 4.000Al+3     - 16.000H+     + 14.000H4(SiO4)     - 6.000H2O
+Stibnite
+Sb2S3     = 3.000H+     + 3.000HS-     + 2.000Sb(OH)3     - 6.000H2O
+Stilbite
+NaCa2(Al5Si13)O36:16H2O     = 2.000Ca+2     + 1.000Na+     + 5.000Al+3     - 20.000H+     + 13.000H4(SiO4)
+Stilleite
+ZnSe     = 1.000Zn+2     - 1.000H+     + 1.000HSe-
+Stratlingite
+Ca2Al2SiO3(OH)8:4H2O     = 2.000Ca+2     + 2.000Al+3     - 10.000H+     + 1.000H4(SiO4)     + 11.000H2O
+Strontianite
+Sr(CO3)      = 1.000Sr+2     + 1.000CO3-2
+Sudoite
+Mg2Al4Si3O10(OH)8     = 2.000Mg+2     + 4.000Al+3     - 16.000H+     + 3.000H4(SiO4)     + 6.000H2O
+Sylvite
+KCl     = 1.000K+     + 1.000Cl-
+Syngenite
+K2Ca(SO4)2:6H2O     = 1.000Ca+2     + 2.000K+     + 2.000SO4-2     + 6.000H2O
+Tachyhydrite
+Mg2CaCl6:12H2O     = 1.000Ca+2     + 2.000Mg+2     + 6.000Cl-     + 12.000H2O
+Talc
+Mg3Si4O10(OH)2     = 3.000Mg+2     - 6.000H+     + 4.000H4(SiO4)     - 4.000H2O
+Tc(cr)
+Tc     = 1.000TcO(OH)2     - 1.000H2O     - 1.000O2
+Tc2O7(s)
+Tc2O7     = 2.000H+     + 2.000TcO4-     - 1.000H2O
+Tc2O7:H2O(s)
+Tc2O7:H2O     = 2.000H+     + 2.000TcO4-
+TcO2(cr)
+TcO2     = 1.000TcO(OH)2     - 1.000H2O
+TcO2:1.63H2O(s)
+TcO2:1.63H2O     = 1.000TcO(OH)2     + 0.630H2O
+Th(HPO4)2(s)
+Th(HPO4)2     = 1.000Th+4     - 2.000H+     + 2.000H2(PO4)-
+Th(SO4)2:9H2O(cr)
+Th(SO4)2:9H2O     = 1.000Th+4     + 2.000SO4-2     + 9.000H2O
+Th(cr)
+Th     = 1.000Th+4     + 2.000H2O     - 4.000H+     - 1.000O2
+ThF4(cr)
+ThF4     = 1.000Th+4     + 4.000F-
+ThO2(aged)
+ThO2     = 1.000Th+4     - 4.000H+     + 2.000H2O
+ThO2(coll)
+ThO2     = 1.000Th+4     - 4.000H+     + 2.000H2O
+ThO2(cr)
+ThO2     = 1.000Th+4     - 4.000H+     + 2.000H2O
+ThO2(fresh)
+ThO2     = 1.000Th+4     - 4.000H+     + 2.000H2O
+ThO2(mcr)
+ThO2     = 1.000Th+4     - 4.000H+     + 2.000H2O
+Thermonatrite
+Na2(CO3):H2O     = 2.000Na+     + 1.000CO3-2     + 1.000H2O
+Thernardite
+Na2SO4     = 2.000Na+     + 1.000SO4-2
+Tiemannite
+HgSe     = 1.000Hg+2     - 1.000H+     + 1.000HSe-
+Tobermorite-11A
+Ca5Si6O16.5(OH):5H2O     = 5.000Ca+2     - 10.000H+     + 6.000H4(SiO4)     - 1.500H2O
+Tobermorite-14A
+Ca5Si6O16.5(OH):10H2O     = 5.000Ca+2     - 10.000H+     + 6.000H4(SiO4)     + 3.500H2O
+Trevorite
+Fe2NiO4     = 2.000Fe+3     + 1.000Ni+2     - 8.000H+     + 4.000H2O
+Troilite
+FeS      = 1.000Fe+2     - 1.000H+     + 1.000HS-
+Trona
+Na3H(CO3)2:2H2O     = 3.000Na+     + 1.000H+     + 2.000CO3-2     + 2.000H2O
+Truscottite
+Ca7Si12O29(OH)4:H2O     = 7.000Ca+2     - 14.000H+     + 12.000H4(SiO4)     - 14.000H2O
+U(HPO4)2:4H2O(s)
+U(HPO4)2:4H2O     = 1.000U+4     - 2.000H+     + 2.000H2(PO4)-     + 4.000H2O
+U(OH)2(SO4)(cr)
+U(OH)2(SO4)     = 1.000U+4     - 2.000H+     + 1.000SO4-2     + 2.000H2O
+U(SO4)2(cr)
+U(SO4)2     = 1.000U+4     + 2.000SO4-2
+U(SO4)2:4H2O(cr)
+U(SO4)2:4H2O     = 1.000U+4     + 2.000SO4-2     + 4.000H2O
+U(SO4)2:8H2O(cr)
+U(SO4)2:8H2O     = 1.000U+4     + 2.000SO4-2     + 8.000H2O
+U(cr)
+U     = 1.000U+4     + 2.000H2O     - 4.000H+     - 1.000O2
+U2O7Ba(cr)
+U2O7Ba     = 1.000Ba+2     + 2.000UO2+2     - 6.000H+     + 3.000H2O
+U2O7Ba2(cr)
+U2O7Ba2     = 2.000Ba+2     + 2.000UO2+     - 6.000H+     + 3.000H2O
+U2O7Na2(s)
+U2O7Na2     = 2.000Na+     + 2.000UO2+2     - 6.000H+     + 3.000H2O
+U3As4(s)
+U3As4     = 3.000UO2+2     - 3.000H2O     + 6.000H+     + 4.000AsO4-3     - 9.500O2
+UAs(s)
+UAs     = 1.000UO2+2     - 0.500H2O     + 1.000H+     + 1.000AsO4-3     - 2.750O2
+UAs2(s)
+UAs2     = 1.000UO2+2     - 2.000H2O     + 4.000H+     + 2.000AsO4-3     - 4.000O2
+UO2(CO3)3Mg2:18H2O(s)
+UO2(CO3)3Mg2:18H2O     = 2.000Mg+2     + 1.000UO2+2     + 3.000CO3-2     + 18.000H2O
+UO2(CO3)3Na4(cr)
+UO2(CO3)3Na4     = 4.000Na+     + 1.000UO2+2     + 3.000CO3-2
+UO2(HPO4):4H2O(cr)
+UO2(HPO4):4H2O     = 1.000UO2+2     - 1.000H+     + 1.000H2(PO4)-     + 4.000H2O
+UO2(OH)2(beta)
+UO2(OH)2     = 1.000UO2+2     - 2.000H+     + 2.000H2O
+UO2(Ox):3H2O(s)
+UO2(Ox):3H2O     = 1.000UO2+2     + 1.000Ox-2     + 3.000H2O
+UO2(SO3)(cr)
+UO2(SO3)     = 1.000UO2+2     + 1.000SO3-2
+UO2(SO4)(cr)
+UO2(SO4)     = 1.000UO2+2     + 1.000SO4-2
+UO2(SO4):2.5H2O(cr)
+UO2(SO4):2.5H2O     = 1.000UO2+2     + 1.000SO4-2     + 2.500H2O
+UO2(SO4):3.5H2O(cr)
+UO2(SO4):3.5H2O     = 1.000UO2+2     + 1.000SO4-2     + 3.500H2O
+UO2(SO4):3H2O(cr)
+UO2(SO4):3H2O     = 1.000UO2+2     + 1.000SO4-2     + 3.000H2O
+UO2.25(s)
+UO2.25     = 1.000U+4     - 4.000H+     + 2.000H2O     + 0.125O2
+UO2.34(beta)
+UO2.34     = 1.000U+4     - 4.000H+     + 2.000H2O     + 0.170O2
+UO2.67(s)
+UO2.67     = 1.000U+4     - 4.000H+     + 2.000H2O     + 0.335O2
+UO2:2H2O(am)
+UO2:2H2O     = 1.000U+4     - 4.000H+     + 4.000H2O
+UO3(alfa)
+UO3     = 1.000UO2+2     - 2.000H+     + 1.000H2O
+UO3(beta)
+UO3     = 1.000UO2+2     - 2.000H+     + 1.000H2O
+UO3Na(s)
+UO3Na     = 1.000Na+     + 1.000UO2+     - 2.000H+     + 1.000H2O
+UO4Ba(s)
+UO4Ba     = 1.000Ba+2     + 1.000UO2+2     - 4.000H+     + 2.000H2O
+UO4Ca(cr)
+UO4Ca     = 1.000Ca+2     + 1.000UO2+2     - 4.000H+     + 2.000H2O
+UO4Li2(s)
+UO4Li2     = 2.000Li+     + 1.000UO2+2     - 4.000H+     + 2.000H2O
+UO4Mg(cr)
+UO4Mg     = 1.000Mg+2     + 1.000UO2+2     - 4.000H+     + 2.000H2O
+UO4Na2(alfa)
+UO4Na2     = 2.000Na+     + 1.000UO2+2     - 4.000H+     + 2.000H2O
+UO4Na3(cr)
+UO4Na3     = 3.000Na+     + 1.000UO2+     - 4.000H+     + 2.000H2O
+UO4Sr(alfa)
+UO4Sr     = 1.000Sr+2     + 1.000UO2+2     - 4.000H+     + 2.000H2O
+UO6Ba3(cr)
+UO6Ba3     = 3.000Ba+2     + 1.000UO2+2     - 8.000H+     + 4.000H2O
+US2(cr)
+US2     = 1.000U+4     - 2.000H+     + 2.000HS-
+USe2(beta)
+USe2     = 1.000U+4     - 2.000H+     + 2.000HSe-
+Uraninite
+UO2     = 1.000U+4     - 4.000H+     + 2.000H2O
+Uranophane
+Ca(UO2)2(SiO3OH)2:5H2O     = 1.000Ca+2     + 2.000UO2+2     - 6.000H+     + 2.000H4(SiO4)     + 5.000H2O
+Vaesite
+NiS2     = 1.000Ni+2     + 2.000HS-     - 1.000H2O     + 0.500O2
+Valentinite
+Sb2O3     = 2.000Sb(OH)3     - 3.000H2O
+Vaterite
+CaCO3     = 1.000Ca+2     + 1.000CO3-2
+Vermiculite-Ca
+Ca0.43Mg3Si3.14Al0.86O10(OH)2     = 0.430Ca+2     + 3.000Mg+2     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     - 0.560H2O
+Vermiculite-K
+K0.86Mg3.00Si3.14Al0.86O10(OH)2     = 3.000Mg+2     + 0.860K+     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     - 0.560H2O
+Vermiculite-Mg
+Mg0.43Mg3Si3.14Al0.86O10(OH)2     = 3.430Mg+2     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     - 0.560H2O
+Vermiculite-Na
+Na0.86Mg3.00Si3.14Al0.86O10(OH)2     = 3.000Mg+2     + 0.860Na+     + 0.860Al+3     - 9.440H+     + 3.140H4(SiO4)     - 0.560H2O
+Vermiculite_SO
+(Ca0.445)(Si2.778Al1.222)(Al0.216Fe0.226Fe0.028Mg2.475)O10(OH)2     = 0.445Ca+2     + 2.475Mg+2     + 0.226Fe+3     + 1.438Al+3     + 2.778H4(SiO4)     + 0.028Fe+2     + 0.888H2O     - 10.888H+
+Vivianite
+Fe3(PO4)2:8H2O     = 3.000Fe+2     - 4.000H+     + 2.000H2(PO4)-     + 8.000H2O
+Wairakite
+CaAl2Si4O12:2H2O     = 1.000Ca+2     + 2.000Al+3     - 8.000H+     + 4.000H4(SiO4)     - 2.000H2O
+Witherite
+Ba(CO3)     = 1.000Ba+2     + 1.000CO3-2
+Xonotlite
+Ca6Si6O17(OH)2     = 6.000Ca+2     - 12.000H+     + 6.000H4(SiO4)     - 5.000H2O
+Zeolite_CaP
+Ca2Al4Si4O16:9H2O     = 2.000Ca+2     + 4.000Al+3     - 16.000H+     + 4.000H4(SiO4)     + 9.000H2O
+Zn(SeO4):6H2O(s)
+Zn(SeO4):6H2O     = 1.000Zn+2     + 1.000SeO4-2     + 6.000H2O
+Zn3(AsO4)2(s)
+Zn3(AsO4)2     = 3.000Zn+2     + 2.000AsO4-3
+ZnB2O4(s)
+ZnB2O4     = 1.000Zn+2     + 2.000B(OH)4-     - 4.000H2O
+Zr(HPO4)2(alfa)
+Zr(HPO4)2     = - 2.000H+     + 2.000H2(PO4)-     + 1.000Zr+4
+Zr(HPO4)2:H2O(cr)
+Zr(HPO4)2:H2O     = - 2.000H+     + 2.000H2(PO4)-     + 1.000Zr+4     + 1.000H2O
+Zr(OH)4(am,aged)
+Zr(OH)4     = - 4.000H+     + 1.000Zr+4     + 4.000H2O
+Zr(OH)4(am,fresh)
+Zr(OH)4     = - 4.000H+     + 1.000Zr+4     + 4.000H2O
+Zr(SO4)2(cr)
+Zr(SO4)2     = 2.000SO4-2     + 1.000Zr+4
+Zr(SO4)2:4H2O(s)
+Zr(SO4)2:4H2O     = 2.000SO4-2     + 1.000Zr+4     + 4.000H2O
+Zr(cr)
+Zr     = 1.000Zr+4     + 2.000H2O     - 4.000H+     - 1.000O2
+ZrBr4(cr)
+ZrBr4     = 4.000Br-     + 1.000Zr+4
+ZrCl(s)
+ZrCl     = 1.000Cl-     + 1.000Zr+4     + 1.500H2O     - 3.000H+     - 0.750O2
+ZrCl2(s)
+ZrCl2     = 2.000Cl-     + 1.000Zr+4     + 1.000H2O     - 2.000H+     - 0.500O2
+ZrCl3(s)
+ZrCl3     = 3.000Cl-     + 1.000Zr+4     + 0.500H2O     - 1.000H+     - 0.250O2
+ZrCl4(s)
+ZrCl4     = 4.000Cl-     + 1.000Zr+4
+ZrF2(s)
+ZrF2     = 2.000F-     + 1.000Zr+4     + 1.000H2O     - 2.000H+     - 0.500O2
+ZrF3(s)
+ZrF3     = 3.000F-     + 1.000Zr+4     + 0.500H2O     - 1.000H+     - 0.250O2
+ZrF4(beta)
+ZrF4     = 4.000F-     + 1.000Zr+4
+ZrI4(cr)
+ZrI4     = 4.000I-     + 1.000Zr+4
+ZrO2(cr)
+ZrO2     = - 4.000H+     + 1.000Zr+4     + 2.000H2O
+ZrSiO4(s)
+ZrSiO4     = - 4.000H+     + 1.000H4(SiO4)     + 1.000Zr+4
+illite-FeIII
+K0.85Fe0.25Al2.6Si3.15O10(OH)2     = 0.850K+     + 0.250Fe+3     + 2.600Al+3     - 9.400H+     + 3.150H4(SiO4)     - 0.600H2O
+CH4(g)
+CH4     = 2.000H+     + 1.000CO3-2     + 1.000H2O     - 2.000O2
+CO(g)
+CO     = 2.000H+     + 1.000CO3-2     - 1.000H2O     - 0.500O2
+CO2(g)
+CO2     = 2.000H+     + 1.000CO3-2     - 1.000H2O
+Cl2(g)
+Cl2     = 2.000Cl-     - 1.000H2O     + 2.000H+     + 0.500O2
+H2(g)
+H2     = 1.000H2O     - 0.500O2
+H2O(g)
+H2O     = 1.000H2O
+H2S(g)
+H2S     = 1.000H+     + 1.000HS-
+HCl(g)
+HCl     = 1.000H+     + 1.000Cl-
+O2(g)
+O2     = 1.000O2
+SO2(g)
+SO2     = 2.000H+     + 1.000SO3-2     - 1.000H2O

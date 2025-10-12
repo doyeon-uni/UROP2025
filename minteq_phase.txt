@@ -1,0 +1,2292 @@
+Sulfur
+	S + H+ + 2e- = HS-
+	log_k	-2.1449
+	delta_h	-16.3	kJ
+Semetal(hex)
+	Se + H+ + 2e- = HSe-
+	log_k	-7.7084
+	delta_h	15.9	kJ
+Semetal(am)
+	Se + H+ + 2e- = HSe-
+	log_k	-7.1099
+	delta_h	10.8784	kJ
+Sbmetal
+	Sb + 3H2O = Sb(OH)3 + 3H+ + 3e-
+	log_k	-11.6889
+	delta_h	83.89	kJ
+Snmetal(wht)
+	Sn + 2H2O = Sn(OH)2 + 2H+ + 2e-
+	log_k	-2.3266
+	delta_h	-0	kJ
+Pbmetal
+	Pb = Pb+2 + 2e-
+	log_k	4.2462
+	delta_h	0.92	kJ
+Tlmetal
+	Tl = Tl+ + e-
+	log_k	5.6762
+	delta_h	5.36	kJ
+Znmetal
+	Zn = Zn+2 + 2e-
+	log_k	25.7886
+	delta_h	-153.39	kJ
+Cdmetal(alpha)
+	Cd = Cd+2 + 2e-
+	log_k	13.5147
+	delta_h	-75.33	kJ
+Cdmetal(gamma)
+	Cd = Cd+2 + 2e-
+	log_k	13.618
+	delta_h	-75.92	kJ
+Hgmetal(l)
+	Hg = 0.5Hg2+2 + e-
+	log_k	-13.4517
+	delta_h	83.435	kJ
+Cumetal
+	Cu = Cu+ + e-
+	log_k	-8.756
+	delta_h	71.67	kJ
+Agmetal
+	Ag = Ag+ + e-
+	log_k	-13.5065
+	delta_h	105.79	kJ
+Crmetal
+	Cr = Cr+2 + 2e-
+	log_k	30.4831
+	delta_h	-172	kJ
+Vmetal
+	V = V+3 + 3e-
+	log_k	44.0253
+	delta_h	-259	kJ
+Stibnite
+	Sb2S3 + 6H2O = 2Sb(OH)3 + 3H+ + 3HS-
+	log_k	-50.46
+	delta_h	293.78	kJ
+Orpiment
+	As2S3 + 6H2O = 2H3AsO3 + 3HS- + 3H+
+	log_k	-61.0663
+	delta_h	350.68	kJ
+Realgar
+	AsS + 3H2O = H3AsO3 + HS- + 2H+ + e-
+	log_k	-19.747
+	delta_h	127.8	kJ
+SnS
+	SnS + 2H2O = Sn(OH)2 + H+ + HS-
+	log_k	-19.114
+	delta_h	-0	kJ
+SnS2
+	SnS2 + 6H2O = Sn(OH)6-2 + 4H+ + 2HS-
+	log_k	-57.4538
+	delta_h	-0	kJ
+Galena
+	PbS + H+ = Pb+2 + HS-
+	log_k	-13.97
+	delta_h	80	kJ
+Tl2S
+	Tl2S + H+ = 2Tl+ + HS-
+	log_k	-7.19
+	delta_h	91.52	kJ
+ZnS(am)
+	ZnS + H+ = Zn+2 + HS-
+	log_k	-9.052
+	delta_h	15.3553	kJ
+Sphalerite
+	ZnS + H+ = Zn+2 + HS-
+	log_k	-11.45
+	delta_h	30	kJ
+Wurtzite
+	ZnS + H+ = Zn+2 + HS-
+	log_k	-8.95
+	delta_h	21.171	kJ
+Greenockite
+	CdS + H+ = Cd+2 + HS-
+	log_k	-14.36
+	delta_h	55	kJ
+Hg2S
+	Hg2S + H+ = Hg2+2 + HS-
+	log_k	-11.6765
+	delta_h	69.7473	kJ
+Cinnabar
+	HgS + 2H2O = Hg(OH)2 + H+ + HS-
+	log_k	-45.694
+	delta_h	253.76	kJ
+Metacinnabar
+	HgS + 2H2O = Hg(OH)2 + H+ + HS-
+	log_k	-45.094
+	delta_h	253.72	kJ
+Chalcocite
+	Cu2S + H+ = 2Cu+ + HS-
+	log_k	-34.92
+	delta_h	168	kJ
+Djurleite
+	Cu0.066Cu1.868S + H+ = 0.066Cu+2 + 1.868Cu+ + HS-
+	log_k	-33.92
+	delta_h	200.334	kJ
+Anilite
+	Cu0.25Cu1.5S + H+ = 0.25Cu+2 + 1.5Cu+ + HS-
+	log_k	-31.878
+	delta_h	182.15	kJ
+BlaubleiII
+	Cu0.6Cu0.8S + H+ = 0.6Cu+2 + 0.8Cu+ + HS-
+	log_k	-27.279
+	delta_h	-0	kJ
+BlaubleiI
+	Cu0.9Cu0.2S + H+ = 0.9Cu+2 + 0.2Cu+ + HS-
+	log_k	-24.162
+	delta_h	-0	kJ
+Covellite
+	CuS + H+ = Cu+2 + HS-
+	log_k	-22.3
+	delta_h	97	kJ
+Chalcopyrite
+	CuFeS2 + 2H+ = Cu+2 + Fe+2 + 2HS-
+	log_k	-35.27
+	delta_h	148.448	kJ
+Acanthite
+	Ag2S + H+ = 2Ag+ + HS-
+	log_k	-36.22
+	delta_h	227	kJ
+NiS(alpha)
+	NiS + H+ = Ni+2 + HS-
+	log_k	-5.6
+	delta_h	-0	kJ
+NiS(beta)
+	NiS + H+ = Ni+2 + HS-
+	log_k	-11.1
+	delta_h	-0	kJ
+NiS(gamma)
+	NiS + H+ = Ni+2 + HS-
+	log_k	-12.8
+	delta_h	-0	kJ
+CoS(alpha)
+	CoS + H+ = Co+2 + HS-
+	log_k	-7.44
+	delta_h	-0	kJ
+CoS(beta)
+	CoS + H+ = Co+2 + HS-
+	log_k	-11.07
+	delta_h	-0	kJ
+FeS(ppt)
+	FeS + H+ = Fe+2 + HS-
+	log_k	-2.95
+	delta_h	-11	kJ
+Greigite
+	Fe3S4 + 4H+ = 2Fe+3 + Fe+2 + 4HS-
+	log_k	-45.035
+	delta_h	-0	kJ
+Mackinawite
+	FeS + H+ = Fe+2 + HS-
+	log_k	-3.6
+	delta_h	-0	kJ
+Pyrite
+	FeS2 + 2H+ + 2e- = Fe+2 + 2HS-
+	log_k	-18.5082
+	delta_h	49.844	kJ
+MnS(grn)
+	MnS + H+ = Mn+2 + HS-
+	log_k	0.17
+	delta_h	-32	kJ
+MnS(pnk)
+	MnS + H+ = Mn+2 + HS-
+	log_k	3.34
+	delta_h	-0	kJ
+MoS2
+	MoS2 + 4H2O = MoO4-2 + 6H+ + 2HS- + 2e-
+	log_k	-70.2596
+	delta_h	389.02	kJ
+BeS
+	BeS + H+ = Be+2 + HS-
+	log_k	19.38
+	delta_h	-0	kJ
+BaS
+	BaS + H+ = Ba+2 + HS-
+	log_k	16.18
+	delta_h	-0	kJ
+Hg2(Cyanide)2
+	Hg2(Cyanide)2 = Hg2+2 + 2Cyanide-
+	log_k	-39.3
+	delta_h	-0	kJ
+CuCyanide
+	CuCyanide = Cu+ + Cyanide-
+	log_k	-19.5
+	delta_h	-19	kJ
+AgCyanide
+	AgCyanide = Ag+ + Cyanide-
+	log_k	-15.74
+	delta_h	110.395	kJ
+Ag2(Cyanide)2
+	Ag2(Cyanide)2 = 2Ag+ + 2Cyanide-
+	log_k	-11.3289
+	delta_h	-0	kJ
+NaCyanide(cubic)
+	NaCyanide = Cyanide- + Na+
+	log_k	1.6012
+	delta_h	0.969	kJ
+KCyanide(cubic)
+	KCyanide = Cyanide- + K+
+	log_k	1.4188
+	delta_h	11.93	kJ
+Pb2Fe(Cyanide)6
+	Pb2Fe(Cyanide)6 = 2Pb+2 + Fe+2 + 6Cyanide-
+	log_k	-53.42
+	delta_h	-0	kJ
+Zn2Fe(Cyanide)6
+	Zn2Fe(Cyanide)6 = 2Zn+2 + Fe+2 + 6Cyanide-
+	log_k	-51.08
+	delta_h	-0	kJ
+Cd2Fe(Cyanide)6
+	Cd2Fe(Cyanide)6 = 2Cd+2 + Fe+2 + 6Cyanide-
+	log_k	-52.78
+	delta_h	-0	kJ
+Ag4Fe(Cyanide)6
+	Ag4Fe(Cyanide)6 = 4Ag+ + Fe+2 + 6Cyanide-
+	log_k	-79.47
+	delta_h	-0	kJ
+Ag3Fe(Cyanide)6
+	Ag3Fe(Cyanide)6 = 3Ag+ + Fe+3 + 6Cyanide-
+	log_k	-72.7867
+	delta_h	-0	kJ
+Mn3(Fe(Cyanide)6)2
+	Mn3(Fe(Cyanide)6)2 = 3Mn+2 + 2Fe+3 + 12Cyanide-
+	log_k	-105.4
+	delta_h	-0	kJ
+Sb2Se3
+	Sb2Se3 + 6H2O = 2Sb(OH)3 + 3HSe- + 3H+
+	log_k	-67.7571
+	delta_h	343.046	kJ
+SnSe
+	SnSe + 2H2O = Sn(OH)2 + H+ + HSe-
+	log_k	-30.494
+	delta_h	-0	kJ
+SnSe2
+	SnSe2 + 6H2O = Sn(OH)6-2 + 4H+ + 2HSe-
+	log_k	-65.1189
+	delta_h	-0	kJ
+Clausthalite
+	PbSe + H+ = Pb+2 + HSe-
+	log_k	-27.1
+	delta_h	119.72	kJ
+Tl2Se
+	Tl2Se + H+ = 2Tl+ + HSe-
+	log_k	-18.1
+	delta_h	85.62	kJ
+ZnSe
+	ZnSe + H+ = Zn+2 + HSe-
+	log_k	-14.4
+	delta_h	25.51	kJ
+CdSe
+	CdSe + H+ = Cd+2 + HSe-
+	log_k	-20.2
+	delta_h	75.9814	kJ
+HgSe
+	HgSe + 2H2O = Hg(OH)2 + H+ + HSe-
+	log_k	-55.694
+	delta_h	-0	kJ
+Cu2Se(alpha)
+	Cu2Se + H+ = 2Cu+ + HSe-
+	log_k	-45.8
+	delta_h	214.263	kJ
+Cu3Se2
+	Cu3Se2 + 2H+ = 2HSe- + 2Cu+ + Cu+2
+	log_k	-63.4911
+	delta_h	340.327	kJ
+CuSe
+	CuSe + H+ = Cu+2 + HSe-
+	log_k	-33.1
+	delta_h	121.127	kJ
+CuSe2
+	CuSe2 + 2H+ + 2e- = 2HSe- + Cu+2
+	log_k	-33.3655
+	delta_h	140.582	kJ
+Ag2Se
+	Ag2Se + H+ = 2Ag+ + HSe-
+	log_k	-48.7
+	delta_h	265.48	kJ
+NiSe
+	NiSe + H+ = Ni+2 + HSe-
+	log_k	-17.7
+	delta_h	-0	kJ
+CoSe
+	CoSe + H+ = Co+2 + HSe-
+	log_k	-16.2
+	delta_h	-0	kJ
+FeSe
+	FeSe + H+ = Fe+2 + HSe-
+	log_k	-11
+	delta_h	2.092	kJ
+Ferroselite
+	FeSe2 + 2H+ + 2e- = 2HSe- + Fe+2
+	log_k	-18.5959
+	delta_h	47.2792	kJ
+MnSe
+	MnSe + H+ = Mn+2 + HSe-
+	log_k	3.5
+	delta_h	-98.15	kJ
+AlSb
+	AlSb + 3H2O = Sb(OH)3 + 6e- + Al+3 + 3H+
+	log_k	65.6241
+	delta_h	-0	kJ
+ZnSb
+	ZnSb + 3H2O = Sb(OH)3 + 5e- + Zn+2 + 3H+
+	log_k	11.0138
+	delta_h	-54.8773	kJ
+CdSb
+	CdSb + 3H2O = Sb(OH)3 + 5e- + 3H+ + Cd+2
+	log_k	-0.3501
+	delta_h	22.36	kJ
+Cu2Sb:3H2O
+	Cu2Sb:3H2O = Sb(OH)3 + 6e- + 3H+ + Cu+ + Cu+2
+	log_k	-34.8827
+	delta_h	233.237	kJ
+Cu3Sb
+	Cu3Sb + 3H2O = Sb(OH)3 + 6e- + 3H+ + 3Cu+
+	log_k	-42.5937
+	delta_h	308.131	kJ
+#Ag4Sb
+#	Ag4Sb + 3H2O = Sb(OH)3 + 6e- + 3Ag+ + 3H+
+#	log_k	-56.1818
+#	delta_h	-0	kJ
+Breithauptite
+	NiSb + 3H2O = Sb(OH)3 + 5e- + 3H+ + Ni+2
+	log_k	-18.5225
+	delta_h	96.0019	kJ
+MnSb
+	MnSb + 3H2O = Mn+3 + Sb(OH)3 + 6e- + 3H+
+	log_k	-2.9099
+	delta_h	21.1083	kJ
+Mn2Sb
+	Mn2Sb + 3H2O = 2Mn+2 + Sb(OH)3 + 7e- + 3H+
+	log_k	61.0796
+	delta_h	-0	kJ
+USb2
+	USb2 + 8H2O = UO2+2 + 2Sb(OH)3 + 12e- + 10H+
+	log_k	29.5771
+	delta_h	-103.56	kJ
+U3Sb4
+	U3Sb4 + 12H2O = 3U+4 + 4Sb(OH)3 + 24e- + 12H+
+	log_k	152.383
+	delta_h	-986.04	kJ
+Mg2Sb3
+	Mg2Sb3 + 9H2O = 2Mg+2 + 3Sb(OH)3 + 9H+ + 13e-
+	log_k	74.6838
+	delta_h	-0	kJ
+Ca3Sb2
+	Ca3Sb2 + 6H2O = 3Ca+2 + 2Sb(OH)3 + 6H+ + 12e-
+	log_k	142.974
+	delta_h	-732.744	kJ
+NaSb
+	NaSb + 3H2O = Na+ + Sb(OH)3 + 3H+ + 4e-
+	log_k	23.1658
+	delta_h	-93.45	kJ
+Na3Sb
+	Na3Sb + 3H2O = 3Na+ + Sb(OH)3 + 3H+ + 6e-
+	log_k	94.4517
+	delta_h	-432.13	kJ
+SeO2
+	SeO2 + H2O = HSeO3- + H+
+	log_k	0.1246
+	delta_h	1.4016	kJ
+SeO3
+	SeO3 + H2O = SeO4-2 + 2H+
+	log_k	21.044
+	delta_h	-146.377	kJ
+Sb2O5
+	Sb2O5 + 7H2O = 2Sb(OH)6- + 2H+
+	log_k	-9.6674
+	delta_h	-0	kJ
+SbO2
+	SbO2 + 4H2O = Sb(OH)6- + e- + 2H+
+	log_k	-27.8241
+	delta_h	-0	kJ
+Sb2O4
+	Sb2O4 + 2H2O + 2H+ + 2e- = 2Sb(OH)3
+	log_k	3.4021
+	delta_h	-68.04	kJ
+Sb4O6(cubic)
+	Sb4O6 + 6H2O = 4Sb(OH)3
+	log_k	-18.2612
+	delta_h	61.1801	kJ
+Sb4O6(orth)
+	Sb4O6 + 6H2O = 4Sb(OH)3
+	log_k	-17.9012
+	delta_h	37.6801	kJ
+Sb(OH)3
+	Sb(OH)3 = Sb(OH)3
+	log_k	-7.1099
+	delta_h	30.1248	kJ
+Senarmontite
+	Sb2O3 + 3H2O = 2Sb(OH)3
+	log_k	-12.3654
+	delta_h	30.6478	kJ
+Valentinite
+	Sb2O3 + 3H2O = 2Sb(OH)3
+	log_k	-8.4806
+	delta_h	19.0163	kJ
+Chalcedony
+	SiO2 + 2H2O = H4SiO4
+	log_k	-3.55
+	delta_h	19.7	kJ
+Cristobalite
+	SiO2 + 2H2O = H4SiO4
+	log_k	-3.35
+	delta_h	20.006	kJ
+Quartz
+	SiO2 + 2H2O = H4SiO4
+	log_k	-4
+	delta_h	22.36	kJ
+SiO2(am-gel)
+	SiO2 + 2H2O = H4SiO4
+	log_k	-2.71
+	delta_h	14	kJ
+SiO2(am-ppt)
+	SiO2 + 2H2O = H4SiO4
+	log_k	-2.74
+	delta_h	15.15	kJ
+SnO
+	SnO + H2O = Sn(OH)2
+	log_k	-4.9141
+	delta_h	-0	kJ
+SnO2
+	SnO2 + 4H2O = Sn(OH)6-2 + 2H+
+	log_k	-28.9749
+	delta_h	-0	kJ
+Sn(OH)2
+	Sn(OH)2 = Sn(OH)2
+	log_k	-5.4309
+	delta_h	-0	kJ
+Sn(OH)4
+	Sn(OH)4 + 2H2O = Sn(OH)6-2 + 2H+
+	log_k	-22.2808
+	delta_h	-0	kJ
+H2Sn(OH)6
+	H2Sn(OH)6 = Sn(OH)6-2 + 2H+
+	log_k	-23.5281
+	delta_h	-0	kJ
+Massicot
+	PbO + 2H+ = Pb+2 + H2O
+	log_k	12.894
+	delta_h	-66.848	kJ
+Litharge
+	PbO + 2H+ = Pb+2 + H2O
+	log_k	12.694
+	delta_h	-65.501	kJ
+PbO:0.3H2O
+	PbO:0.33H2O + 2H+ = Pb+2 + 1.33H2O
+	log_k	12.98
+	delta_h	-0	kJ
+Plattnerite
+	PbO2 + 4H+ + 2e- = Pb+2 + 2H2O
+	log_k	49.6001
+	delta_h	-296.27	kJ
+Pb(OH)2
+	Pb(OH)2 + 2H+ = Pb+2 + 2H2O
+	log_k	8.15
+	delta_h	-58.5342	kJ
+Pb2O(OH)2
+	Pb2O(OH)2 + 4H+ = 2Pb+2 + 3H2O
+	log_k	26.188
+	delta_h	-0	kJ
+Al(OH)3(am)
+	Al(OH)3 + 3H+ = Al+3 + 3H2O
+	log_k	10.8
+	delta_h	-111	kJ
+Boehmite
+	AlOOH + 3H+ = Al+3 + 2H2O
+	log_k	8.578
+	delta_h	-117.696	kJ
+Diaspore
+	AlOOH + 3H+ = Al+3 + 2H2O
+	log_k	6.873
+	delta_h	-103.052	kJ
+Gibbsite
+	Al(OH)3 + 3H+ = Al+3 + 3H2O
+	log_k	8.291
+	delta_h	-95.3952	kJ
+Tl2O
+	Tl2O + 2H+ = 2Tl+ + H2O
+	log_k	27.0915
+	delta_h	-96.41	kJ
+TlOH
+	TlOH + H+ = Tl+ + H2O
+	log_k	12.9186
+	delta_h	-41.57	kJ
+Avicennite
+	Tl2O3 + 3H2O = 2Tl(OH)3
+	log_k	-13
+	delta_h	-0	kJ
+Tl(OH)3
+	Tl(OH)3 = Tl(OH)3
+	log_k	-5.441
+	delta_h	-0	kJ
+Zn(OH)2(am)
+	Zn(OH)2 + 2H+ = Zn+2 + 2H2O
+	log_k	12.474
+	delta_h	-80.62	kJ
+Zn(OH)2
+	Zn(OH)2 + 2H+ = Zn+2 + 2H2O
+	log_k	12.2
+	delta_h	-0	kJ
+Zn(OH)2(beta)
+	Zn(OH)2 + 2H+ = Zn+2 + 2H2O
+	log_k	11.754
+	delta_h	-83.14	kJ
+Zn(OH)2(gamma)
+	Zn(OH)2 + 2H+ = Zn+2 + 2H2O
+	log_k	11.734
+	delta_h	-0	kJ
+Zn(OH)2(epsilon)
+	Zn(OH)2 + 2H+ = Zn+2 + 2H2O
+	log_k	11.534
+	delta_h	-81.8	kJ
+ZnO(active)
+	ZnO + 2H+ = Zn+2 + H2O
+	log_k	11.1884
+	delta_h	-88.76	kJ
+Zincite
+	ZnO + 2H+ = Zn+2 + H2O
+	log_k	11.334
+	delta_h	-89.62	kJ
+Cd(OH)2(am)
+	Cd(OH)2 + 2H+ = Cd+2 + 2H2O
+	log_k	13.73
+	delta_h	-86.9017	kJ
+Cd(OH)2
+	Cd(OH)2 + 2H+ = Cd+2 + 2H2O
+	log_k	13.644
+	delta_h	-94.62	kJ
+Monteponite
+	CdO + 2H+ = Cd+2 + H2O
+	log_k	15.1034
+	delta_h	-103.4	kJ
+Hg2(OH)2
+	Hg2(OH)2 + 2H+ = Hg2+2 + 2H2O
+	log_k	5.2603
+	delta_h	-0	kJ
+Montroydite
+	HgO + H2O = Hg(OH)2
+	log_k	-3.64
+	delta_h	-38.9	kJ
+Hg(OH)2
+	Hg(OH)2 = Hg(OH)2
+	log_k	-3.4963
+	delta_h	-0	kJ
+Cuprite
+	Cu2O + 2H+ = 2Cu+ + H2O
+	log_k	-1.406
+	delta_h	-124.02	kJ
+Cu(OH)2
+	Cu(OH)2 + 2H+ = Cu+2 + 2H2O
+	log_k	8.674
+	delta_h	-56.42	kJ
+Tenorite
+	CuO + 2H+ = Cu+2 + H2O
+	log_k	7.644
+	delta_h	-64.867	kJ
+Ag2O
+	Ag2O + 2H+ = 2Ag+ + H2O
+	log_k	12.574
+	delta_h	-45.62	kJ
+Ni(OH)2
+	Ni(OH)2 + 2H+ = Ni+2 + 2H2O
+	log_k	12.794
+	delta_h	-95.96	kJ
+Bunsenite
+	NiO + 2H+ = Ni+2 + H2O
+	log_k	12.4456
+	delta_h	-100.13	kJ
+CoO
+	CoO + 2H+ = Co+2 + H2O
+	log_k	13.5864
+	delta_h	-106.295	kJ
+Co(OH)2
+	Co(OH)2 + 2H+ = Co+2 + 2H2O
+	log_k	13.094
+	delta_h	-0	kJ
+Co(OH)3
+	Co(OH)3 + 3H+ = Co+3 + 3H2O
+	log_k	-2.309
+	delta_h	-92.43	kJ
+#Wustite-0.11
+#	WUSTITE-0.11 + 2H+ = 0.947Fe+2 + H2O
+#	log_k	11.6879
+#	delta_h	-103.938	kJ
+Fe(OH)2
+	Fe(OH)2 + 2H+ = Fe+2 + 2H2O
+	log_k	13.564
+	delta_h	-0	kJ
+Ferrihydrite
+	Fe(OH)3 + 3H+ = Fe+3 + 3H2O
+	log_k	3.191
+	delta_h	-73.374	kJ
+Fe3(OH)8
+	Fe3(OH)8 + 8H+ = 2Fe+3 + Fe+2 + 8H2O
+	log_k	20.222
+	delta_h	-0	kJ
+Goethite
+	FeOOH + 3H+ = Fe+3 + 2H2O
+	log_k	0.491
+	delta_h	-60.5843	kJ
+Pyrolusite
+	MnO2 + 4H+ + 2e- = Mn+2 + 2H2O
+	log_k	41.38
+	delta_h	-272	kJ
+Birnessite
+	MnO2 + 4H+ + e- = Mn+3 + 2H2O
+	log_k	18.091
+	delta_h	-0	kJ
+Nsutite
+	MnO2 + 4H+ + e- = Mn+3 + 2H2O
+	log_k	17.504
+	delta_h	-0	kJ
+Pyrochroite
+	Mn(OH)2 + 2H+ = Mn+2 + 2H2O
+	log_k	15.194
+	delta_h	-97.0099	kJ
+Manganite
+	MnOOH + 3H+ + e- = Mn+2 + 2H2O
+	log_k	25.34
+	delta_h	-0	kJ
+Cr(OH)2
+	Cr(OH)2 + 2H+ = Cr+2 + 2H2O
+	log_k	10.8189
+	delta_h	-35.6058	kJ
+Cr(OH)3(am)
+	Cr(OH)3 + H+ = Cr(OH)2+ + H2O
+	log_k	-0.75
+	delta_h	-0	kJ
+Cr(OH)3
+	Cr(OH)3 + H+ = Cr(OH)2+ + H2O
+	log_k	1.3355
+	delta_h	-29.7692	kJ
+CrO3
+	CrO3 + H2O = CrO4-2 + 2H+
+	log_k	-3.2105
+	delta_h	-5.2091	kJ
+MoO3
+	MoO3 + H2O = MoO4-2 + 2H+
+	log_k	-8
+	delta_h	-0	kJ
+VO
+	VO + 2H+ = V+3 + H2O + e-
+	log_k	14.7563
+	delta_h	-113.041	kJ
+V(OH)3
+	V(OH)3 + 3H+ = V+3 + 3H2O
+	log_k	7.591
+	delta_h	-0	kJ
+VO(OH)2
+	VO(OH)2 + 2H+ = VO+2 + 2H2O
+	log_k	5.1506
+	delta_h	-0	kJ
+Uraninite
+	UO2 + 4H+ = U+4 + 2H2O
+	log_k	-4.6693
+	delta_h	-77.86	kJ
+UO2(am)
+	UO2 + 4H+ = U+4 + 2H2O
+	log_k	0.934
+	delta_h	-109.746	kJ
+UO3
+	UO3 + 2H+ = UO2+2 + H2O
+	log_k	7.7
+	delta_h	-81.0299	kJ
+Gummite
+	UO3 + 2H+ = UO2+2 + H2O
+	log_k	7.6718
+	delta_h	-81.0299	kJ
+UO2(OH)2(beta)
+	UO2(OH)2 + 2H+ = UO2+2 + 2H2O
+	log_k	5.6116
+	delta_h	-56.7599	kJ
+Schoepite
+	UO2(OH)2:H2O + 2H+ = UO2+2 + 3H2O
+	log_k	5.994
+	delta_h	-49.79	kJ
+Be(OH)2(am)
+	Be(OH)2 + 2H+ = Be+2 + 2H2O
+	log_k	7.194
+	delta_h	-0	kJ
+Be(OH)2(alpha)
+	Be(OH)2 + 2H+ = Be+2 + 2H2O
+	log_k	6.894
+	delta_h	-0	kJ
+Be(OH)2(beta)
+	Be(OH)2 + 2H+ = Be+2 + 2H2O
+	log_k	6.494
+	delta_h	-0	kJ
+Brucite
+	Mg(OH)2 + 2H+ = Mg+2 + 2H2O
+	log_k	16.844
+	delta_h	-113.996	kJ
+Periclase
+	MgO + 2H+ = Mg+2 + H2O
+	log_k	21.5841
+	delta_h	-151.23	kJ
+Mg(OH)2(active)
+	Mg(OH)2 + 2H+ = Mg+2 + 2H2O
+	log_k	18.794
+	delta_h	-0	kJ
+Lime
+	CaO + 2H+ = Ca+2 + H2O
+	log_k	32.6993
+	delta_h	-193.91	kJ
+Portlandite
+	Ca(OH)2 + 2H+ = Ca+2 + 2H2O
+	log_k	22.804
+	delta_h	-128.62	kJ
+Ba(OH)2:8H2O
+	Ba(OH)2:8H2O + 2H+ = Ba+2 + 10H2O
+	log_k	24.394
+	delta_h	-54.32	kJ
+Cu(SbO3)2
+	Cu(SbO3)2 + 6H+ + 4e- = 2Sb(OH)3 + Cu+2
+	log_k	45.2105
+	delta_h	-0	kJ
+Arsenolite
+	As4O6 + 6H2O = 4H3AsO3
+	log_k	-2.76
+	delta_h	59.9567	kJ
+Claudetite
+	As4O6 + 6H2O = 4H3AsO3
+	log_k	-3.065
+	delta_h	55.6054	kJ
+As2O5
+	As2O5 + 3H2O = 2H3AsO4
+	log_k	6.7061
+	delta_h	-22.64	kJ
+Pb2O3
+	Pb2O3 + 6H+ + 2e- = 2Pb+2 + 3H2O
+	log_k	61.04
+	delta_h	-0	kJ
+Minium
+	Pb3O4 + 8H+ + 2e- = 3Pb+2 + 4H2O
+	log_k	73.5219
+	delta_h	-421.874	kJ
+Al2O3
+	Al2O3 + 6H+ = 2Al+3 + 3H2O
+	log_k	19.6524
+	delta_h	-258.59	kJ
+Co3O4
+	Co3O4 + 8H+ = Co+2 + 2Co+3 + 4H2O
+	log_k	-10.4956
+	delta_h	-107.5	kJ
+CoFe2O4
+	CoFe2O4 + 8H+ = Co+2 + 2Fe+3 + 4H2O
+	log_k	-3.5281
+	delta_h	-158.82	kJ
+Magnetite
+	Fe3O4 + 8H+ = 2Fe+3 + Fe+2 + 4H2O
+	log_k	3.4028
+	delta_h	-208.526	kJ
+Hercynite
+	FeAl2O4 + 8H+ = Fe+2 + 2Al+3 + 4H2O
+	log_k	22.893
+	delta_h	-313.92	kJ
+Hematite
+	Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+	log_k	-1.418
+	delta_h	-128.987	kJ
+Maghemite
+	Fe2O3 + 6H+ = 2Fe+3 + 3H2O
+	log_k	6.386
+	delta_h	-0	kJ
+Lepidocrocite
+	FeOOH + 3H+ = Fe+3 + 2H2O
+	log_k	1.371
+	delta_h	-0	kJ
+Hausmannite
+	Mn3O4 + 8H+ + 2e- = 3Mn+2 + 4H2O
+	log_k	61.03
+	delta_h	-421	kJ
+Bixbyite
+	Mn2O3 + 6H+ = 2Mn+3 + 3H2O
+	log_k	-0.6445
+	delta_h	-124.49	kJ
+Cr2O3
+	Cr2O3 + H2O + 2H+ = 2Cr(OH)2+
+	log_k	-2.3576
+	delta_h	-50.731	kJ
+#V2O3
+#	V2O3 + 3H+ = V+3 + 1.5H2O
+#	log_k	4.9
+#	delta_h	-82.5085	kJ
+V3O5
+	V3O5 + 4H+ = 3VO+2 + 2H2O + 2e-
+	log_k	1.8361
+	delta_h	-98.46	kJ
+#V2O4
+#	V2O4 + 2H+ = VO+2 + H2O
+#	log_k	4.27
+#	delta_h	-58.8689	kJ
+V4O7
+	V4O7 + 6H+ = 4VO+2 + 3H2O + 2e-
+	log_k	7.1865
+	delta_h	-163.89	kJ
+V6O13
+	V6O13 + 2H+ = 6VO2+ + H2O + 4e-
+	log_k	-60.86
+	delta_h	271.5	kJ
+V2O5
+	V2O5 + 2H+ = 2VO2+ + H2O
+	log_k	-1.36
+	delta_h	34	kJ
+U4O9
+	U4O9 + 18H+ + 2e- = 4U+4 + 9H2O
+	log_k	-3.0198
+	delta_h	-426.87	kJ
+U3O8
+	U3O8 + 16H+ + 4e- = 3U+4 + 8H2O
+	log_k	21.0834
+	delta_h	-485.44	kJ
+Spinel
+	MgAl2O4 + 8H+ = Mg+2 + 2Al+3 + 4H2O
+	log_k	36.8476
+	delta_h	-388.012	kJ
+Magnesioferrite
+	Fe2MgO4 + 8H+ = Mg+2 + 2Fe+3 + 4H2O
+	log_k	16.8597
+	delta_h	-278.92	kJ
+Natron
+	Na2CO3:10H2O = 2Na+ + CO3-2 + 10H2O
+	log_k	-1.311
+	delta_h	65.8771	kJ
+Cuprousferrite
+	CuFeO2 + 4H+ = Cu+ + Fe+3 + 2H2O
+	log_k	-8.9171
+	delta_h	-15.89	kJ
+Cupricferrite
+	CuFe2O4 + 8H+ = Cu+2 + 2Fe+3 + 4H2O
+	log_k	5.9882
+	delta_h	-210.21	kJ
+FeCr2O4
+	FeCr2O4 + 4H+ = 2Cr(OH)2+ + Fe+2
+	log_k	7.2003
+	delta_h	-140.4	kJ
+MgCr2O4
+	MgCr2O4 + 4H+ = 2Cr(OH)2+ + Mg+2
+	log_k	16.2007
+	delta_h	-179.4	kJ
+SbF3
+	SbF3 + 3H2O = Sb(OH)3 + 3H+ + 3F-
+	log_k	-10.2251
+	delta_h	-6.7279	kJ
+PbF2
+	PbF2 = Pb+2 + 2F-
+	log_k	-7.44
+	delta_h	20	kJ
+ZnF2
+	ZnF2 = Zn+2 + 2F-
+	log_k	-0.5343
+	delta_h	-59.69	kJ
+CdF2
+	CdF2 = Cd+2 + 2F-
+	log_k	-1.2124
+	delta_h	-46.22	kJ
+Hg2F2
+	Hg2F2 = Hg2+2 + 2F-
+	log_k	-10.3623
+	delta_h	-18.486	kJ
+CuF
+	CuF = Cu+ + F-
+	log_k	-4.9056
+	delta_h	16.648	kJ
+CuF2
+	CuF2 = Cu+2 + 2F-
+	log_k	1.115
+	delta_h	-66.901	kJ
+CuF2:2H2O
+	CuF2:2H2O = Cu+2 + 2F- + 2H2O
+	log_k	-4.55
+	delta_h	-15.2716	kJ
+AgF:4H2O
+	AgF:4H2O = Ag+ + F- + 4H2O
+	log_k	1.0491
+	delta_h	15.4202	kJ
+CoF2
+	CoF2 = Co+2 + 2F-
+	log_k	-1.5969
+	delta_h	-57.368	kJ
+CoF3
+	CoF3 = Co+3 + 3F-
+	log_k	-1.4581
+	delta_h	-123.692	kJ
+CrF3
+	CrF3 + 2H2O = Cr(OH)2+ + 3F- + 2H+
+	log_k	-11.3367
+	delta_h	-23.3901	kJ
+VF4
+	VF4 + H2O = VO+2 + 4F- + 2H+
+	log_k	14.93
+	delta_h	-199.117	kJ
+UF4
+	UF4 = U+4 + 4F-
+	log_k	-29.5371
+	delta_h	-79.0776	kJ
+UF4:2.5H2O
+	UF4:2.5H2O = U+4 + 4F- + 2.5H2O
+	log_k	-32.7179
+	delta_h	24.325	kJ
+MgF2
+	MgF2 = Mg+2 + 2F-
+	log_k	-8.13
+	delta_h	-8	kJ
+Fluorite
+	CaF2 = Ca+2 + 2F-
+	log_k	-10.5
+	delta_h	8	kJ
+SrF2
+	SrF2 = Sr+2 + 2F-
+	log_k	-8.58
+	delta_h	4	kJ
+BaF2
+	BaF2 = Ba+2 + 2F-
+	log_k	-5.82
+	delta_h	4	kJ
+Cryolite
+	Na3AlF6 = 3Na+ + Al+3 + 6F-
+	log_k	-33.84
+	delta_h	38	kJ
+SbCl3
+	SbCl3 + 3H2O = Sb(OH)3 + 3Cl- + 3H+
+	log_k	0.5719
+	delta_h	-35.18	kJ
+SnCl2
+	SnCl2 + 2H2O = Sn(OH)2 + 2H+ + 2Cl-
+	log_k	-9.2752
+	delta_h	-0	kJ
+Cotunnite
+	PbCl2 = Pb+2 + 2Cl-
+	log_k	-4.78
+	delta_h	26.166	kJ
+Matlockite
+	PbClF = Pb+2 + Cl- + F-
+	log_k	-8.9733
+	delta_h	33.19	kJ
+Phosgenite
+	PbCl2:PbCO3 = 2Pb+2 + 2Cl- + CO3-2
+	log_k	-19.81
+	delta_h	-0	kJ
+Laurionite
+	PbOHCl + H+ = Pb+2 + Cl- + H2O
+	log_k	0.623
+	delta_h	-0	kJ
+Pb2(OH)3Cl
+	Pb2(OH)3Cl + 3H+ = 2Pb+2 + 3H2O + Cl-
+	log_k	8.793
+	delta_h	-0	kJ
+TlCl
+	TlCl = Tl+ + Cl-
+	log_k	-3.74
+	delta_h	41	kJ
+ZnCl2
+	ZnCl2 = Zn+2 + 2Cl-
+	log_k	7.05
+	delta_h	-72.5	kJ
+Zn2(OH)3Cl
+	Zn2(OH)3Cl + 3H+ = 2Zn+2 + 3H2O + Cl-
+	log_k	15.191
+	delta_h	-0	kJ
+Zn5(OH)8Cl2
+	Zn5(OH)8Cl2 + 8H+ = 5Zn+2 + 8H2O + 2Cl-
+	log_k	38.5
+	delta_h	-0	kJ
+CdCl2
+	CdCl2 = Cd+2 + 2Cl-
+	log_k	-0.6588
+	delta_h	-18.58	kJ
+CdCl2:1H2O
+	CdCl2:1H2O = Cd+2 + 2Cl- + H2O
+	log_k	-1.6932
+	delta_h	-7.47	kJ
+CdCl2:2.5H2O
+	CdCl2:2.5H2O = Cd+2 + 2Cl- + 2.5H2O
+	log_k	-1.913
+	delta_h	7.2849	kJ
+CdOHCl
+	CdOHCl + H+ = Cd+2 + H2O + Cl-
+	log_k	3.5373
+	delta_h	-30.93	kJ
+Calomel
+	Hg2Cl2 = Hg2+2 + 2Cl-
+	log_k	-17.91
+	delta_h	92	kJ
+HgCl2
+	HgCl2 + 2H2O = Hg(OH)2 + 2Cl- + 2H+
+	log_k	-21.2621
+	delta_h	107.82	kJ
+Nantokite
+	CuCl = Cu+ + Cl-
+	log_k	-6.73
+	delta_h	42.662	kJ
+Melanothallite
+	CuCl2 = Cu+2 + 2Cl-
+	log_k	6.2572
+	delta_h	-63.407	kJ
+Atacamite
+	Cu2(OH)3Cl + 3H+ = 2Cu+2 + 3H2O + Cl-
+	log_k	7.391
+	delta_h	-93.43	kJ
+Cerargyrite
+	AgCl = Ag+ + Cl-
+	log_k	-9.75
+	delta_h	65.2	kJ
+CoCl2
+	CoCl2 = Co+2 + 2Cl-
+	log_k	8.2672
+	delta_h	-79.815	kJ
+CoCl2:6H2O
+	CoCl2:6H2O = Co+2 + 2Cl- + 6H2O
+	log_k	2.5365
+	delta_h	8.0598	kJ
+(Co(NH3)6)Cl3
+	(Co(NH3)6)Cl3 + 6H+ = Co+3 + 6NH4+ + 3Cl-
+	log_k	20.0317
+	delta_h	-33.1	kJ
+(Co(NH3)5OH2)Cl3
+	(Co(NH3)5OH2)Cl3 + 5H+ = Co+3 + 5NH4+ + 3Cl- + H2O
+	log_k	11.7351
+	delta_h	-25.37	kJ
+(Co(NH3)5Cl)Cl2
+	(Co(NH3)5Cl)Cl2 + 5H+ = Co+3 + 5NH4+ + 3Cl-
+	log_k	4.5102
+	delta_h	-10.74	kJ
+Fe(OH)2.7Cl.3
+	Fe(OH)2.7Cl.3 + 2.7H+ = Fe+3 + 2.7H2O + 0.3Cl-
+	log_k	-3.04
+	delta_h	-0	kJ
+MnCl2:4H2O
+	MnCl2:4H2O = Mn+2 + 2Cl- + 4H2O
+	log_k	2.7151
+	delta_h	-10.83	kJ
+CrCl2
+	CrCl2 = Cr+2 + 2Cl-
+	log_k	14.0917
+	delta_h	-110.76	kJ
+CrCl3
+	CrCl3 + 2H2O = Cr(OH)2+ + 3Cl- + 2H+
+	log_k	15.1145
+	delta_h	-121.08	kJ
+VCl2
+	VCl2 = V+3 + 2Cl- + e-
+	log_k	18.8744
+	delta_h	-141.16	kJ
+VCl3
+	VCl3 = V+3 + 3Cl-
+	log_k	23.4326
+	delta_h	-179.54	kJ
+VOCl
+	VOCl + 2H+ = V+3 + Cl- + H2O
+	log_k	11.1524
+	delta_h	-104.91	kJ
+VOCl2
+	VOCl2 = VO+2 + 2Cl-
+	log_k	12.7603
+	delta_h	-117.76	kJ
+VO2Cl
+	VO2Cl = VO2+ + Cl-
+	log_k	2.8413
+	delta_h	-40.28	kJ
+Halite
+	NaCl = Na+ + Cl-
+	log_k	1.6025
+	delta_h	3.7	kJ
+SbBr3
+	SbBr3 + 3H2O = Sb(OH)3 + 3Br- + 3H+
+	log_k	0.9689
+	delta_h	-20.94	kJ
+SnBr2
+	SnBr2 + 2H2O = Sn(OH)2 + 2H+ + 2Br-
+	log_k	-9.5443
+	delta_h	-0	kJ
+SnBr4
+	SnBr4 + 6H2O = Sn(OH)6-2 + 6H+ + 4Br-
+	log_k	-28.8468
+	delta_h	-0	kJ
+PbBr2
+	PbBr2 = Pb+2 + 2Br-
+	log_k	-5.3
+	delta_h	35.499	kJ
+PbBrF
+	PbBrF = Pb+2 + Br- + F-
+	log_k	-8.49
+	delta_h	-0	kJ
+TlBr
+	TlBr = Tl+ + Br-
+	log_k	-5.44
+	delta_h	54	kJ
+ZnBr2:2H2O
+	ZnBr2:2H2O = Zn+2 + 2Br- + 2H2O
+	log_k	5.2005
+	delta_h	-30.67	kJ
+CdBr2:4H2O
+	CdBr2:4H2O = Cd+2 + 2Br- + 4H2O
+	log_k	-2.425
+	delta_h	30.5001	kJ
+Hg2Br2
+	Hg2Br2 = Hg2+2 + 2Br-
+	log_k	-22.25
+	delta_h	133	kJ
+HgBr2
+	HgBr2 + 2H2O = Hg(OH)2 + 2Br- + 2H+
+	log_k	-25.2734
+	delta_h	138.492	kJ
+CuBr
+	CuBr = Cu+ + Br-
+	log_k	-8.3
+	delta_h	54.86	kJ
+Cu2(OH)3Br
+	Cu2(OH)3Br + 3H+ = 2Cu+2 + 3H2O + Br-
+	log_k	7.9085
+	delta_h	-93.43	kJ
+Bromyrite
+	AgBr = Ag+ + Br-
+	log_k	-12.3
+	delta_h	84.5	kJ
+(Co(NH3)6)Br3
+	(Co(NH3)6)Br3 + 6H+ = Co+3 + 6NH4+ + 3Br-
+	log_k	18.3142
+	delta_h	-21.1899	kJ
+(Co(NH3)5Cl)Br2
+	(Co(NH3)5Cl)Br2 + 5H+ = Co+3 + 5NH4+ + Cl- + 2Br-
+	log_k	5.0295
+	delta_h	-6.4	kJ
+CrBr3
+	CrBr3 + 2H2O = Cr(OH)2+ + 3Br- + 2H+
+	log_k	19.9086
+	delta_h	-141.323	kJ
+AsI3
+	AsI3 + 3H2O = H3AsO3 + 3I- + 3H+
+	log_k	4.2307
+	delta_h	3.15	kJ
+SbI3
+	SbI3 + 3H2O = Sb(OH)3 + 3H+ + 3I-
+	log_k	-0.538
+	delta_h	13.5896	kJ
+PbI2
+	PbI2 = Pb+2 + 2I-
+	log_k	-8.1
+	delta_h	62	kJ
+TlI
+	TlI = Tl+ + I-
+	log_k	-7.23
+	delta_h	75	kJ
+ZnI2
+	ZnI2 = Zn+2 + 2I-
+	log_k	7.3055
+	delta_h	-58.92	kJ
+CdI2
+	CdI2 = Cd+2 + 2I-
+	log_k	-3.5389
+	delta_h	13.82	kJ
+Hg2I2
+	Hg2I2 = Hg2+2 + 2I-
+	log_k	-28.34
+	delta_h	163	kJ
+Coccinite
+	HgI2 + 2H2O = Hg(OH)2 + 2H+ + 2I-
+	log_k	-34.9525
+	delta_h	210.72	kJ
+HgI2:2NH3
+	HgI2:2NH3 + 2H2O = Hg(OH)2 + 2I- + 2NH4+
+	log_k	-16.2293
+	delta_h	132.18	kJ
+HgI2:6NH3
+	HgI2:6NH3 + 2H2O + 4H+ = Hg(OH)2 + 2I- + 6NH4+
+	log_k	33.7335
+	delta_h	-90.3599	kJ
+CuI
+	CuI = Cu+ + I-
+	log_k	-12
+	delta_h	82.69	kJ
+Iodyrite
+	AgI = Ag+ + I-
+	log_k	-16.08
+	delta_h	110	kJ
+(Co(NH3)6)I3
+	(Co(NH3)6)I3 + 6H+ = Co+3 + 6NH4+ + 3I-
+	log_k	16.5831
+	delta_h	-9.6999	kJ
+(Co(NH3)5Cl)I2
+	(Co(NH3)5Cl)I2 + 5H+ = Co+3 + 5NH4+ + Cl- + 2I-
+	log_k	5.5981
+	delta_h	0.66	kJ
+CrI3
+	CrI3 + 2H2O = Cr(OH)2+ + 3I- + 2H+
+	log_k	20.4767
+	delta_h	-134.419	kJ
+Cerussite
+	PbCO3 = Pb+2 + CO3-2
+	log_k	-13.13
+	delta_h	24.79	kJ
+Pb2OCO3
+	Pb2OCO3 + 2H+ = 2Pb+2 + H2O + CO3-2
+	log_k	-0.5578
+	delta_h	-40.8199	kJ
+Pb3O2CO3
+	Pb3O2CO3 + 4H+ = 3Pb+2 + CO3-2 + 2H2O
+	log_k	11.02
+	delta_h	-110.583	kJ
+Hydrocerussite
+	Pb3(OH)2(CO3)2 + 2H+ = 3Pb+2 + 2H2O + 2CO3-2
+	log_k	-18.7705
+	delta_h	-0	kJ
+Pb10(OH)6O(CO3)6
+	Pb10(OH)6O(CO3)6 + 8H+ = 10Pb+2 + 6CO3-2 + 7H2O
+	log_k	-8.76
+	delta_h	-0	kJ
+Tl2CO3
+	Tl2CO3 = 2Tl+ + CO3-2
+	log_k	-3.8367
+	delta_h	35.49	kJ
+Smithsonite
+	ZnCO3 = Zn+2 + CO3-2
+	log_k	-10
+	delta_h	-15.84	kJ
+ZnCO3:1H2O
+	ZnCO3:1H2O = Zn+2 + CO3-2 + H2O
+	log_k	-10.26
+	delta_h	-0	kJ
+Otavite
+	CdCO3 = Cd+2 + CO3-2
+	log_k	-12
+	delta_h	-0.55	kJ
+Hg2CO3
+	Hg2CO3 = Hg2+2 + CO3-2
+	log_k	-16.05
+	delta_h	45.14	kJ
+Hg3O2CO3
+	Hg3O2CO3 + 4H2O = 3Hg(OH)2 + 2H+ + CO3-2
+	log_k	-29.682
+	delta_h	-0	kJ
+CuCO3
+	CuCO3 = Cu+2 + CO3-2
+	log_k	-11.5
+	delta_h	-0	kJ
+Malachite
+	Cu2(OH)2CO3 + 2H+ = 2Cu+2 + 2H2O + CO3-2
+	log_k	-5.306
+	delta_h	76.38	kJ
+Azurite
+	Cu3(OH)2(CO3)2 + 2H+ = 3Cu+2 + 2H2O + 2CO3-2
+	log_k	-16.906
+	delta_h	-95.22	kJ
+Ag2CO3
+	Ag2CO3 = 2Ag+ + CO3-2
+	log_k	-11.09
+	delta_h	42.15	kJ
+NiCO3
+	NiCO3 = Ni+2 + CO3-2
+	log_k	-6.87
+	delta_h	-41.589	kJ
+CoCO3
+	CoCO3 = Co+2 + CO3-2
+	log_k	-9.98
+	delta_h	-12.7612	kJ
+Siderite
+	FeCO3 = Fe+2 + CO3-2
+	log_k	-10.24
+	delta_h	-16	kJ
+Rhodochrosite
+	MnCO3 = Mn+2 + CO3-2
+	log_k	-10.58
+	delta_h	-1.88	kJ
+Rutherfordine
+	UO2CO3 = UO2+2 + CO3-2
+	log_k	-14.5
+	delta_h	-3.03	kJ
+Artinite
+	MgCO3:Mg(OH)2:3H2O + 2H+ = 2Mg+2 + CO3-2 + 5H2O
+	log_k	9.6
+	delta_h	-120.257	kJ
+Hydromagnesite
+	Mg5(CO3)4(OH)2:4H2O + 2H+ = 5Mg+2 + 4CO3-2 + 6H2O
+	log_k	-8.766
+	delta_h	-218.447	kJ
+Magnesite
+	MgCO3 = Mg+2 + CO3-2
+	log_k	-7.46
+	delta_h	20	kJ
+Nesquehonite
+	MgCO3:3H2O = Mg+2 + CO3-2 + 3H2O
+	log_k	-4.67
+	delta_h	-24.2212	kJ
+Aragonite
+	CaCO3 = Ca+2 + CO3-2
+	log_k	-8.3
+	delta_h	-12	kJ
+Calcite
+	CaCO3 = Ca+2 + CO3-2
+	log_k	-8.48
+	delta_h	-8	kJ
+Dolomite(ordered)
+	CaMg(CO3)2 = Ca+2 + Mg+2 + 2CO3-2
+	log_k	-17.09
+	delta_h	-39.5	kJ
+Dolomite(disordered)
+	CaMg(CO3)2 = Ca+2 + Mg+2 + 2CO3-2
+	log_k	-16.54
+	delta_h	-46.4	kJ
+Huntite
+	CaMg3(CO3)4 = 3Mg+2 + Ca+2 + 4CO3-2
+	log_k	-29.968
+	delta_h	-107.78	kJ
+Strontianite
+	SrCO3 = Sr+2 + CO3-2
+	log_k	-9.27
+	delta_h	-0	kJ
+Witherite
+	BaCO3 = Ba+2 + CO3-2
+	log_k	-8.57
+	delta_h	4	kJ
+Thermonatrite
+	Na2CO3:H2O = 2Na+ + CO3-2 + H2O
+	log_k	0.637
+	delta_h	-10.4799	kJ
+TlNO3
+	TlNO3 = Tl+ + NO3-
+	log_k	-1.6127
+	delta_h	42.44	kJ
+Zn(NO3)2:6H2O
+	Zn(NO3)2:6H2O = Zn+2 + 2NO3- + 6H2O
+	log_k	3.3153
+	delta_h	24.5698	kJ
+Cu2(OH)3NO3
+	Cu2(OH)3NO3 + 3H+ = 2Cu+2 + 3H2O + NO3-
+	log_k	9.251
+	delta_h	-72.5924	kJ
+(Co(NH3)6)(NO3)3
+	(Co(NH3)6)(NO3)3 + 6H+ = Co+3 + 6NH4+ + 3NO3-
+	log_k	17.9343
+	delta_h	1.59	kJ
+(Co(NH3)5Cl)(NO3)2
+	(Co(NH3)5Cl)(NO3)2 + 5H+ = Co+3 + 5NH4+ + Cl- + 2NO3-
+	log_k	6.2887
+	delta_h	6.4199	kJ
+UO2(NO3)2
+	UO2(NO3)2 = UO2+2 + 2NO3-
+	log_k	12.1476
+	delta_h	-83.3999	kJ
+UO2(NO3)2:2H2O
+	UO2(NO3)2:2H2O = UO2+2 + 2NO3- + 2H2O
+	log_k	4.851
+	delta_h	-25.355	kJ
+UO2(NO3)2:3H2O
+	UO2(NO3)2:3H2O = UO2+2 + 2NO3- + 3H2O
+	log_k	3.39
+	delta_h	-9.1599	kJ
+UO2(NO3)2:6H2O
+	UO2(NO3)2:6H2O = UO2+2 + 2NO3- + 6H2O
+	log_k	2.0464
+	delta_h	20.8201	kJ
+Pb(BO2)2
+	Pb(BO2)2 + 2H2O + 2H+ = Pb+2 + 2H3BO3
+	log_k	6.5192
+	delta_h	-15.6119	kJ
+Zn(BO2)2
+	Zn(BO2)2 + 2H2O + 2H+ = Zn+2 + 2H3BO3
+	log_k	8.29
+	delta_h	-0	kJ
+Cd(BO2)2
+	Cd(BO2)2 + 2H2O + 2H+ = Cd+2 + 2H3BO3
+	log_k	9.84
+	delta_h	-0	kJ
+Co(BO2)2
+	Co(BO2)2 + 2H2O + 2H+ = Co+2 + 2H3BO3
+	log_k	27.0703
+	delta_h	-0	kJ
+SnSO4
+	SnSO4 + 2H2O = Sn(OH)2 + 2H+ + SO4-2
+	log_k	-56.9747
+	delta_h	-0	kJ
+Sn(SO4)2
+	Sn(SO4)2 + 6H2O = Sn(OH)6-2 + 6H+ + 2SO4-2
+	log_k	-15.2123
+	delta_h	-0	kJ
+Larnakite
+	PbO:PbSO4 + 2H+ = 2Pb+2 + SO4-2 + H2O
+	log_k	-0.4344
+	delta_h	-21.83	kJ
+Pb3O2SO4
+	Pb3O2SO4 + 4H+ = 3Pb+2 + SO4-2 + 2H2O
+	log_k	10.6864
+	delta_h	-79.14	kJ
+Pb4O3SO4
+	Pb4O3SO4 + 6H+ = 4Pb+2 + SO4-2 + 3H2O
+	log_k	21.8772
+	delta_h	-136.45	kJ
+Anglesite
+	PbSO4 = Pb+2 + SO4-2
+	log_k	-7.79
+	delta_h	12	kJ
+Pb4(OH)6SO4
+	Pb4(OH)6SO4 + 6H+ = 4Pb+2 + SO4-2 + 6H2O
+	log_k	21.1
+	delta_h	-0	kJ
+AlOHSO4
+	AlOHSO4 + H+ = Al+3 + SO4-2 + H2O
+	log_k	-3.23
+	delta_h	-0	kJ
+Al4(OH)10SO4
+	Al4(OH)10SO4 + 10H+ = 4Al+3 + SO4-2 + 10H2O
+	log_k	22.7
+	delta_h	-0	kJ
+Tl2SO4
+	Tl2SO4 = 2Tl+ + SO4-2
+	log_k	-3.7868
+	delta_h	33.1799	kJ
+Zn2(OH)2SO4
+	Zn2(OH)2SO4 + 2H+ = 2Zn+2 + 2H2O + SO4-2
+	log_k	7.5
+	delta_h	-0	kJ
+Zn4(OH)6SO4
+	Zn4(OH)6SO4 + 6H+ = 4Zn+2 + 6H2O + SO4-2
+	log_k	28.4
+	delta_h	-0	kJ
+Zn3O(SO4)2
+	Zn3O(SO4)2 + 2H+ = 3Zn+2 + 2SO4-2 + H2O
+	log_k	18.9135
+	delta_h	-258.08	kJ
+Zincosite
+	ZnSO4 = Zn+2 + SO4-2
+	log_k	3.9297
+	delta_h	-82.586	kJ
+ZnSO4:1H2O
+	ZnSO4:1H2O = Zn+2 + SO4-2 + H2O
+	log_k	-0.638
+	delta_h	-44.0699	kJ
+Bianchite
+	ZnSO4:6H2O = Zn+2 + SO4-2 + 6H2O
+	log_k	-1.765
+	delta_h	-0.6694	kJ
+Goslarite
+	ZnSO4:7H2O = Zn+2 + SO4-2 + 7H2O
+	log_k	-2.0112
+	delta_h	14.21	kJ
+Cd3(OH)4SO4
+	Cd3(OH)4SO4 + 4H+ = 3Cd+2 + 4H2O + SO4-2
+	log_k	22.56
+	delta_h	-0	kJ
+Cd3(OH)2(SO4)2
+	Cd3(OH)2(SO4)2 + 2H+ = 3Cd+2 + 2H2O + 2SO4-2
+	log_k	6.71
+	delta_h	-0	kJ
+Cd4(OH)6SO4
+	Cd4(OH)6SO4 + 6H+ = 4Cd+2 + 6H2O + SO4-2
+	log_k	28.4
+	delta_h	-0	kJ
+CdSO4
+	CdSO4 = Cd+2 + SO4-2
+	log_k	-0.1722
+	delta_h	-51.98	kJ
+CdSO4:1H2O
+	CdSO4:1H2O = Cd+2 + SO4-2 + H2O
+	log_k	-1.7261
+	delta_h	-31.5399	kJ
+CdSO4:2.67H2O
+	CdSO4:2.67H2O = Cd+2 + SO4-2 + 2.67H2O
+	log_k	-1.873
+	delta_h	-17.9912	kJ
+Hg2SO4
+	Hg2SO4 = Hg2+2 + SO4-2
+	log_k	-6.13
+	delta_h	5.4	kJ
+HgSO4
+	HgSO4 + 2H2O = Hg(OH)2 + SO4-2 + 2H+
+	log_k	-9.4189
+	delta_h	14.6858	kJ
+Cu2SO4
+	Cu2SO4 = 2Cu+ + SO4-2
+	log_k	-1.95
+	delta_h	-19.079	kJ
+Antlerite
+	Cu3(OH)4SO4 + 4H+ = 3Cu+2 + 4H2O + SO4-2
+	log_k	8.788
+	delta_h	-0	kJ
+Brochantite
+	Cu4(OH)6SO4 + 6H+ = 4Cu+2 + 6H2O + SO4-2
+	log_k	15.222
+	delta_h	-202.86	kJ
+Langite
+	Cu4(OH)6SO4:H2O + 6H+ = 4Cu+2 + 7H2O + SO4-2
+	log_k	17.4886
+	delta_h	-165.55	kJ
+CuOCuSO4
+	CuOCuSO4 + 2H+ = 2Cu+2 + H2O + SO4-2
+	log_k	10.3032
+	delta_h	-137.777	kJ
+CuSO4
+	CuSO4 = Cu+2 + SO4-2
+	log_k	2.9395
+	delta_h	-73.04	kJ
+Chalcanthite
+	CuSO4:5H2O = Cu+2 + SO4-2 + 5H2O
+	log_k	-2.64
+	delta_h	6.025	kJ
+Ag2SO4
+	Ag2SO4 = 2Ag+ + SO4-2
+	log_k	-4.82
+	delta_h	17	kJ
+Ni4(OH)6SO4
+	Ni4(OH)6SO4 + 6H+ = 4Ni+2 + SO4-2 + 6H2O
+	log_k	32
+	delta_h	-0	kJ
+Retgersite
+	NiSO4:6H2O = Ni+2 + SO4-2 + 6H2O
+	log_k	-2.04
+	delta_h	4.6024	kJ
+Morenosite
+	NiSO4:7H2O = Ni+2 + SO4-2 + 7H2O
+	log_k	-2.1449
+	delta_h	12.1802	kJ
+CoSO4
+	CoSO4 = Co+2 + SO4-2
+	log_k	2.8024
+	delta_h	-79.277	kJ
+CoSO4:6H2O
+	CoSO4:6H2O = Co+2 + SO4-2 + 6H2O
+	log_k	-2.4726
+	delta_h	1.0801	kJ
+Melanterite
+	FeSO4:7H2O = Fe+2 + SO4-2 + 7H2O
+	log_k	-2.209
+	delta_h	20.5	kJ
+Fe2(SO4)3
+	Fe2(SO4)3 = 2Fe+3 + 3SO4-2
+	log_k	-3.7343
+	delta_h	-242.028	kJ
+H-Jarosite
+	(H3O)Fe3(SO4)2(OH)6 + 5H+ = 3Fe+3 + 2SO4-2 + 7H2O
+	log_k	-12.1
+	delta_h	-230.748	kJ
+Na-Jarosite
+	NaFe3(SO4)2(OH)6 + 6H+ = Na+ + 3Fe+3 + 2SO4-2 + 6H2O
+	log_k	-11.2
+	delta_h	-151.377	kJ
+K-Jarosite
+	KFe3(SO4)2(OH)6 + 6H+ = K+ + 3Fe+3 + 2SO4-2 + 6H2O
+	log_k	-14.8
+	delta_h	-130.875	kJ
+MnSO4
+	MnSO4 = Mn+2 + SO4-2
+	log_k	2.5831
+	delta_h	-64.8401	kJ
+Mn2(SO4)3
+	Mn2(SO4)3 = 2Mn+3 + 3SO4-2
+	log_k	-5.711
+	delta_h	-163.427	kJ
+VOSO4
+	VOSO4 = VO+2 + SO4-2
+	log_k	3.6097
+	delta_h	-86.7401	kJ
+Epsomite
+	MgSO4:7H2O = Mg+2 + SO4-2 + 7H2O
+	log_k	-2.1265
+	delta_h	11.5601	kJ
+Anhydrite
+	CaSO4 = Ca+2 + SO4-2
+	log_k	-4.36
+	delta_h	-7.2	kJ
+Gypsum
+	CaSO4:2H2O = Ca+2 + SO4-2 + 2H2O
+	log_k	-4.61
+	delta_h	1	kJ
+Celestite
+	SrSO4 = Sr+2 + SO4-2
+	log_k	-6.62
+	delta_h	2	kJ
+Barite
+	BaSO4 = Ba+2 + SO4-2
+	log_k	-9.98
+	delta_h	23	kJ
+Mirabilite
+	Na2SO4:10H2O = 2Na+ + SO4-2 + 10H2O
+	log_k	-1.114
+	delta_h	79.4416	kJ
+Thenardite
+	Na2SO4 = 2Na+ + SO4-2
+	log_k	0.3217
+	delta_h	-9.121	kJ
+K-Alum
+	KAl(SO4)2:12H2O = K+ + Al+3 + 2SO4-2 + 12H2O
+	log_k	-5.17
+	delta_h	30.2085	kJ
+Alunite
+	KAl3(SO4)2(OH)6 + 6H+ = K+ + 3Al+3 + 2SO4-2 + 6H2O
+	log_k	-1.4
+	delta_h	-210	kJ
+(NH4)2CrO4
+	(NH4)2CrO4 = CrO4-2 + 2NH4+
+	log_k	0.4046
+	delta_h	9.163	kJ
+PbCrO4
+	PbCrO4 = Pb+2 + CrO4-2
+	log_k	-12.6
+	delta_h	44.18	kJ
+Tl2CrO4
+	Tl2CrO4 = 2Tl+ + CrO4-2
+	log_k	-12.01
+	delta_h	74.27	kJ
+Hg2CrO4
+	Hg2CrO4 = Hg2+2 + CrO4-2
+	log_k	-8.7
+	delta_h	-0	kJ
+CuCrO4
+	CuCrO4 = Cu+2 + CrO4-2
+	log_k	-5.44
+	delta_h	-0	kJ
+Ag2CrO4
+	Ag2CrO4 = 2Ag+ + CrO4-2
+	log_k	-11.59
+	delta_h	62	kJ
+MgCrO4
+	MgCrO4 = CrO4-2 + Mg+2
+	log_k	5.3801
+	delta_h	-88.9518	kJ
+CaCrO4
+	CaCrO4 = Ca+2 + CrO4-2
+	log_k	-2.2657
+	delta_h	-26.945	kJ
+SrCrO4
+	SrCrO4 = Sr+2 + CrO4-2
+	log_k	-4.65
+	delta_h	-10.1253	kJ
+BaCrO4
+	BaCrO4 = Ba+2 + CrO4-2
+	log_k	-9.67
+	delta_h	33	kJ
+Li2CrO4
+	Li2CrO4 = CrO4-2 + 2Li+
+	log_k	4.8568
+	delta_h	-45.2792	kJ
+Na2CrO4
+	Na2CrO4 = CrO4-2 + 2Na+
+	log_k	2.9302
+	delta_h	-19.6301	kJ
+Na2Cr2O7
+	Na2Cr2O7 + H2O = 2CrO4-2 + 2Na+ + 2H+
+	log_k	-9.8953
+	delta_h	22.1961	kJ
+K2CrO4
+	K2CrO4 = CrO4-2 + 2K+
+	log_k	-0.5134
+	delta_h	18.2699	kJ
+K2Cr2O7
+	K2Cr2O7 + H2O = 2CrO4-2 + 2K+ + 2H+
+	log_k	-17.2424
+	delta_h	80.7499	kJ
+Hg2SeO3
+	Hg2SeO3 + H+ = Hg2+2 + HSeO3-
+	log_k	-4.657
+	delta_h	-0	kJ
+HgSeO3
+	HgSeO3 + 2H2O = Hg(OH)2 + H+ + HSeO3-
+	log_k	-12.43
+	delta_h	-0	kJ
+Ag2SeO3
+	Ag2SeO3 + H+ = 2Ag+ + HSeO3-
+	log_k	-7.15
+	delta_h	39.68	kJ
+CuSeO3:2H2O
+	CuSeO3:2H2O + H+ = Cu+2 + HSeO3- + 2H2O
+	log_k	0.5116
+	delta_h	-36.861	kJ
+NiSeO3:2H2O
+	NiSeO3:2H2O + H+ = HSeO3- + Ni+2 + 2H2O
+	log_k	2.8147
+	delta_h	-31.0034	kJ
+CoSeO3
+	CoSeO3 + H+ = Co+2 + HSeO3-
+	log_k	1.32
+	delta_h	-0	kJ
+Fe2(SeO3)3:2H2O
+	Fe2(SeO3)3:2H2O + 3H+ = 3HSeO3- + 2Fe+3 + 2H2O
+	log_k	-20.6262
+	delta_h	-0	kJ
+Fe2(OH)4SeO3
+	Fe2(OH)4SeO3 + 5H+ = HSeO3- + 2Fe+3 + 4H2O
+	log_k	1.5539
+	delta_h	-0	kJ
+MnSeO3
+	MnSeO3 + H+ = Mn+2 + HSeO3-
+	log_k	1.13
+	delta_h	-0	kJ
+MnSeO3:2H2O
+	MnSeO3:2H2O + H+ = HSeO3- + Mn+2 + 2H2O
+	log_k	0.9822
+	delta_h	8.4935	kJ
+MgSeO3:6H2O
+	MgSeO3:6H2O + H+ = Mg+2 + HSeO3- + 6H2O
+	log_k	3.0554
+	delta_h	5.23	kJ
+CaSeO3:2H2O
+	CaSeO3:2H2O + H+ = HSeO3- + Ca+2 + 2H2O
+	log_k	2.8139
+	delta_h	-19.4556	kJ
+SrSeO3
+	SrSeO3 + H+ = Sr+2 + HSeO3-
+	log_k	2.3
+	delta_h	-0	kJ
+BaSeO3
+	BaSeO3 + H+ = Ba+2 + HSeO3-
+	log_k	1.83
+	delta_h	11.98	kJ
+Na2SeO3:5H2O
+	Na2SeO3:5H2O + H+ = 2Na+ + HSeO3- + 5H2O
+	log_k	10.3
+	delta_h	-0	kJ
+PbSeO4
+	PbSeO4 = Pb+2 + SeO4-2
+	log_k	-6.84
+	delta_h	15	kJ
+Tl2SeO4
+	Tl2SeO4 = 2Tl+ + SeO4-2
+	log_k	-4.1
+	delta_h	43	kJ
+ZnSeO4:6H2O
+	ZnSeO4:6H2O = Zn+2 + SeO4-2 + 6H2O
+	log_k	-1.52
+	delta_h	-0	kJ
+CdSeO4:2H2O
+	CdSeO4:2H2O = Cd+2 + SeO4-2 + 2H2O
+	log_k	-1.85
+	delta_h	-0	kJ
+Ag2SeO4
+	Ag2SeO4 = 2Ag+ + SeO4-2
+	log_k	-8.91
+	delta_h	-43.5	kJ
+CuSeO4:5H2O
+	CuSeO4:5H2O = Cu+2 + SeO4-2 + 5H2O
+	log_k	-2.44
+	delta_h	-0	kJ
+NiSeO4:6H2O
+	NiSeO4:6H2O = Ni+2 + SeO4-2 + 6H2O
+	log_k	-1.52
+	delta_h	-0	kJ
+CoSeO4:6H2O
+	CoSeO4:6H2O = Co+2 + SeO4-2 + 6H2O
+	log_k	-1.53
+	delta_h	-0	kJ
+MnSeO4:5H2O
+	MnSeO4:5H2O = Mn+2 + SeO4-2 + 5H2O
+	log_k	-2.05
+	delta_h	-0	kJ
+UO2SeO4:4H2O
+	UO2SeO4:4H2O = UO2+2 + SeO4-2 + 4H2O
+	log_k	-2.25
+	delta_h	-0	kJ
+MgSeO4:6H2O
+	MgSeO4:6H2O = Mg+2 + SeO4-2 + 6H2O
+	log_k	-1.2
+	delta_h	-0	kJ
+CaSeO4:2H2O
+	CaSeO4:2H2O = Ca+2 + SeO4-2 + 2H2O
+	log_k	-3.02
+	delta_h	-8.3	kJ
+SrSeO4
+	SrSeO4 = Sr+2 + SeO4-2
+	log_k	-4.4
+	delta_h	0.4	kJ
+BaSeO4
+	BaSeO4 = Ba+2 + SeO4-2
+	log_k	-7.46
+	delta_h	22	kJ
+BeSeO4:4H2O
+	BeSeO4:4H2O = Be+2 + SeO4-2 + 4H2O
+	log_k	-2.94
+	delta_h	-0	kJ
+Na2SeO4
+	Na2SeO4 = 2Na+ + SeO4-2
+	log_k	1.28
+	delta_h	-0	kJ
+K2SeO4
+	K2SeO4 = 2K+ + SeO4-2
+	log_k	-0.73
+	delta_h	-0	kJ
+(NH4)2SeO4
+	(NH4)2SeO4 = 2NH4+ + SeO4-2
+	log_k	0.45
+	delta_h	-0	kJ
+H2MoO4
+	H2MoO4 = MoO4-2 + 2H+
+	log_k	-12.8765
+	delta_h	49	kJ
+PbMoO4
+	PbMoO4 = Pb+2 + MoO4-2
+	log_k	-15.62
+	delta_h	53.93	kJ
+Al2(MoO4)3
+	Al2(MoO4)3 = 3MoO4-2 + 2Al+3
+	log_k	2.3675
+	delta_h	-260.8	kJ
+Tl2MoO4
+	Tl2MoO4 = MoO4-2 + 2Tl+
+	log_k	-7.9887
+	delta_h	-0	kJ
+ZnMoO4
+	ZnMoO4 = MoO4-2 + Zn+2
+	log_k	-10.1254
+	delta_h	-10.6901	kJ
+CdMoO4
+	CdMoO4 = MoO4-2 + Cd+2
+	log_k	-14.1497
+	delta_h	19.48	kJ
+CuMoO4
+	CuMoO4 = MoO4-2 + Cu+2
+	log_k	-13.0762
+	delta_h	12.2	kJ
+Ag2MoO4
+	Ag2MoO4 = 2Ag+ + MoO4-2
+	log_k	-11.55
+	delta_h	52.7	kJ
+NiMoO4
+	NiMoO4 = MoO4-2 + Ni+2
+	log_k	-11.1421
+	delta_h	1.3	kJ
+CoMoO4
+	CoMoO4 = MoO4-2 + Co+2
+	log_k	-7.7609
+	delta_h	-23.3999	kJ
+FeMoO4
+	FeMoO4 = MoO4-2 + Fe+2
+	log_k	-10.091
+	delta_h	-11.1	kJ
+BeMoO4
+	BeMoO4 = MoO4-2 + Be+2
+	log_k	-1.7817
+	delta_h	-56.4	kJ
+MgMoO4
+	MgMoO4 = Mg+2 + MoO4-2
+	log_k	-1.85
+	delta_h	-0	kJ
+CaMoO4
+	CaMoO4 = Ca+2 + MoO4-2
+	log_k	-7.95
+	delta_h	-2	kJ
+BaMoO4
+	BaMoO4 = MoO4-2 + Ba+2
+	log_k	-6.9603
+	delta_h	10.96	kJ
+Li2MoO4
+	Li2MoO4 = MoO4-2 + 2Li+
+	log_k	2.4416
+	delta_h	-33.9399	kJ
+Na2MoO4
+	Na2MoO4 = MoO4-2 + 2Na+
+	log_k	1.4901
+	delta_h	-9.98	kJ
+Na2MoO4:2H2O
+	Na2MoO4:2H2O = MoO4-2 + 2Na+ + 2H2O
+	log_k	1.224
+	delta_h	-0	kJ
+Na2Mo2O7
+	Na2Mo2O7 + H2O = 2MoO4-2 + 2Na+ + 2H+
+	log_k	-16.5966
+	delta_h	56.2502	kJ
+K2MoO4
+	K2MoO4 = MoO4-2 + 2K+
+	log_k	3.2619
+	delta_h	-3.38	kJ
+PbHPO4
+	PbHPO4 = Pb+2 + H+ + PO4-3
+	log_k	-23.805
+	delta_h	-0	kJ
+Pb3(PO4)2
+	Pb3(PO4)2 = 3Pb+2 + 2PO4-3
+	log_k	-43.53
+	delta_h	-0	kJ
+Pyromorphite
+	Pb5(PO4)3Cl = 5Pb+2 + 3PO4-3 + Cl-
+	log_k	-84.43
+	delta_h	-0	kJ
+Hydroxylpyromorphite
+	Pb5(PO4)3OH + H+ = 5Pb+2 + 3PO4-3 + H2O
+	log_k	-62.79
+	delta_h	-0	kJ
+Plumbgummite
+	PbAl3(PO4)2(OH)5:H2O + 5H+ = Pb+2 + 3Al+3 + 2PO4-3 + 6H2O
+	log_k	-32.79
+	delta_h	-0	kJ
+Hinsdalite
+	PbAl3PO4SO4(OH)6 + 6H+ = Pb+2 + 3Al+3 + PO4-3 + SO4-2 + 6H2O
+	log_k	-2.5
+	delta_h	-0	kJ
+Tsumebite
+	Pb2CuPO4(OH)3:3H2O + 3H+ = 2Pb+2 + Cu+2 + PO4-3 + 6H2O
+	log_k	-9.79
+	delta_h	-0	kJ
+Zn3(PO4)2:4H2O
+	Zn3(PO4)2:4H2O = 3Zn+2 + 2PO4-3 + 4H2O
+	log_k	-35.42
+	delta_h	-0	kJ
+Cd3(PO4)2
+	Cd3(PO4)2 = 3Cd+2 + 2PO4-3
+	log_k	-32.6
+	delta_h	-0	kJ
+Hg2HPO4
+	Hg2HPO4 = Hg2+2 + H+ + PO4-3
+	log_k	-24.775
+	delta_h	-0	kJ
+Cu3(PO4)2
+	Cu3(PO4)2 = 3Cu+2 + 2PO4-3
+	log_k	-36.85
+	delta_h	-0	kJ
+Cu3(PO4)2:3H2O
+	Cu3(PO4)2:3H2O = 3Cu+2 + 2PO4-3 + 3H2O
+	log_k	-35.12
+	delta_h	-0	kJ
+Ag3PO4
+	Ag3PO4 = 3Ag+ + PO4-3
+	log_k	-17.59
+	delta_h	-0	kJ
+Ni3(PO4)2
+	Ni3(PO4)2 = 3Ni+2 + 2PO4-3
+	log_k	-31.3
+	delta_h	-0	kJ
+CoHPO4
+	CoHPO4 = Co+2 + PO4-3 + H+
+	log_k	-19.0607
+	delta_h	-0	kJ
+Co3(PO4)2
+	Co3(PO4)2 = 3Co+2 + 2PO4-3
+	log_k	-34.6877
+	delta_h	-0	kJ
+Vivianite
+	Fe3(PO4)2:8H2O = 3Fe+2 + 2PO4-3 + 8H2O
+	log_k	-36
+	delta_h	-0	kJ
+Strengite
+	FePO4:2H2O = Fe+3 + PO4-3 + 2H2O
+	log_k	-26.4
+	delta_h	-9.3601	kJ
+Mn3(PO4)2
+	Mn3(PO4)2 = 3Mn+2 + 2PO4-3
+	log_k	-23.827
+	delta_h	8.8701	kJ
+MnHPO4
+	MnHPO4 = Mn+2 + PO4-3 + H+
+	log_k	-25.4
+	delta_h	-0	kJ
+(VO)3(PO4)2
+	(VO)3(PO4)2 = 3VO+2 + 2PO4-3
+	log_k	-25.1
+	delta_h	-0	kJ
+Mg3(PO4)2
+	Mg3(PO4)2 = 3Mg+2 + 2PO4-3
+	log_k	-23.28
+	delta_h	-0	kJ
+MgHPO4:3H2O
+	MgHPO4:3H2O = Mg+2 + H+ + PO4-3 + 3H2O
+	log_k	-18.175
+	delta_h	-0	kJ
+FCO3Apatite
+	Ca9.316Na0.36Mg0.144(PO4)4.8(CO3)1.2F2.48 = 9.316Ca+2 + 0.36Na+ + 0.144Mg+2 + 4.8PO4-3 + 1.2CO3-2 + 2.48F-
+	log_k	-114.4
+	delta_h	164.808	kJ
+Hydroxylapatite
+	Ca5(PO4)3OH + H+ = 5Ca+2 + 3PO4-3 + H2O
+	log_k	-44.333
+	delta_h	-0	kJ
+CaHPO4:2H2O
+	CaHPO4:2H2O = Ca+2 + H+ + PO4-3 + 2H2O
+	log_k	-18.995
+	delta_h	23	kJ
+CaHPO4
+	CaHPO4 = Ca+2 + H+ + PO4-3
+	log_k	-19.275
+	delta_h	31	kJ
+Ca3(PO4)2(beta)
+	Ca3(PO4)2 = 3Ca+2 + 2PO4-3
+	log_k	-28.92
+	delta_h	54	kJ
+Ca4H(PO4)3:3H2O
+	Ca4H(PO4)3:3H2O = 4Ca+2 + H+ + 3PO4-3 + 3H2O
+	log_k	-47.08
+	delta_h	-0	kJ
+SrHPO4
+	SrHPO4 = Sr+2 + H+ + PO4-3
+	log_k	-19.295
+	delta_h	-0	kJ
+BaHPO4
+	BaHPO4 = Ba+2 + H+ + PO4-3
+	log_k	-19.775
+	delta_h	-0	kJ
+U(HPO4)2:4H2O
+	U(HPO4)2:4H2O = U+4 + 2PO4-3 + 2H+ + 4H2O
+	log_k	-51.584
+	delta_h	16.0666	kJ
+(UO2)3(PO4)2
+	(UO2)3(PO4)2 = 3UO2+2 + 2PO4-3
+	log_k	-49.4
+	delta_h	397.062	kJ
+UO2HPO4
+	UO2HPO4 = UO2+2 + H+ + PO4-3
+	log_k	-24.225
+	delta_h	-0	kJ
+Uramphite
+	(NH4)2(UO2)2(PO4)2 = 2UO2+2 + 2NH4+ + 2PO4-3
+	log_k	-51.749
+	delta_h	40.5848	kJ
+Przhevalskite
+	Pb(UO2)2(PO4)2 = 2UO2+2 + Pb+2 + 2PO4-3
+	log_k	-44.365
+	delta_h	-46.024	kJ
+Torbernite
+	Cu(UO2)2(PO4)2 = 2UO2+2 + Cu+2 + 2PO4-3
+	log_k	-45.279
+	delta_h	-66.5256	kJ
+Bassetite
+	Fe(UO2)2(PO4)2 = 2UO2+2 + Fe+2 + 2PO4-3
+	log_k	-44.485
+	delta_h	-83.2616	kJ
+Saleeite
+	Mg(UO2)2(PO4)2 = 2UO2+2 + Mg+2 + 2PO4-3
+	log_k	-43.646
+	delta_h	-84.4331	kJ
+Ningyoite
+	CaU(PO4)2:2H2O = U+4 + Ca+2 + 2PO4-3 + 2H2O
+	log_k	-53.906
+	delta_h	-9.4977	kJ
+H-Autunite
+	H2(UO2)2(PO4)2 = 2UO2+2 + 2H+ + 2PO4-3
+	log_k	-47.931
+	delta_h	-15.0624	kJ
+Autunite
+	Ca(UO2)2(PO4)2 = 2UO2+2 + Ca+2 + 2PO4-3
+	log_k	-43.927
+	delta_h	-59.9986	kJ
+Sr-Autunite
+	Sr(UO2)2(PO4)2 = 2UO2+2 + Sr+2 + 2PO4-3
+	log_k	-44.457
+	delta_h	-54.6012	kJ
+Na-Autunite
+	Na2(UO2)2(PO4)2 = 2UO2+2 + 2Na+ + 2PO4-3
+	log_k	-47.409
+	delta_h	-1.9246	kJ
+K-Autunite
+	K2(UO2)2(PO4)2 = 2UO2+2 + 2K+ + 2PO4-3
+	log_k	-48.244
+	delta_h	24.5182	kJ
+Uranocircite
+	Ba(UO2)2(PO4)2 = 2UO2+2 + Ba+2 + 2PO4-3
+	log_k	-44.631
+	delta_h	-42.2584	kJ
+Pb3(AsO4)2
+	Pb3(AsO4)2 + 6H+ = 3Pb+2 + 2H3AsO4
+	log_k	5.8
+	delta_h	-0	kJ
+AlAsO4:2H2O
+	AlAsO4:2H2O + 3H+ = Al+3 + H3AsO4 + 2H2O
+	log_k	4.8
+	delta_h	-0	kJ
+Zn3(AsO4)2:2.5H2O
+	Zn3(AsO4)2:2.5H2O + 6H+ = 3Zn+2 + 2H3AsO4 + 2.5H2O
+	log_k	13.65
+	delta_h	-0	kJ
+Cu3(AsO4)2:2H2O
+	Cu3(AsO4)2:2H2O + 6H+ = 3Cu+2 + 2H3AsO4 + 2H2O
+	log_k	6.1
+	delta_h	-0	kJ
+Ag3AsO3
+	Ag3AsO3 + 3H+ = 3Ag+ + H3AsO3
+	log_k	2.1573
+	delta_h	-0	kJ
+Ag3AsO4
+	Ag3AsO4 + 3H+ = 3Ag+ + H3AsO4
+	log_k	-2.7867
+	delta_h	-0	kJ
+Ni3(AsO4)2:8H2O
+	Ni3(AsO4)2:8H2O + 6H+ = 3Ni+2 + 2H3AsO4 + 8H2O
+	log_k	15.7
+	delta_h	-0	kJ
+Co3(AsO4)2
+	Co3(AsO4)2 + 6H+ = 3Co+2 + 2H3AsO4
+	log_k	13.0341
+	delta_h	-0	kJ
+FeAsO4:2H2O
+	FeAsO4:2H2O + 3H+ = Fe+3 + H3AsO4 + 2H2O
+	log_k	0.4
+	delta_h	-0	kJ
+Mn3(AsO4)2:8H2O
+	Mn3(AsO4)2:8H2O + 6H+ = 3Mn+2 + 2H3AsO4 + 8H2O
+	log_k	12.5
+	delta_h	-0	kJ
+Ca3(AsO4)2:4H2O
+	Ca3(AsO4)2:4H2O + 6H+ = 3Ca+2 + 2H3AsO4 + 4H2O
+	log_k	22.3
+	delta_h	-0	kJ
+Ba3(AsO4)2
+	Ba3(AsO4)2 + 6H+ = 3Ba+2 + 2H3AsO4
+	log_k	-8.91
+	delta_h	11.0458	kJ
+#NH4VO3
+#	NH4VO3 + 2H+ = 2VO2+ + H2O
+#	log_k	3.8
+#	delta_h	30	kJ
+Pb3(VO4)2
+	Pb3(VO4)2 + 8H+ = 3Pb+2 + 2VO2+ + 4H2O
+	log_k	6.14
+	delta_h	-72.6342	kJ
+Pb2V2O7
+	Pb2V2O7 + 6H+ = 2Pb+2 + 2VO2+ + 3H2O
+	log_k	-1.9
+	delta_h	-26.945	kJ
+AgVO3
+	AgVO3 + 2H+ = Ag+ + VO2+ + H2O
+	log_k	0.77
+	delta_h	-0	kJ
+Ag2HVO4
+	Ag2HVO4 + 3H+ = 2Ag+ + VO2+ + 2H2O
+	log_k	1.48
+	delta_h	-0	kJ
+Ag3H2VO5
+	Ag3H2VO5 + 4H+ = 3Ag+ + VO2+ + 3H2O
+	log_k	5.18
+	delta_h	-0	kJ
+Fe(VO3)2
+	Fe(VO3)2 + 4H+ = Fe+2 + 2VO2+ + 2H2O
+	log_k	-3.72
+	delta_h	-61.6722	kJ
+Mn(VO3)2
+	Mn(VO3)2 + 4H+ = Mn+2 + 2VO2+ + 2H2O
+	log_k	4.9
+	delta_h	-92.4664	kJ
+Mg(VO3)2
+	Mg(VO3)2 + 4H+ = Mg+2 + 2VO2+ + 2H2O
+	log_k	11.28
+	delta_h	-136.649	kJ
+Mg2V2O7
+	Mg2V2O7 + 6H+ = 2Mg+2 + 2VO2+ + 3H2O
+	log_k	26.36
+	delta_h	-255.224	kJ
+Carnotite
+	KUO2VO4 + 4H+ = K+ + UO2+2 + VO2+ + 2H2O
+	log_k	0.23
+	delta_h	-36.4008	kJ
+Tyuyamunite
+	Ca(UO2)2(VO4)2 + 8H+ = Ca+2 + 2UO2+2 + 2VO2+ + 4H2O
+	log_k	4.08
+	delta_h	-153.134	kJ
+Ca(VO3)2
+	Ca(VO3)2 + 4H+ = Ca+2 + 2VO2+ + 2H2O
+	log_k	5.66
+	delta_h	-84.7678	kJ
+Ca3(VO4)2
+	Ca3(VO4)2 + 8H+ = 3Ca+2 + 2VO2+ + 4H2O
+	log_k	38.96
+	delta_h	-293.466	kJ
+Ca2V2O7
+	Ca2V2O7 + 6H+ = 2Ca+2 + 2VO2+ + 3H2O
+	log_k	17.5
+	delta_h	-159.494	kJ
+Ca3(VO4)2:4H2O
+	Ca3(VO4)2:4H2O + 8H+ = 3Ca+2 + 2VO2+ + 8H2O
+	log_k	39.86
+	delta_h	-0	kJ
+Ca2V2O7:2H2O
+	Ca2V2O7:2H2O + 6H+ = 2Ca+2 + 2VO2+ + 5H2O
+	log_k	21.552
+	delta_h	-0	kJ
+Ba3(VO4)2:4H2O
+	Ba3(VO4)2:4H2O + 8H+ = 3Ba+2 + 2VO2+ + 8H2O
+	log_k	32.94
+	delta_h	-0	kJ
+Ba2V2O7:2H2O
+	Ba2V2O7:2H2O + 6H+ = 2Ba+2 + 2VO2+ + 5H2O
+	log_k	15.872
+	delta_h	-0	kJ
+NaVO3
+	NaVO3 + 2H+ = Na+ + VO2+ + H2O
+	log_k	3.8582
+	delta_h	-30.1799	kJ
+Na3VO4
+	Na3VO4 + 4H+ = 3Na+ + VO2+ + 2H2O
+	log_k	36.6812
+	delta_h	-184.61	kJ
+Na4V2O7
+	Na4V2O7 + 6H+ = 4Na+ + 2VO2+ + 3H2O
+	log_k	37.4
+	delta_h	-201.083	kJ
+Halloysite
+	Al2Si2O5(OH)4 + 6H+ = 2Al+3 + 2H4SiO4 + H2O
+	log_k	9.5749
+	delta_h	-181.43	kJ
+Kaolinite
+	Al2Si2O5(OH)4 + 6H+ = 2Al+3 + 2H4SiO4 + H2O
+	log_k	7.435
+	delta_h	-148	kJ
+Greenalite
+	Fe3Si2O5(OH)4 + 6H+ = 3Fe+2 + 2H4SiO4 + H2O
+	log_k	20.81
+	delta_h	-0	kJ
+Chrysotile
+	Mg3Si2O5(OH)4 + 6H+ = 3Mg+2 + 2H4SiO4 + H2O
+	log_k	32.2
+	delta_h	-196	kJ
+Sepiolite
+	Mg2Si3O7.5OH:3H2O + 4H+ + 0.5H2O = 2Mg+2 + 3H4SiO4
+	log_k	15.76
+	delta_h	-114.089	kJ
+Sepiolite(A)
+	Mg2Si3O7.5OH:3H2O + 0.5H2O + 4H+ = 2Mg+2 + 3H4SiO4
+	log_k	18.78
+	delta_h	-0	kJ
+O2(g)
+	O2 + 4H+ + 4e- = 2H2O
+	log_k	83.0894
+	delta_h	-571.66	kJ
+CH4(g)
+	CH4 + 3H2O = CO3-2 + 8e- + 10H+
+	log_k	-41.0452
+	delta_h	257.133	kJ
+CO2(g)
+	CO2 + H2O = 2H+ + CO3-2
+	log_k	-18.147
+	delta_h	4.06	kJ
+H2S(g)
+	H2S = H+ + HS-
+	log_k	-8.01
+	delta_h	-0	kJ
+H2Se(g)
+	H2Se = HSe- + H+
+	log_k	-4.96
+	delta_h	-15.3	kJ
+Hg(g)
+	Hg = 0.5Hg2+2 + e-
+	log_k	-7.8733
+	delta_h	22.055	kJ
+Hg2(g)
+	Hg2 = Hg2+2 + 2e-
+	log_k	-14.9554
+	delta_h	58.07	kJ
+Hg(CH3)2(g)
+	Hg(CH3)2 + 8H2O = Hg(OH)2 + 2CO3-2 + 16e- + 20H+
+	log_k	-73.7066
+	delta_h	481.99	kJ
+HgF(g)
+	HgF = 0.5Hg2+2 + F-
+	log_k	32.6756
+	delta_h	-254.844	kJ
+HgF2(g)
+	HgF2 + 2H2O = Hg(OH)2 + 2F- + 2H+
+	log_k	12.5652
+	delta_h	-165.186	kJ
+HgCl(g)
+	HgCl = 0.5Hg2+2 + Cl-
+	log_k	19.4966
+	delta_h	-162.095	kJ
+HgBr(g)
+	HgBr = 0.5Hg2+2 + Br-
+	log_k	16.7566
+	delta_h	-142.157	kJ
+HgBr2(g)
+	HgBr2 + 2H2O = Hg(OH)2 + 2Br- + 2H+
+	log_k	-18.3881
+	delta_h	54.494	kJ
+HgI(g)
+	HgI = 0.5Hg2+2 + I-
+	log_k	11.3322
+	delta_h	-106.815	kJ
+HgI2(g)
+	HgI2 + 2H2O = Hg(OH)2 + 2I- + 2H+
+	log_k	-27.2259
+	delta_h	114.429	kJ
