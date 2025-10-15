@@ -175,7 +175,14 @@ class PhaseParser(BaseParser):
         - database_file_path (str): The path to the database file.
         """
         super().__init__(database_file_path, "PHASES", "EXCHANGE")
-        self.block_start = re.compile(r"^(?!\s)\S+$")
+        super().__init__(database_file_path, "PHASES", "EXCHANGE")
+        # momentarily changed it to a new bit to test if it catches the missing part
+        # self.block_start = re.compile(r"^(?!\s)\S+$")
+        # momentarily changed second attempt
+        # self.block_start = re.compile(r"^(?!.*=)[^ \t].+$")
+        self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=).)+$))")
+        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=)(?!.*\b(log_k|delta_h)\b).)+$))")
+        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=)(?!.*[0-9]).)+$))") >> 되기는 하나 minteq에서 문제가 발생
         self.patterns = {
             "dissolution_reaction": re.compile(r"^.*\s=\s.*"),
             "log_k": re.compile(r"^\s*[-]*log[ _]*k"),
