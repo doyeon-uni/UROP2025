@@ -180,9 +180,11 @@ class PhaseParser(BaseParser):
         # self.block_start = re.compile(r"^(?!\s)\S+$")
         # momentarily changed second attempt
         # self.block_start = re.compile(r"^(?!.*=)[^ \t].+$")
-        self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=).)+$))")
-        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=)(?!.*\b(log_k|delta_h)\b).)+$))")
-        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=)(?!.*[0-9]).)+$))") >> 되기는 하나 minteq에서 문제가 발생
+        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=).)+$))")>> not enough filtering in minteq.v4
+        self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!\s)(?!.*=).)+$))")
+        # >> best version for now.
+        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=)(?!.*\b(log_k|delta_h)\b).)+$))")>>error in the entire code
+        # self.block_start = re.compile(r"((^(?!\s)\S+$)|(^((?!.*=)(?!.*[0-9]).)+$))") >> it works, but still doesn't solve problems in miteq.v4
         self.patterns = {
             "dissolution_reaction": re.compile(r"^.*\s=\s.*"),
             "log_k": re.compile(r"^\s*[-]*log[ _]*k"),
