@@ -8,4 +8,6 @@ dependencies:
   - matplotlib
   - seaborn
   - click
-  - pip                     
+  - pip
+  - openpyxl
+
