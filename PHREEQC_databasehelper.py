@@ -308,6 +308,7 @@ class EditDatabasePage(tk.Frame):
         for i, line in enumerate(lines):
             if self.normalize_equation(line) == target:
                 return i
+        return -1
 
     # add user input values to species
     def add_species(self):
@@ -647,3 +648,4 @@ class App(tk.Tk):
 if __name__ == "__main__":
     root = App()
     root.mainloop()
+
