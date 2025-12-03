@@ -505,7 +505,7 @@ class FindEquationsPage(tk.Frame):
         else:
             result_df = find_species(sp)
 
-            file_path = tkinter.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
+            file_path = tk.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
         if not file_path:
             return
         try:
@@ -557,7 +557,7 @@ class FindSpeciesPage(tk.Frame):
         else:
             result_df = find_species(sp)
 
-            file_path = tkinter.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
+            file_path = tk.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
         if not file_path:
             return
         try:
@@ -610,7 +610,7 @@ class FindPhasesPage(tk.Frame):
         else:
             result_df = find_phases(sp)
 
-            file_path = tkinter.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
+            file_path = tk.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
         if not file_path:
             return
         try:
@@ -648,4 +648,5 @@ class App(tk.Tk):
 if __name__ == "__main__":
     root = App()
     root.mainloop()
+
 
