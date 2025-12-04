@@ -4,19 +4,11 @@ import os
 from tkinter import ttk
 from tkinter import filedialog as fd
 from tkinter import messagebox
-import tkinter.messagebox
 from tkinter.messagebox import showinfo
-import warnings
 import re
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import build_database.clean_tables as ct
 import build_database.utils as ut
-import utils
 import importlib.resources as pkg_resources
-import build_database.databases
-import build_database.write_dataframes as wd
 
 
 # get databases folder from build_database
@@ -67,11 +59,6 @@ def find_equation(equation:str):
     equation = re.sub(r'\b1(?!\d)', '', equation)
     find_eq = solution_species[solution_species['equation'].str.contains(equation, regex=False)]
     return find_eq
-
-# function to find input species
-def find_species(species:str):
-    find_sp = sms[sms['species'].str.contains(species, regex=False)]
-    return find_sp
 
 # function to find input phases
 def find_phases(phases:str):
@@ -648,5 +635,6 @@ class App(tk.Tk):
 if __name__ == "__main__":
     root = App()
     root.mainloop()
+
 
 
