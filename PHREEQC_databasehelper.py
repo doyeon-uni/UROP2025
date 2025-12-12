@@ -62,7 +62,7 @@ def find_equation(equation:str):
 
 # function to find input phases
 def find_phases(phases:str):
-    find_phases = phase[phase['phase_name'].str.contains(phases, regex = False)]
+    find_phases = phase[phase['phase_name'].str.contains(phases, case=False, regex = False)]
     return find_phases
 
 # main class
@@ -641,6 +641,7 @@ class App(tk.Tk):
 if __name__ == "__main__":
     root = App()
     root.mainloop()
+
 
 
 
