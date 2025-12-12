@@ -483,6 +483,7 @@ class FindEquationsPage(tk.Frame):
         for i, row in result_df.iterrows():
             self.tree.insert("", "end", values=list(row))  
     
+    
     # function for exporting the result into an excel file
     def export_to_excel(self):
         sp = self.entry_equation.get().strip()
@@ -490,7 +491,7 @@ class FindEquationsPage(tk.Frame):
         if sp =="":
             messagebox.showwarning("No data", "No data entered - please enter the desired species first")
         else:
-            result_df = find_species(sp)
+            result_df = find_equation(sp)
 
             file_path = tk.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
         if not file_path:
@@ -521,9 +522,14 @@ class FindSpeciesPage(tk.Frame):
         xscroll.pack(side='bottom',fill='x')
         self.tree.configure(yscrollcommand=yscroll.set, xscrollcommand=xscroll.set)
     # finding and showing sms in different database files
+
+    def find_species(self, species:str):
+        find_sp = sms[sms['species'].str.contains(species, regex=False)]
+        return find_sp
+
     def find_and_show_species(self):
         sp = self.entry_species.get().strip()
-        result_df = find_species(sp)
+        result_df = self.find_species(sp)
         
         self.tree.delete(*self.tree.get_children())
         self.tree["columns"] = list(result_df.columns)
@@ -542,7 +548,7 @@ class FindSpeciesPage(tk.Frame):
         if sp =="":
             messagebox.showwarning("No data", "No data entered - please enter the desired species first")
         else:
-            result_df = find_species(sp)
+            result_df = self.find_species(sp)
 
             file_path = tk.filedialog.asksaveasfilename( defaultextension=".xlsx", filetypes=[("Excel files", "*.xlsx"), ("All files", "*.*")])
         if not file_path:
