@@ -26,6 +26,16 @@ An environment configuration is provided in the project folder (`doyeon_env`).
 Please install and activate this environment before running the notebook or the Python script  
 (e.g. create a virtual/conda environment and install the required packages based on `doyeon_env`).
 
+#### How to install and activate the environment
+1. Download the github repository
+2. Download 'miniconda' or 'conda' from anaconda official website - make sure you click on 'Add conda to PATH' while installing the conda
+3. Open the terminal such as powershell or cmd (or if you have a virtual environment like VS Code, you can use it)
+4. Type in 'cd [your path to the downloaded repository folder' and press enter
+5. Type in 'dir' and make sure you see 'doyeon_env.yml' file in the list of files that pops up; If not, your path is incorrect - redo step 4
+6. Type in 'conda env create -f doyeon_env.yml'
+7. Type in 'conda activate doyeon_env'
+8. If activated, the text (doyeon_env) will pop up in front of your terminal commandline
+
 > **Note:** PHREEQC itself is **not** included in this repository.  
 > You need to have PHREEQC installed separately if you plan to use the modified databases in your own simulations.
 
@@ -34,6 +44,8 @@ Please install and activate this environment before running the notebook or the 
 ### 2. Jupyter notebook: `PHREEQCsearcher.ipynb`
 
 1. Open the notebook in Jupyter (e.g. VS Code) using the installed environment.
+   - if you are using not using a veritual environment, simply type in `jupyter notebook PHREEQCsearcher.ipynb`  
+  (or `jupyter lab PHREEQCsearcher.ipynb` if you prefer JupyterLab)
 2. Follow the instructions in each cell in order:
    - load one or more PHREEQC database files (`*.dat`),
    - select which species/phases to extract or search,
@@ -50,7 +62,8 @@ Each cell includes comments explaining what it does and which parameters you may
 ### 3. GUI program: `PHREEQC_databasehelper.py`
 
 1. Place all PHREEQC database files you want to analyze (files ending in `.dat`) into the `build_database` folder inside the project directory.
-2. Open `PHREEQC_databasehelper.py` in your preferred Python environment and run the script.
+2. Open `PHREEQC_databasehelper.py` in your preferred Python environment and run the script in your virtual environment.
+   - if you are not using a virtual environment, simply type in 'python PHREEQC_databsehelper.py' into your terminal after activating the environment
 3. A graphical user interface (GUI) window will appear. From this GUI, you can:
    - search for species, reactions, or phases by name or keyword;
    - export the search results to an Excel file;
