@@ -44,8 +44,8 @@ Please install and activate this environment before running the notebook or the 
 ### 2. Jupyter notebook: `PHREEQCsearcher.ipynb`
 
 1. Open the notebook in Jupyter (e.g. VS Code) using the installed environment.
-   - if you are using not using a veritual environment, simply type in `jupyter notebook PHREEQCsearcher.ipynb`  
-  (or `jupyter lab PHREEQCsearcher.ipynb` if you prefer JupyterLab)
+   - if you are using not using a veritual environment, simply type in 'conda install notebook', then `jupyter notebook PHREEQCsearcher.ipynb`  
+  (or 'conda install jupyterlab', then `jupyter lab PHREEQCsearcher.ipynb` if you prefer JupyterLab)
 2. Follow the instructions in each cell in order:
    - load one or more PHREEQC database files (`*.dat`),
    - select which species/phases to extract or search,
