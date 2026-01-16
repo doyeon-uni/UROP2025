@@ -69,6 +69,10 @@ Each cell includes comments explaining what it does and which parameters you may
    - export the search results to an Excel file;
    - edit existing entries or add new entries and save the modified file
      either by overwriting the original database or by saving it under a new name.
+     
+> **Note:** When searching for chemical reactions, it is recommended to search using only the reactants, as the program is designed to internally normalize product names to enable comparison and matching across different databases.
+> If you wish to search by the resulting species, you should add parentheses around the varying part of the chemical equation.
+> _e.g., ZnCitrate- should be searched as Zn(Citrate)-_
 
 The GUI is designed to guide you step-by-step through these operations using buttons and selection boxes,  
 so that you can explore PHREEQC databases without manually editing text files.
