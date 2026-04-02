@@ -618,6 +618,8 @@ class App(tk.Tk):
         super().__init__()
         self.title("PHREEQC Database Helper")
         self.geometry("1000x700")
+        self.grid_rowconfigure(0, weight=1)
+        self.grid_columnconfigure(0, weight=1)
 
         self.frames = {}
         for F in (Main, ScrollableFrame, EditDatabasePage, FindValuesPage, FindEquationsPage, FindSpeciesPage, FindPhasesPage):
