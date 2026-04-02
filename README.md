@@ -11,9 +11,9 @@ This repository provides:
 Together, these tools allow you to:
 
 - extract solution master species, solution species, and phase data from multiple PHREEQC database files,  
-  merge them into a single table, and export the result to an Excel file;
+  merge them into a single table, and export the result to an Excel file
 - search for selected species, reactions, or phases across different PHREEQC databases,  
-  compare their definitions side-by-side, and export the results to Excel;
+  compare their definitions side-by-side, and export the results to Excel
 - edit or add entries in an existing database file in order to update it or save it as a new database.
 
 ---
@@ -29,7 +29,7 @@ Please install and activate this environment before running the notebook or the 
 #### How to install and activate the environment
 1. Download the github repository
 2. Download 'miniconda' or 'conda' from anaconda official website - make sure you click on 'Add conda to PATH' while installing the conda
-3. Open the terminal such as powershell or cmd (or if you have a virtual environment like VS Code, you can use it)
+3. Open the terminal such as powershell or cmd (or if you have a virtual environment like VS Code, you can use the terminal in the environment)
 4. Type in 'cd [your path to the downloaded repository folder' and press enter
 5. Type in 'dir' and make sure you see 'doyeon_env.yml' file in the list of files that pops up; If not, your path is incorrect - redo step 4
 6. Type in 'conda env create -f doyeon_env.yml'
@@ -51,8 +51,8 @@ Please install and activate this environment before running the notebook or the 
    - select which species/phases to extract or search,
    - run the search and comparison routines.
 3. The notebook will generate:
-   - tables of solution master species, solution species, and phases;
-   - comparison tables across multiple databases;
+   - tables of solution master species, solution species, and phases
+   - comparison tables across multiple databases
    - Excel files (`*.xlsx`) containing the extracted or compared data.
 
 Each cell includes comments explaining what it does and which parameters you may want to change.
@@ -65,8 +65,8 @@ Each cell includes comments explaining what it does and which parameters you may
 2. Open `PHREEQC_databasehelper.py` in your preferred Python environment and run the script in your virtual environment.
    - if you are not using a virtual environment, simply type in 'python PHREEQC_databsehelper.py' into your terminal after activating the environment
 3. A graphical user interface (GUI) window will appear. From this GUI, you can:
-   - search for species, reactions, or phases by name or keyword;
-   - export the search results to an Excel file;
+   - search for species, reactions, or phases by name or keyword, either by exact match or partial match
+   - export the search results to an Excel file (You can specifically select the results you want to export. To select multiple rows, click Ctrl key       and click all the desired results. - if you don't, the program will ask you if you want to export all the data in the search result)
    - edit existing entries or add new entries and save the modified file
      either by overwriting the original database or by saving it under a new name.
      
